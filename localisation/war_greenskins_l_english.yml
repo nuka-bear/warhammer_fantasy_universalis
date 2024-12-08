@@ -1,0 +1,194 @@
+﻿l_english:
+
+
+
+
+#### Greenskin Missions
+
+gen_greenskin_please_nobility_title:0 "Make Da Bosses ‘Appy"
+gen_greenskin_please_nobility_desc:0 "Da Nobz need ta see we got da biggest ladz leadin’ da charge! Giv’ ‘em a Boss dey can cheer fer."
+
+gen_greenskin_impress_nobility_title:0 "Show Da Nobz Who'z Da Boss!"
+gen_greenskin_impress_nobility_desc:0 "We’z at war, an' da Nobz need a show! We’ll give ‘em a real fight wiv da best o’ da best leadin’ us!"
+
+gen_greenskin_bring_the_loot_title:0 "Bring Da Loot!"
+gen_greenskin_bring_the_loot_desc:0 "We’z gotta show da tribe da loot we got from da stompins! Dey’ll calm down fer a bit if dey see da shinies!"
+
+gen_greenskin_grow_title:0 "Grow Da Tribes!"
+gen_greenskin_grow_desc:0 "Time fer da tribes ta swell an’ get strong. We’z takin' da land an’ grabbin' new mobs!"
+
+gen_greenskin_claim_horde_title:0 "Claim Da Horde!"
+gen_greenskin_claim_horde_desc:0 "We’z big now! Time ta claim da right as da biggest horde an’ let da world know!"
+
+gen_greenskin_bridge_the_divide_title:0 "Bridge Da Badlands"
+gen_greenskin_bridge_the_divide_desc:0 "We’z takin’ all da landz from da Badlands ta da Mountains! Show ‘em we’z unstoppable!"
+
+gen_greenskin_spread_like_fire_title:0 "Spread Da Waaagh!"
+gen_greenskin_spread_like_fire_desc:0 "Da Waaagh! grows an' da boyz spread ta new places, stompin' all in dere way!"
+
+
+#### Gork Missions
+
+gen_gork_happy_priest_title:0 "Make Da Shamanz ‘Appy"
+gen_gork_happy_priest_desc:0 "Da Shamanz are yellin' fer a proper fire ritual! If dey ‘appy, we’z all fight stronger!"
+
+gen_gork_try_mork_title:0 "Try Da Sneaky Path"
+gen_gork_try_mork_desc:0 "Da boyz needs ta learn from Mork an’ start bein’ sneaky! No one’ll see us comin'!"
+
+gen_gork_try_gork_title:0 "Try Da Smashin’ Path"
+gen_gork_try_gork_desc:0 "Da boyz need ta smash fer Gork an' leave da enemy in bits! No onez gonna stop us wiv Gork on our side!"
+
+gen_greenskin_raid_20_title:0 "Raid Da Villages!"
+gen_greenskin_raid_20_desc:0 "Find da weak lands, stomp ‘em, an’ take all da shinies! Time fer dem ta fear da Waaagh!"
+
+gen_greenskin_raid_30_title:0 "Loot Da Towns!"
+gen_greenskin_raid_30_desc:0 "We’z goin' after da bigga lands, takin' wot’s rightfully ours! Da shinies are callin' ta us!"
+
+gen_greenskin_raid_40_title:0 "Stomp Da Tall Cities!"
+gen_greenskin_raid_40_desc:0 "Day think dey safe in da tall places! We’z gonna show 'em no walls can stop da boyz!"
+
+gen_greenskin_raid_50_title:0 "Take All Da Loot!"
+gen_greenskin_raid_50_desc:0 "No land is safe! We’z gonna smash dem an’ take dere bestest stuff! Waaagh!"
+
+
+gen_greenskin_ultimate_mission_title:0 "Da Biggest Waaagh!"
+gen_greenskin_ultimate_mission_desc:0 "Da whole place iz ours! We’z krumped all da gits who stood in our way, takin’ wot we want an’ growin’ stronger every day. Nuffink can stop us now—da whole world’s gonna feel da power o’ da Waaagh!"
+
+
+
+
+ ##### Greenskin & Gork modifiers
+
+greenskin_ultimate:0 "Da Waaagh! Supreme"
+desc_greenskin_ultimate:0 "We’z got da biggest boyz, da biggest mobs, an’ da most fighty Waaagh! da world’s ever seen! Fueled by da smashiest, bashiest battles, we’z da unstoppable Greenskins, always ready fer da next krumpin’!"
+
+
+greenskin_claimant:0 "Claim’d Da Lands"
+desc_greenskin_claimant:0 "Da boyz get ‘igh pride an’ power when dey claim more lands! Da mobs be growin' too, dey iz."
+
+greenskin_khan:0 "Greenskin Khan"
+desc_greenskin_khan:0 "Da Khan'z got power! Boyz is fightin' wit’ extra oomph an’ makes more frendz wiv other boyz!"
+
+greenskin_scourge:0 "Scourge o’ Da World"
+desc_greenskin_scourge:0 "Da enemy’s lands fall easier ta us! Dey can't 'old back da might o' da boyz!"
+
+greenskin_great_generals:0 "Da Biggest, Da Baddest"
+desc_greenskin_great_generals:0 "Da Bosses lead da charge, blowin’ up da field wiv fire an' shock! Dem boyz got da strength o’ Gork an' Mork!"
+
+greenskin_calmed_down:0 "Da Boyz Calmed... Fer Now"
+desc_greenskin_calmed_down:0 "Wiv da loot brought in, da boyz is a bit less killy... Fer now."
+
+greenskin_rituals:0 "Fire Rites o’ Da Greenskins"
+desc_greenskin_rituals:0 "Da boyz unleash da power o’ da fire spirits in battle, bringin' burny doom ta all dey see!"
+
+greenskin_tried_mork:0 "Tried Da Sneaky Path"
+desc_greenskin_tried_mork:0 "Da boyz done some sneakin’ fer Mork. Now, dey knowz how ta keep da enemy’s eyes off us!"
+
+greenskin_tried_gork:0 "Tried Da Smashin’ Path"
+desc_greenskin_tried_gork:0 "Da boyz got strong on da stomp of Gork! Dey punch harder now an' leave a trail o' bones behind!"
+
+
+ greenskin_tribe: "Greenskin Tribe"
+ greenskin_tribe_desc: "Greenskin tribes must war. They must fight and win battles in order to maintain their society. Each won battle increases fightiness by 100, while each lost battle increases fightiness by 25."
+ orc_fightiness_mechanic: "Fightiness"
+ orc_fightiness: "Fightiness"
+
+
+
+orc_fightiness_power:0 "Fightiness"
+monthly_orc_fightiness_power:0 "Monthly Fightiness"
+
+orc_fightiness_mechanic:0 "Greenskin Fightiness"
+ability_orc_fightiness_mechanic:0 "Greenskin Fightiness"
+
+
+
+
+
+
+ # Party for Mork Decision
+war_for_mork_title:0 "Party fer Mork!"
+war_for_mork_desc:0 "Oi, da big boss Mork is throwin' a right proper bash, and he needs a few more ladz ta keep da party goin'! We's gotta show 'im we're da meanest, greenest, and fightiest boyz around! So let’s kick off a roight good scrap, show some kunnin', and get cranked up for da Great Greenie!"
+
+# Party for Gork Decision
+war_for_gork_title:0 "Party fer Gork!"
+war_for_gork_desc:0 "Gork sez it's time fer a bit o' bashin'! He's got da boyz all riled up, lookin' fer a big ol' rumble – no mo' sittin' around, iz da time to smash, stomp, an' show 'em who da best fighta is! Let's go mess 'em up proper, cuz Gork sez so, ya gits!"
+
+### Party Modifier
+greenskin_mork_party:0 "Party fer Mork"
+desc_greenskin_mork_party:0 "Da boyz ‘av been sneakin’ an’ schemin’ ta show dere kunnin’, just like Mork! Every git’s got ‘imself a sneaky plan, and Mork’s got a big grin on ‘is face. We’z gettin’ closer to ‘is cunnin' wayz!"
+
+greenskin_gork_party:0 "Party fer Gork"
+desc_greenskin_gork_party:0 "Da ladz iz bashin’ an’ krumpin’, doin’ Gork proud! Da big lad luvs it when we’z stompin’ all dat we see, an’ every git knows dat Gork likes us bein' more brutal an' smashy!"
+
+
+
+
+# no_waaagh: "No WAAAGH?"
+# desc_no_waaagh: "On’y a weak boss don’t got no WAAAGH fer dis long. Start a WAAAGH, or we’ll bash sumthin’!"
+
+# waaagh: "WAAAGH!"
+# desc_waaagh_desc: "WAAAAAAAAAAAAAAAGH!"
+
+
+# Event event_no_waaagh.1
+event_no_waaagh.1.t:0 "Da Boyz Gettin' Krumpy"
+event_no_waaagh.1.d:0 "Da boyz is restless, got no enemy ta smash! No WAAAGH ta keep ‘em busy, so dey's bout ta start scrappin' wif each udda!"
+event_no_waaagh.1.option_1:0 "Find sumfink ta fight!"
+event_no_waaagh.1.option_2:0 "Fight dez guys!"
+event_no_waaagh.1.option_3:0 "Or dez guys?"
+event_no_waaagh.1.option_4:0 "Dez guys look easy!"
+event_no_waaagh.1.option_5:0 "Let 'em bash each uddah"
+
+# Event event_no_waaagh.2
+event_no_waaagh.2.t:0 "Let da WAAAGH Begin!"
+event_no_waaagh.2.d:0 "Finally, it’s time fer WAAAGH! Da warband's ready ta charge fer blood an’ glory!"
+event_no_waaagh.2.option_1:0 "WAAAAGH!"
+
+# Event event_no_waaagh.3
+event_no_waaagh.3.t:0 "Need a Scrap!"
+event_no_waaagh.3.d:0 "No proper WAAAGH makes da boyz grumpy an’ mad! We need a nearby target fer da bashin'!"
+event_no_waaagh.3.option_1:0 "Start a new scrap!"
+event_no_waaagh.3.option_2:0 "Let 'em fight amongst demselfs"
+
+# Event event_no_waaagh.4
+event_no_waaagh.4.t:0 "Da New Boyz"
+event_no_waaagh.4.d:0 "Da new ladz are floodin' in, lookin' fer a fight! But dey might be more trouble dan dey worth."
+event_no_waaagh.4.option_1:0 "Stick 'em in da mob"
+event_no_waaagh.4.option_2:0 "Smash 'em up!"
+
+# Event event_no_waaagh.5
+event_no_waaagh.5.t:0 "Boss Fightin’"
+event_no_waaagh.5.d:0 "Widout a WAAAGH, da Orcs is startin' ta eye da boss. Da Warbosses gettin’ restless—might be time ta show who's da toughest!"
+event_no_waaagh.5.option_1:0 "Challenge da Warboss"
+event_no_waaagh.5.option_2:0 "Let da big boss lead"
+
+### Namespace: event_waaagh
+
+# Event event_waaagh.1
+event_waaagh.1.t:0 "WAAAAAAAAAAAAAAAGH!"
+event_waaagh.1.d:0 "Da Orcs is gatherin’ fer a big WAAAGH, dey’s all fired up an’ ready fer a good krumpin'! Da greenskins is gettin' ready ta conquer!"
+event_waaagh.1.option_1:0 "Raise da banners! Start da WAAAGH!"
+
+# Event event_waaagh.2
+event_waaagh.2.t:0 "WAAAGH Wuz Weak"
+event_waaagh.2.d:0 "Even wif all da yellin', dis WAAAGH went an' fizzled out. Da boyz is tuckered out… fer now."
+event_waaagh.2.option_1:0 "Get ready fer da next WAAAGH"
+
+# Event event_waaagh.3
+event_waaagh.3.t:0 "Spread da WAAAGH!"
+event_waaagh.3.d:0 "Da boyz is all riled up, an' dey got dere eyes on new lands fer bashin'! Da greenskins roar fer more fightin'!"
+event_waaagh.3.option_1:0 "Find more fings ta krump!"
+event_waaagh.3.option_2:0 "Let’s not get too krumpy..."
+
+# Event event_waaagh.4
+event_waaagh.4.t:0 "Unruly Boyz"
+event_waaagh.4.d:0 "Da WAAAGH’s got all da ladz lined up fer fightin’. But dese new boyz is wild an' cause trouble."
+event_waaagh.4.option_1:0 "Encourage da madness"
+event_waaagh.4.option_2:0 "Take only da toughest"
+
+# Event event_waaagh.5
+event_waaagh.5.t:0 "New Big Boss"
+event_waaagh.5.d:0 "One brutal Orc’s risin' up, bashin' his way to da top! Dis warrior's gonna take da WAAAGH ta new heights of krumpin'!"
+event_waaagh.5.option_1:0 "Hail da new boss!"
+event_waaagh.5.option_2:0 "Learn from da krumpin’"

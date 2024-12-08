@@ -1,0 +1,83 @@
+﻿l_english:
+
+ dominion:0 "Dominion"
+ dominion_title:0 "Dominion"
+ dominion_title_plural:0 "Dominions"
+ dominion_is_our:0 "$NAME|Y$ is our Dominion."
+ dominion_long_desc:0 "A dominion is a semi-independent vassal capable of forming alliances and attacking other dominions. Dominions may claim the throne of their overlord, and all of their overlord's subjects, by forcing their overlord into a dominion. Dominions can become vassals if enough trust exists between them and their overlords."
+ dominion_no_overlord_dow: "You cannot declare war on your own Dominion."
+ dominion_overlord_title: "Overlord" 
+
+
+ tooltip_demote_dominion_alert_tooltip:0 "Demote a dominion into a vassal."
+
+ tooltip_offer_dominion_alert_tooltip:0 "A country will gladly become our dominion."
+ 
+
+  PEACE_po_force_dominion: "Force Dominion"
+  po_force_dominion_desc: "Make [From.GetName] a Dominion of [This.GetName]. Take all of ther subjects as dominions for yourself. If you are a dominion, you become independent. A dominion is a semi-independent vassal capable of forming alliances and attacking other dominions. Dominions may claim the throne of their overlord, and all of their overlord's subjects, by forcing their overlord into a dominion. Dominions can become vassals if enough trust exists between them and their overlords."
+  CB_ALLOWED_po_force_dominion: "Force Dominion"
+  PEACE_PO_dominion: "Force Dominion"
+
+
+
+  cb_war_racial_unification:0 "Unification"
+  cb_war_racial_unification_desc:0 "Unify your race or religion by forcing another nation into a dominion relationship."
+  force_dominion_wargoal_desc:0 "Take their capital."
+
+  cb_war_racial_raiding:0 "Racial Raiding"
+  cb_war_racial_raiding_desc:0 "We don't want their land, polluted as it is with their filthy kind. We only want their stuff!"
+  racial_raiding_war_goal_desc:0 "Defeat Them in Combat."
+
+
+  FORCE_DOMINION_WAR_NAME:0 "$ORDER$$FIRST$-$SECOND$ Unification War"
+  FORCE_DOMINION_WAR_NAME: "$ORDER$$FIRST$-$SECOND$ Unification War"
+
+
+  RACIAL_RAIDING_WAR_NAME:0 "$ORDER$$FIRST$-$SECOND$ Raiding War"
+  RACIAL_RAIDING_WAR_NAME: "$ORDER$$FIRST$-$SECOND$ Raiding War"
+
+
+
+  lets_raid_decision_title:0 "Raid Enemy Race"
+  lets_raid_decision_desc:0 "Raid sieged provinces that are not within our tech group. This will provide an immediate boon to the economy and damage the provinces, but make them more expensive to take in peace deals. Raided territories lose one of each development point, and you gain 25 gold for each development point lost."
+
+ lets_not_raid_decision_title:0 "Stop Raiding Enemy Race"
+  lets_not_raid_decision_desc:0 "Our raids have been an effective boon to our economy, and significantly weakened our enemies, but now is the time for conquest."
+
+lets_raid_modifier:0 "Raiding Enemy Races"
+lets_raid_modifier_desc:0 "We are raiding sieged provinces that are not within our tech group. This will provide an immediate boon to the economy and damage the provinces, but make them more expensive to take in peace deals. Raided territories lose one of each development point, and you gain 25 gold for each development point lost. Nearby forts protect provinces from raiding."
+
+
+
+
+  recently_raided:0 "Recently Raided"
+  recently_raided_desc:0 "Can't be raided again until it recovers, and more expensive to take in peace deals."
+
+demote_dominion_action: "Vassalize Dominion"
+demote_dominion_action_title: "Vassalize Dominion"
+demote_dominion_action_desc: "Demote a Dominion into a vassal, reducing its independence. Also reduces your trust with all other subjects."
+demote_dominion_action_tooltip: "Demote a Dominion into a vassal, reducing its independence. Also reduces your trust with all other subjects."
+
+
+offer_dominion_action: "Offer Dominion"
+offer_dominion_action_title: "Offer Dominion"
+offer_dominion_action_desc: "Offer to take a nation of your race under your wing as a semi-independent dominion. Dominions can take many independent actions, but are tied to their overlord. Dominions can be demoted into vassals over time."
+offer_dominion_action_tooltip: "Offer to take a nation of your race under your wing as a semi-independent dominion. Dominions can take many independent actions, but are tied to their overlord. Dominions can be demoted into vassals over time."
+
+
+OUR_PRESTIGE_OFFER:0 "Our prestige"
+THEIR_PRESTIGE_OFFER:0 "Thier prestige"
+IN_HRE_OFFER:0 "Part of the empire"
+NOT_SAME_TECH_GROUP:0 "Not in the same technology group"
+OFFER_DIF_CULTURE:0 "Different primary culture"
+OFFER_DIF_RELIGION:0 "Different religion"
+TOO_BIG_OFFER:0 "They are bigger than we are!"
+OFFER_DIF_TECH_GROUP:0 "They are in a different technology group!"
+
+
+
+dominion_events.1.t:0 "Nation Pride Boils Over"
+dominion_events.1.d:0 "People take to the streets, and the issue is openly discussed on our government.\n\nWhy are we subject to such a weak and divided nation? What claim have they over our lands? Why do we grovel before an inferior people?"
+dominion_events.1.option_1:0 "Subjects No Longer!"
+dominion_events.1.option_2:0 "Because they could knock our teeth in."

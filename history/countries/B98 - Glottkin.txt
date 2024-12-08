@@ -1,0 +1,18 @@
+government = native
+add_government_reform = hordes_of_chaos
+government_rank = 1
+primary_culture = avags
+religion = nurglite_religion
+technology_group = tech_chaos_warrior
+capital = 2546
+setup_vision = yes
+2499.1.1 = {
+	monarch = {
+		name = "The Glottkin"
+		adm = 2
+		dip = 1
+		mil = 6
+	}
+	add_ruler_personality = immortal_personality
+	set_ruler_flag = immortal_ruler
+}

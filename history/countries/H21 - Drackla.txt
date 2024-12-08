@@ -1,0 +1,20 @@
+government = monarchy
+add_government_reform = feudal_monarchy
+primary_culture = naggarondi
+religion = cytharai
+technology_group = tech_dark_elven
+capital = 2135
+government_rank = 1
+setup_vision = yes
+add_government_reform = autocracy_reform
+
+2502.1.1 = {
+	monarch = {
+		name = "Vukrach"
+		dynasty = "Wyrmscale"
+		birth_date = 2470.12.3
+		adm = 2
+		dip = 0
+		mil = 5
+	}
+}

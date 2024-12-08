@@ -1,0 +1,10 @@
+base_tax = 3
+base_manpower = 1
+base_production = 1
+trade_goods = livestock
+religion = gork_n_mork_religion
+culture = steppe_hobgoblin
+is_city = yes
+owner = B75
+controller = B75
+add_core = B75

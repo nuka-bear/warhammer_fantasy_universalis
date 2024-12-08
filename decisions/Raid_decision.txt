@@ -1,0 +1,41 @@
+
+
+
+country_decisions = {
+
+	lets_raid_decision = {
+		potential = { NOT = { has_country_modifier = lets_raid_modifier } }
+		allow = { always = yes }
+		color = { 125 0 0 }
+		effect = {
+			add_country_modifier = { 
+	    		name = lets_raid_modifier
+	    		duration = -1 
+			}
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+			 	factor = 0
+			 	is_subject = yes
+			}
+		}
+	}
+
+
+	lets_not_raid_decision = {
+		potential = { has_country_modifier = lets_raid_modifier }
+		allow = { always = yes }
+		color = { 125 0 0 }
+		effect = {
+			remove_country_modifier = lets_raid_modifier
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+			 	factor = 0
+			 	is_subject = no
+			}
+		}
+	}
+}

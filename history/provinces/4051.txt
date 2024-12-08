@@ -1,0 +1,9 @@
+
+base_tax = 3
+base_manpower = 3
+base_production = 4
+trade_goods = unknown
+religion = gork_n_mork_religion
+culture = steppe_hobgoblin
+
+tribal_owner = B52

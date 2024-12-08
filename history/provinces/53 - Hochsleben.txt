@@ -1,0 +1,12 @@
+owner = A06
+controller = A06
+hre = yes
+culture = averlander
+religion = myrmidia
+base_tax = 1
+base_production = 3
+base_manpower = 2
+trade_goods = fur
+capital = ""
+is_city = yes
+add_core = A06

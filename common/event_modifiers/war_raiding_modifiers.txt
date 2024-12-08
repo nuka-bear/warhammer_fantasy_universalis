@@ -1,0 +1,7 @@
+recently_raided = {
+	local_warscore_cost_modifier = 2.0
+}
+
+lets_raid_modifier = {
+	loot_amount = 0.50
+}

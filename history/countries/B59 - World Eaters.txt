@@ -1,0 +1,19 @@
+government = tribal
+add_government_reform = hordes_of_chaos
+government_rank = 1
+primary_culture = yusaks
+religion = khornate_religion
+technology_group = tech_chaos_warrior
+capital = 4924
+setup_vision = yes
+
+2502.1.1 = {
+	monarch = {
+		name = "Chagassore"
+		dynasty = "Worldeater"
+		birth_date = 2470.12.3
+		adm = 5
+		dip = 6
+		mil = 1
+	}
+}

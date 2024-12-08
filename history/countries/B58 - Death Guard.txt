@@ -1,0 +1,19 @@
+government = tribal
+add_government_reform = hordes_of_chaos
+government_rank = 1
+primary_culture = kul
+religion = nurglite_religion
+technology_group = tech_chaos_warrior
+capital = 4928
+setup_vision = yes
+
+2502.1.1 = {
+	monarch = {
+		name = "Brill"
+		dynasty = "Vomitdrinker"
+		birth_date = 2470.12.3
+		adm = 5
+		dip = 6
+		mil = 6
+	}
+}

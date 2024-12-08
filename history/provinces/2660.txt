@@ -1,0 +1,9 @@
+
+base_tax = 1
+base_manpower = 3
+base_production = 1
+trade_goods = slaves
+religion = chaos_undivided_religion
+tribal_owner = B88
+culture = tahmaks
+

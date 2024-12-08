@@ -1,0 +1,10 @@
+ 
+base_tax = 1
+base_manpower = 1
+base_production = 1
+trade_goods = slaves
+religion = tzeentchian_religion
+ 
+tribal_owner = B84
+culture = aghols
+ 

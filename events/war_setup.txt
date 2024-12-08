@@ -1,0 +1,514 @@
+namespace = warhammer_setup
+country_event = {
+	id = warhammer_setup.1
+	title = warhammer_setup.1.t
+	desc = warhammer_setup.1.d
+	picture = WAR_OF_THE_ROSES_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	hidden = yes
+	trigger = {
+		always = yes
+	}
+	option = {
+		name = warhammer_setup.1.a
+		every_country = {
+			limit = {
+				destruction_culture = yes
+			}
+			add_country_modifier = {
+				name = destruction_nation
+				duration = -1
+			}
+		}
+		every_country = {
+			limit = {
+				order_culture = yes
+			}
+			add_country_modifier = {
+				name = order_nation
+				duration = -1
+			}
+		}
+		every_country = {
+			limit = {
+				neutral_culture = yes
+			}
+			add_country_modifier = {
+				name = neutral_nation
+				duration = -1
+			}
+		}
+		every_country = {
+			limit = {
+				has_country_modifier = destruction_nation
+			}
+			set_country_flag = setup_destruction_opinion
+			every_country = {
+				limit = {
+					NOT = {
+						tag = PREV
+					}
+				}
+				# not the same nation
+				limit = {
+					NOT = {
+						has_country_modifier = destruction_nation
+						neutral_culture = yes
+					}
+				}
+				add_opinion = {
+					who = PREV
+					modifier = root_destruction
+				}
+				reverse_add_opinion = {
+					who = PREV
+					modifier = root_destruction
+				}
+			}
+		}
+	}
+}
+
+
+### Racial Administration and Military
+
+country_event = {
+	id = warhammer_setup.2
+	title = warhammer_setup.2.t
+	desc = warhammer_setup.2.d
+	picture = WAR_OF_THE_ROSES_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	hidden = yes
+	trigger = {
+		always = yes
+	}
+	option = {
+		name = warhammer_setup.2.a
+		#undead
+		every_country = {
+			limit = {
+				or = {
+					culture_group = strigany_group
+					culture_group = nehekharan_group
+					culture_group = nagashi_group
+					religion = vampiric
+					religion = nagash_worship
+				}
+			}
+			add_country_modifier = {
+				name = undead_administration
+				duration = -1
+			}
+			add_country_modifier = {
+				name = undead_military
+				duration = -1
+			}
+		}
+		#humans
+		every_country = {
+			limit = {
+				AND = {
+					or = {
+						culture_group = imperial_group
+						culture_group = estalian_group
+						culture_group = halfling_group
+						culture_group = bretonnian_group
+						culture_group = kislevite_group
+						culture_group = ungol_group
+						culture_group = tilean_group
+						culture_group = norse_group
+						culture_group = albionise_group
+						culture_group = arabyan_group
+						culture_group = hung_group
+						culture_group = kurgan_group
+						culture_group = darkland_human_group
+						culture_group = amazon_group
+						culture_group = cathayan_cg
+						culture_group = indish_cg
+						culture_group = nipponese_cg
+					}
+					NOT = { religion = vampiric }
+				}
+			}
+			add_country_modifier = {
+				name = human_military
+				duration = -1
+			}
+			add_country_modifier = {
+				name = human_administration
+				duration = -1
+			}
+		}
+		#orcs and gobbos
+		every_country = {
+			limit = {
+				or = {
+					culture_group = greenskins_group
+					culture_group = hobgoblin_group
+				}
+			}
+			add_country_modifier = {
+				name = orcish_administration
+				duration = -1
+			}
+			add_country_modifier = {
+				name = orcish_military
+				duration = -1
+			}
+		}
+		#elves
+		every_country = {
+			limit = {
+				or = {
+					culture_group = asrai_group
+					culture_group = asur_group
+					culture_group = druchii_group
+				}
+			}
+			add_country_modifier = {
+				name = elven_administration
+				duration = -1
+			}
+			add_country_modifier = {
+				name = elven_military
+				duration = -1
+			}
+		}
+		#dwarfs
+		every_country = {
+			limit = {
+				or = {
+					culture_group = dwarf_group
+					culture_group = chaos_dwarf_group
+				}
+			}
+			add_country_modifier = {
+				name = dwarven_military
+				duration = -1
+			}
+			add_country_modifier = {
+				name = dwarven_administration
+				duration = -1
+			}
+		}
+		#fimir
+		every_country = {
+			limit = {
+				culture_group = fimir_group
+			}
+			add_country_modifier = {
+				name = fimir_administration
+				duration = -1
+			}
+			add_country_modifier = {
+				name = fimir_military
+				duration = -1
+			}
+		}
+		#ogre
+		every_country = {
+			limit = {
+				culture_group = ogre_group
+			}
+			add_country_modifier = {
+				name = ogre_administration
+				duration = -1
+			}
+			add_country_modifier = {
+				name = ogre_military
+				duration = -1
+			}
+		}
+		#skaven
+		every_country = {
+			limit = {
+				culture_group = skaven_group
+			}
+			add_country_modifier = {
+				name = skaven_administration
+				duration = -1
+			}
+			add_country_modifier = {
+				name = skaven_military
+				duration = -1
+			}
+		}
+		#Lizardmen
+		every_country = {
+			limit = {
+				culture_group = lizardmen_group
+			}
+			add_country_modifier = {
+				name = lizardmen_administration
+				duration = -1
+			}
+			add_country_modifier = {
+				name = lizardmen_military
+				duration = -1
+			}
+
+		}
+		#Beastfolk
+		every_country = {
+			limit = {
+				OR = {
+					culture_group = beastmen_group
+					culture_group = snakefolk_cg
+					culture_group = eastern_beastfolk_cg
+				}
+			}
+			add_country_modifier = {
+				name = eastern_beastfolk_administration
+				duration = -1
+			}
+			add_country_modifier = {
+				name = eastern_beastfolk_military
+				duration = -1
+			}
+
+		}
+
+
+#### Climate modifiers
+
+		every_country = {
+			limit = {
+				technology_group = tech_lizardmen
+			}
+
+			every_owned_province = { 
+				limit = { has_climate = mild_winter }
+				add_permanent_province_modifier = { 
+				    name = lizardfolk_mild_winter
+				    duration = -1  
+				}
+			}
+
+			every_owned_province = { 
+				limit = { has_climate = normal_winter }
+				add_permanent_province_modifier = { 
+				    name = lizardfolk_normal_winter
+				    duration = -1  
+				}
+			}
+
+			every_owned_province = { 
+				limit = { has_climate = severe_winter }
+				add_permanent_province_modifier = { 
+				    name = lizardfolk_severe_winter
+				    duration = -1  
+				}
+			}
+
+			every_owned_province = { 
+				limit = { has_climate = arctic }
+				add_permanent_province_modifier = { 
+				    name = lizardfolk_arctic
+				    duration = -1  
+				}
+			}
+		}
+
+
+
+		every_country = {
+			limit = {
+				or = {
+					technology_group = tech_wood_elf
+				}
+			}
+
+			every_owned_province = { 
+				limit = { has_terrain = magical_forest_terrain }
+				add_permanent_province_modifier = { 
+				    name = wood_elves_magical_forest
+				    duration = -1  
+				}
+			}
+
+			every_owned_province = { 
+				limit = {
+					NOT = { has_terrain = magical_forest_terrain }
+					NOT = { has_terrain = forest }
+					NOT = { has_terrain = jungle }
+				}
+				add_permanent_province_modifier = { 
+				    name = wood_elves_non_forest
+				    duration = -1  
+				}
+			}
+		}
+
+
+		every_country = {
+			limit = {
+				or = {
+					technology_group = tech_dwarf
+					technology_group = tech_skaven
+				}
+			}
+
+			every_owned_province = { 
+				limit = {
+					OR = {
+						has_terrain = subterranean_city_terrain
+						has_terrain = subterranean_terrain
+						has_terrain = urban_terrain
+
+					}
+				}
+				add_permanent_province_modifier = { 
+				    name = undergrounder_underground
+				    duration = -1  
+				}
+			}
+
+			every_owned_province = { 
+				limit = {
+					NOT = { has_terrain = subterranean_city_terrain }
+					NOT = { has_terrain = subterranean_terrain }
+					NOT = { has_terrain = urban_terrain }
+				}
+				add_permanent_province_modifier = { 
+				    name = undergrounder_above_ground
+				    duration = -1  
+				}
+			}
+		}
+
+
+### Surface Dweller underground
+
+		every_country = {
+			limit = {
+				NOT = { technology_group = tech_dwarf }
+				NOT = { technology_group = tech_skaven }
+				NOT = { technology_group = tech_chaos_dwarfen }
+				NOT = { technology_group = tech_hobgoblin }
+				NOT = { technology_group = tech_orcish }
+				NOT = { technology_group = tech_eastern_greenskin }
+				NOT = { technology_group = tech_eastern_undead }
+				NOT = { technology_group = tech_vampire_count }
+				NOT = { technology_group = tech_tomb_kings }
+			}
+
+			every_owned_province = { 
+				limit = {
+					OR = {
+						has_terrain = subterranean_city_terrain
+						has_terrain = subterranean_terrain
+					}
+				}
+				add_permanent_province_modifier = { 
+				    name = surface_dweller_underground
+				    duration = -1  
+				}
+			}
+		}
+
+	}
+}
+
+#empire Pragmatic Succession + misc stuff
+country_event = {
+	id = warhammer_setup.3
+	title = warhammer_setup.3.t
+	desc = warhammer_setup.3.d
+	picture = WAR_OF_THE_ROSES_eventPicture
+	fire_only_once = yes
+	hidden = yes
+	is_triggered_only = yes
+	option = {
+		name = "warhammer_setup.3.a"
+		set_allow_female_emperor = yes
+		set_hre_religion_treaty = yes
+		1 = {
+			set_variable = {
+				which = emp_religious_tension_counting_variable
+				value = 0
+			}
+		}
+		every_country = {
+			limit = {
+				is_part_of_hre = yes
+			}
+			add_country_modifier = {
+				name = emp_religious_tension_1
+				duration = -1
+			}
+		}
+	}
+}
+
+#Winds of Magic System setup
+country_event = {
+	id = warhammer_setup.4
+	title = warhammer_setup.4.t
+	desc = warhammer_setup.4.d
+	picture = WAR_OF_THE_ROSES_eventPicture
+	#fire_only_once = yes
+	hidden = yes
+	is_triggered_only = yes
+	trigger = {
+		is_year = 2502
+		NOT = {
+			is_year = 2503
+		}
+		#NOT = { is_year = 1444 }
+		tag = A01
+		NOT = {
+			has_global_flag = init_winds_of_magic_system
+		}
+	}
+	option = {
+		name = "warhammer_setup.4.a"
+		set_global_flag = init_winds_of_magic_system
+		every_country = {
+			limit = {
+				has_government_mechanic = magic_mechanic
+				ai = yes
+			}
+			if = {
+				limit = {
+					has_government_mechanic = magic_mechanic
+				}
+				every_country = {
+					remove_winds_gain_effect = yes
+					add_winds_gain_effect = yes
+				}
+			}
+			else_if = {
+				limit = {
+					not = {
+						has_government_mechanic = magic_mechanic
+					}
+				}
+			}
+		}
+	}
+}
+
+#Winds of Magic notification for player
+country_event = {
+	id = warhammer_setup.5
+	title = warhammer_setup.5.t
+	desc = warhammer_setup.5.d
+	picture = WAR_OF_THE_ROSES_eventPicture
+	#fire_only_once = yes
+	is_triggered_only = yes
+	trigger = {
+		ai = no
+		is_year = 2502
+		NOT = {
+			is_year = 2503
+		}
+		#NOT = { is_year = 1444 }
+	}
+	option = {
+		name = "warhammer_setup.4.a"
+		remove_winds_gain_effect = yes
+		add_winds_gain_effect = yes
+	}
+}

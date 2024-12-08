@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = bretoni
+religion = lady_of_the_lake
+technology_group = tech_imperial
+capital = 632
+setup_vision = yes
+
+
+2502.1.1 = {
+	monarch = {
+		name = "Yves"
+		dynasty = "Sigibald"
+		birth_date = 2470.12.3
+		adm = 2
+		dip = 4
+		mil = 3
+	}
+}

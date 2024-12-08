@@ -1,0 +1,20 @@
+government = tribal
+add_government_reform = norsan_jarldom_reform
+primary_culture = skaeling
+religion = nurglite_religion
+technology_group = tech_norscan
+capital = 1752
+government_rank = 1
+setup_vision = yes
+
+
+2502.1.1 = {
+	monarch = {
+		name = "Hord"
+		dynasty = "Viletide"
+		birth_date = 2470.12.3
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+}

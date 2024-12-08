@@ -1,0 +1,10 @@
+ 
+base_tax = 1
+base_manpower = 1
+base_production = 3
+trade_goods = slaves
+religion = slaaneshi_religion
+ 
+tribal_owner = B91
+culture = yusaks
+ 

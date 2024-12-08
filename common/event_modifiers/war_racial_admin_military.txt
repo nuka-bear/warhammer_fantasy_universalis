@@ -1,0 +1,342 @@
+#Mostly the same as Anbennar slight differences here and there
+
+# Humans = generaleralist ie boring but good
+human_administration = {
+	all_power_cost = -0.025	
+}
+
+human_military = {
+	land_morale = 0.05 			#human spirit
+	naval_morale = 0.05
+}
+
+#Orcses Were Made for Fightin' an' Winnin'
+orcish_administration = {
+	#Positives
+	mil_advisor_cost = -0.90
+	war_taxes_cost_modifier = -1.0
+	country_military_power = 1
+	loot_amount = 10.0
+	prestige_from_land = 0.25
+	monarch_lifespan = 1.0
+
+	#Negatives
+	improve_relation_modifier = -0.25
+	spy_offence = -0.2
+	build_cost = 0.10
+	all_power_cost = 0.05
+
+}
+
+orcish_military = {
+	global_manpower_modifier = 0.2
+	army_tradition_from_battle = 0.5
+	land_morale = 0.10
+	land_forcelimit_modifier = 0.25
+
+	#Negatives
+	yearly_army_professionalism = -0.5
+	drill_gain_modifier = -0.5
+	artillery_power = -0.20	
+	defensiveness = -0.25
+	siege_ability = -0.1
+}
+
+dwarven_administration = {
+	#Positives
+	production_efficiency = 0.2
+	fort_maintenance_modifier = -0.10
+	inflation_action_cost = -0.25
+	election_cycle = 12	
+	monarch_lifespan = 4.0
+
+	#Negatives
+	global_colonial_growth = -30
+	global_tax_modifier = -0.05
+	trade_efficiency = -0.05
+	improve_relation_modifier = -0.25	
+	rival_change_cost = 2
+	stability_cost_modifier = 0.3
+
+}
+
+dwarven_military = {
+	#Positives
+	shock_damage_received = -0.125	
+	backrow_artillery_damage = 0.2	
+	siege_ability = 0.1	
+	artillery_levels_available_vs_fort = 1	
+	drill_decay_modifier = -0.15
+	defensiveness = 0.10
+	artillery_barrage_cost = -0.50
+
+	#Negatives
+	manpower_recovery_speed = -0.25
+	global_regiment_cost = 0.15	
+	movement_speed = -0.1
+	naval_morale = -0.2
+
+	picture = "racial_mil_dwarf"
+}
+
+elven_administration = {
+	#Positives
+	diplomatic_reputation = 1	
+	prestige_decay = -0.01
+	improve_relation_modifier = 0.25	
+	election_cycle = 20	
+	female_advisor_chance = 0.5
+	may_recruit_female_generals = yes
+	range = 2.0
+
+	#Negatives
+	technology_cost = 0.05	
+	global_institution_spread = -0.33	
+}
+
+elven_military = {
+	#Positives
+	discipline = 0.1
+	drill_decay_modifier = -0.25	
+	drill_gain_modifier = 1	
+	movement_speed = 0.15	
+	army_tradition_decay = -0.01
+	navy_tradition_decay = -0.02
+
+
+	#Negatives
+	war_exhaustion_cost = 0.5	
+	manpower_recovery_speed = -0.5	
+	reinforce_speed = -0.33
+	mercenary_discipline = -0.1
+	merc_maintenance_modifier = 0.3	
+	mercenary_manpower = -0.5	
+	sailors_recovery_speed = -0.25
+
+	can_recruit_cossacks = yes
+	allowed_cossack_fraction = 0.1
+}
+
+#welcome to the bonezone
+undead_administration = {
+	all_power_cost = -0.1
+	global_tax_modifier = 0.20
+	# Negatives
+	production_efficiency = -0.10
+	trade_efficiency = -0.10
+	build_cost = 0.15
+	development_cost = 0.15
+}
+
+
+undead_military = {
+	global_manpower_modifier = 1.0	
+	land_forcelimit_modifier = 1.0
+	global_supply_limit_modifier = 1.0
+	
+	land_attrition = -0.75
+	movement_speed = -0.20
+
+	infantry_cost = -0.5	
+	infantry_power = -0.5
+
+	land_morale = 0.1
+	discipline = -0.1
+	morale_damage = 0.05
+
+	reinforce_speed = 3	
+	reinforce_cost_modifier = -0.5
+	recover_army_morale_speed = 0.5	
+
+	hostile_attrition = 2
+
+	can_recruit_cossacks = yes
+	allowed_cossack_fraction = 0.1
+}
+
+#" The Fimir inhabit the wetlands of the Warhammer world, typically within crudely constructed fortifications resembling nothing more than a pile of rocks. 
+#From these locations, the Fimir raid the homes of humans, taking captives for daemonic sacrifices. The Fimir loathe sunlight, and are followed by wreaths of mist to shield them from it, 
+#and their homes are always shrouded by it."
+#playstyle: Big guys who can pick and choose their fights, attacking then retreating back into their lairs to strike at the worst moment
+#ie very defensive race
+fimir_administration = {
+	#Positives
+	fort_maintenance_modifier = -0.2
+	female_advisor_chance = 0.5
+	may_recruit_female_generals = yes
+	power_projection_from_insults = 1
+	global_tax_modifier = 0.15
+	global_prov_trade_power_modifier = 0.1	#
+	harsh_treatment_cost = -0.5	
+	
+	#Negatives
+	improve_relation_modifier = -0.3	
+	administrative_efficiency = -0.05
+	build_cost = 0.1
+	technology_cost = 0.1	
+	embracement_cost = 0.3
+	heir_chance = -0.5	
+}
+
+fimir_military = {
+	#Positives
+	recover_army_morale_speed = 0.5	
+	garrison_damage = 1	
+	fire_damage_received = -0.1	
+	reinforce_speed = 0.25
+	defensiveness = 0.15
+	shock_damage = 0.25
+	shock_damage_received = -0.2
+	morale_damage = 0.05
+	hostile_attrition = 1 
+	
+	#Negatives
+	global_regiment_recruit_speed = 1	
+	land_forcelimit_modifier = -0.3	
+	naval_forcelimit_modifier = -0.5
+	global_manpower_modifier = -0.25
+	infantry_cost = 0.1
+	global_ship_cost = 0.25
+	global_ship_recruit_speed = 0.5
+}
+
+ogre_administration = {
+	#Positives
+	caravan_power = 0.25
+	global_trade_power = 0.25
+    harsh_treatment_cost = -0.5					
+    global_spy_defence = 0.3			
+	
+    #Negatives
+    technology_cost = 0.05
+    production_efficiency = -0.25
+    improve_relation_modifier = -0.3			
+	spy_offence = -0.2						
+}
+
+ogre_military = {
+   #Positives
+    
+    land_attrition = -0.2				
+	infantry_power = 0.25
+	
+    #Negatives
+    
+	infantry_cost = 0.25
+	global_manpower_modifier = -0.25
+    global_regiment_recruit_speed = 0.5		
+    land_forcelimit_modifier = -0.25
+	
+}
+
+skaven_administration = {	
+	#Positives
+	technology_cost = -0.25
+	diplomats = 1
+	production_efficiency = 0.10	
+	spy_offence = 0.5
+	envoy_travel_time = -0.8
+	global_colonial_growth = 20
+	reduced_stab_impacts = yes
+	
+	#Negatives
+	diplomatic_reputation = -3
+	yearly_corruption = 0.05
+	prestige = -0.25
+	legitimacy = -0.25
+	republican_tradition = -0.1
+	monarch_lifespan = -0.5
+}
+
+skaven_military = {
+	#Positives	
+	global_manpower_modifier = 0.25
+	land_forcelimit_modifier = 0.25		
+	siege_ability = 0.15
+	land_maintenance_modifier = -0.15		
+	fire_damage = 0.15
+
+
+	#Negatives
+	land_morale = -0.10
+	naval_morale = -0.2
+
+	can_recruit_cossacks = yes
+	allowed_cossack_fraction = 0.1				
+}
+
+
+lizardmen_administration = {
+
+	#Positives
+	state_maintenance_modifier = -3.00	
+	global_unrest = -1		
+	harsh_treatment_cost = -0.25	
+	war_exhaustion = -0.03		
+	max_absolutism = 10
+	culture_conversion_cost = -0.50
+	
+	#Negatives
+	num_accepted_cultures = -2
+	global_trade_power = -0.25	
+	embracement_cost = 0.3		
+	dip_tech_cost_modifier = 0.1
+	relation_with_heathens = -50
+#	reverse_relation_with_heathen_religion = -50
+	tolerance_heathen = -3
+	
+}
+
+lizardmen_military = {
+
+	#Positives
+	discipline = 0.05		
+	morale_damage_received = -0.05	
+	drill_gain_modifier = 1
+	drill_decay_modifier = -0.25
+	
+	#Negatives
+	capped_by_forcelimit = yes
+	merc_maintenance_modifier = 0.5		
+	mercenary_manpower = -0.75	
+	reinforce_speed = -0.15
+	manpower_recovery_speed = -0.25
+	recover_army_morale_speed = -0.05
+
+	can_recruit_cossacks = yes
+	allowed_cossack_fraction = 0.1
+}
+
+
+eastern_beastfolk_administration = {	
+	#Positives
+	administrative_efficiency = 0.05	
+	idea_cost = -0.1			
+	num_accepted_cultures = 1	
+	vassal_income = 0.25			
+	vassal_forcelimit_bonus = 1		
+
+	#Negatives
+	technology_cost = 0.05			
+	global_institution_spread = -0.2		
+	yearly_corruption = 0.1		
+	global_ship_trade_power = -0.3	
+}
+
+eastern_beastfolk_military = {			
+	#Positives
+	shock_damage = 0.2			
+	infantry_power = 0.1		
+	movement_speed = 0.1			
+	shock_damage_received = -0.1		
+	prestige_from_land = 0.5		
+	army_tradition_from_battle = 0.5		
+
+	#Negatives
+	fire_damage = -0.2		
+	naval_morale = -0.1			
+	global_supply_limit_modifier = -0.3	
+
+}
+
+
