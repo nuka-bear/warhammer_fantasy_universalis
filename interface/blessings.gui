@@ -287,8 +287,8 @@ guiTypes = {
 
 		guiButtonType = {
 			name = "blessing_button"
-			position = { x=-5 y = -26}
-			quadTextureSprite ="GFX_coptic_blessing_select"
+			position = { x=-3 y = -24 }
+			quadTextureSprite ="GFX_old_ones_blessing_select"
 			#quadTextureSprite ="GFX_copts_blessing_select"	#old anbennar
 			buttonFont = "vic_18"
 		}
