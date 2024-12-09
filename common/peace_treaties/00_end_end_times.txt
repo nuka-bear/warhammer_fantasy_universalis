@@ -28,7 +28,7 @@ po_end_end_times = {
 	requires_is_allowed = no # If set to "yes", treaty will only be visible when explicitly allowed by casus belli. If not, it will be available but cost diplomatic power.
 	
 	is_visible = { # Defaults to equivalent of "always = yes"
-		NOT = { religion_group = ruinous_powers_denominations }
+#		NOT = { religion_group = ruinous_powers_denominations }
 		OR = {
 			FROM = { has_reform = everchosen_reform }
 			FROM = {
@@ -40,7 +40,7 @@ po_end_end_times = {
 		}
 	}
 	is_allowed = { # Defaults to equivalent of "always = yes"
-		NOT = { religion_group = ruinous_powers_denominations }
+#		NOT = { religion_group = ruinous_powers_denominations }
 		OR = {
 			FROM = { has_reform = everchosen_reform }
 			FROM = {
@@ -70,7 +70,7 @@ po_end_end_times = {
 			value = 100000
 		}
 		limit = { # if limit evaluates false, ai_weight will evaluate to 0 regardless
-			always = true
+			NOT = { religion_group = ruinous_powers_denominations }
 		}
 	}
 }

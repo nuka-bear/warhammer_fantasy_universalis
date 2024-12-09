@@ -6,5 +6,5 @@ trade_goods = livestock
 religion = gork_n_mork_religion
 controller = G35
 is_city = yes
-culture = common_orc
+culture = black_orc
 add_core = G35

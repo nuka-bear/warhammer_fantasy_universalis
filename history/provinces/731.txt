@@ -4,7 +4,7 @@
 owner = G22
 controller = G22
 add_core = G22
-culture = common_orc
+culture = black_orc
 religion = gork_n_mork_religion
  
 

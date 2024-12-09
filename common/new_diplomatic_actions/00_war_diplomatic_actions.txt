@@ -191,7 +191,8 @@ offer_dominion_action = {
     	    	who = ROOT 
          		value = 90
 			}
-		
+		}
+		FROM = {
 			trust = { 
 				who = ROOT
 				value = 90

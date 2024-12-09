@@ -12,7 +12,7 @@ country_decisions = {
 				religion = chaos_undivided_religion
 				is_reformation_center = yes
 			}
-			NOT = { religion_group = ruinous_powers_denominations }
+#			NOT = { religion_group = ruinous_powers_denominations }
 		}
 		
 		provinces_to_highlight = {
@@ -42,6 +42,11 @@ country_decisions = {
 		}
 		ai_will_do = {
 			factor = 10000
+			modifier = {
+				factor = 0
+				religion_group = ruinous_powers_denominations
+			}
+
 		}
 	}
 

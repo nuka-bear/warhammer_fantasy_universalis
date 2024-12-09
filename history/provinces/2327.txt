@@ -7,4 +7,4 @@ is_city = yes
 owner = G41
 controller = G41
 add_core = G41
-culture = common_orc
+culture = black_orc

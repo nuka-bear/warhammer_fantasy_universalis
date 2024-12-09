@@ -6,6 +6,6 @@ trade_goods = fish
 religion = gork_n_mork_religion
 controller = G28
 is_city = yes
-culture = common_orc
+culture = black_orc
 add_core = G28
 fort_15th = yes

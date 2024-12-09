@@ -145,10 +145,12 @@ gen_nehekhara_missions = {
 		required_missions = {
 		}
 		trigger = {
-			any_subject_country = {
-				NOT = {
-					technology_group = ROOT
+			calc_true_if = {
+				all_country = {
+					NOT = { has_country_modifier = undead_administration }
+					is_subject_of = ROOT
 				}
+				amount = 2
 			}
 		}
 		effect = {
