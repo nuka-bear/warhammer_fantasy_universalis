@@ -505,9 +505,10 @@ gen_cytharai_missions = {
 		trigger = {
 			451 = { owned_by = ROOT }
 		}
-		custom_tooltip = claim_all_ulthuan_tooltip
+		
 
 		effect = {
+			custom_tooltip = claim_all_ulthuan_tooltip
 			hidden_effect = {
 				every_province = {
 					limit = { superregion = ulthuan_superregion }

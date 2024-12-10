@@ -149,7 +149,7 @@ demote_dominion_action = {
     }
 
     ai_will_do = {
-        factor = 10000
+        always = yes
     }
 }
 
@@ -222,7 +222,7 @@ offer_dominion_action = {
 			name = IN_HRE_OFFER
 			limit = { FROM = { is_part_of_hre = yes } }
 			export_to_variable = { variable_name = ai_value value = 1 }
-			multiply_variable = { which = ai_value value = -100 }
+			multiply_variable = { which = ai_value value = -250 }
 		}
 
 		add_entry = {
@@ -435,7 +435,7 @@ offer_dominion_action = {
     }
 
     ai_will_do = {
-        factor = 10000
+        always = yes
     }
 }
 
@@ -782,7 +782,7 @@ war_diplo_convert_to_religion = {
     }
 
     ai_will_do = {
-        factor = 100
+        always = yes
     }
 }
 
@@ -807,6 +807,12 @@ implant_cult = {
 		has_spy_network_in = {
 			who = FROM
 			value = 75
+		}
+		OR = {
+			religion = vampiric
+			religion = nagash_worship
+    		religion_group = ruinous_powers_denominations
+    		FROM = { religion_group = root }
 		}
 	}
 
@@ -834,52 +840,24 @@ implant_cult = {
 
     ai_will_do = {
 
-    	factor = 1
-
-    	modifier = {
-    		factor = 0
-	 		has_opinion = {
-				who = FROM
-				value = -25
-			}
-		}
-
-		modifier = {
-    		factor = 10
-    		OR = {
-				religion = vampiric
-				religion = nagash_worship	
-    			religion_group = ruinous_powers_denominations
-    		}
-		}
-
-		modifier = {
-    		factor = 10
-	 		NOT = {
-	 			has_opinion = {
+    	OR = {
+ 
+    		religion = vampiric
+			religion = nagash_worship
+    		religion_group = ruinous_powers_denominations
+ 
+	    	NOT = {
+	    		has_opinion = {
 					who = FROM
 					value = -100
 				}
 			}
+			AND = {
+				religion = cytharai
+		 		FROM = { religion = cadai }
+			}
 		}
-
-		modifier = {
-    		factor = 0.5
-	 		NOT = { is_neighbor_of = FROM }
-		}
-
-		modifier = {
-    		factor = 10
-	 		is_part_of_hre = yes
-	 		FROM = { is_part_of_hre = yes }
-		}
-
-		modifier = {
-    		factor = 50
-	 		religion = cytharai
-	 		FROM = { religion = cadai }
-		}
-    }
+	}
 }
 
 

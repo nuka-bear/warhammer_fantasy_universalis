@@ -3,7 +3,7 @@ base_tax = 3
 base_manpower = 3
 base_production = 1
 trade_goods = slaves
-religion = chaos_undivided_religion
+religion = slaaneshi_religion
  tribal_owner = B33
 culture = aghols
  

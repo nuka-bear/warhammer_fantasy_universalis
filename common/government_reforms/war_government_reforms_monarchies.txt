@@ -22,8 +22,16 @@ bretonnian_dukedom_reform = {
 	}
 	modifiers = {
 		nobles_influence_modifier = 0.05
+		cavalry_power = 0.10
+	}
+
+	conditional = {
+		allow = {
+			has_dlc = "Lions of the North"
+		}
 		amount_of_hussars = 3
 	}
+
 	custom_attributes = {
 		buffed_strong_duchies = yes		#+5% Loyalty
 	}
@@ -49,8 +57,17 @@ bretonnian_royarch_reform = {
 	}
 	modifiers = {
 		nobles_influence_modifier = 0.05
+		cavalry_power = 0.10
+	}
+	
+	conditional = {
+		allow = {
+			has_dlc = "Lions of the North"
+		}
 		amount_of_hussars = 3
 	}
+
+
 	government_abilities = {
 		brt_authority_mechanic
 	}
@@ -87,9 +104,16 @@ united_bretonnia_reform = {
 		global_manpower_modifier = 0.20
 		yearly_absolutism = 0.5
 		global_autonomy = -0.05
-		amount_of_hussars = 9
+		cavalry_power = 0.10
 		governing_capacity = 350
 	}
+	conditional = {
+		allow = {
+			has_dlc = "Lions of the North"
+		}
+		amount_of_hussars = 9
+	}
+
 	government_abilities = {
 		brt_authority_mechanic
 	}
@@ -114,8 +138,16 @@ indep_bretonnian_dukedom_reform = {
 	}
 	modifiers = {
 		nobles_influence_modifier = 0.05
+		cavalry_power = 0.10
+		
+	}
+	conditional = {
+		allow = {
+			has_dlc = "Lions of the North"
+		}
 		amount_of_hussars = 1
 	}
+
 	custom_attributes = {
 		buffed_strong_duchies = yes		#+5% Loyalty
 	}
@@ -314,10 +346,6 @@ everchosen_reform = {
 
 		ae_impact = 3.5
 		improve_relation_modifier = -0.5
-
-		easy_war_chance_multiplier = 3
-		war_chance_multiplier = 2.5
-		wants_land = yes
 
 	}
 	

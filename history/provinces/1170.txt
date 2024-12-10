@@ -2,4 +2,4 @@ base_tax = 2
 base_manpower = 2
 base_production = 1
 trade_goods = unknown
-religion = chaos_undivided_religion
+religion = slaaneshi_religion

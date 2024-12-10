@@ -870,9 +870,9 @@ old_world_denominations = {
 			add_stability = -1
 
 			remove_country_modifier = destruction_nation
-			remove_country_modifier = order_nation
+			remove_country_modifier = neutral_nation
 			add_country_modifier = {
-				name = neutral_nation
+				name = order_nation
 				duration = -1
 			}
 

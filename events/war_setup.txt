@@ -14,7 +14,21 @@ country_event = {
 		name = warhammer_setup.1.a
 		every_country = {
 			limit = {
-				destruction_culture = yes
+				OR = {
+					religion = vampiric
+					religion = khornate_religion
+					religion = nurglite_religion
+					religion = tzeentchian_religion
+					religion = slaaneshi_religion
+					religion = norscan
+					religion = chaos_undivided_religion
+					religion = hashut
+					religion = gork_n_mork_religion
+					religion = spider_cult_religion
+					religion = cytharai
+					religion = nagash_worship
+					religion = horned_rat
+				}
 			}
 			add_country_modifier = {
 				name = destruction_nation
@@ -23,7 +37,22 @@ country_event = {
 		}
 		every_country = {
 			limit = {
-				order_culture = yes
+				OR = {
+					religion = lady_of_the_lake
+					religion = myrmidia
+					religion = ursun
+					religion = cult_of_sigmar
+					religion = cult_of_ulric_religion
+					religion = cult_of_taal_religion
+					religion = old_world_cults_religion
+					religion = asrai_cadai
+					religion = cadai
+					religion = ancestor_gods
+					religion = druidism
+					religion = the_one_faith
+					religion = old_ones
+					religion = yin_yang
+				}
 			}
 			add_country_modifier = {
 				name = order_nation
@@ -32,7 +61,13 @@ country_event = {
 		}
 		every_country = {
 			limit = {
-				neutral_culture = yes
+				OR = {
+					religion = the_great_maw_religion
+					religion = kislev_old_faith
+					religion = dragon_cult
+					religion = nehekharan_pantheon
+					religion = the_thousand_gods
+				}
 			}
 			add_country_modifier = {
 				name = neutral_nation

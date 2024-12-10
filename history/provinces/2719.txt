@@ -3,7 +3,7 @@ base_tax = 1
 base_manpower = 2
 base_production = 1
 trade_goods = livestock
-religion = chaos_undivided_religion
+religion = tzeentchian_religion
 tribal_owner = B77
 culture = manchu_warhammer
  

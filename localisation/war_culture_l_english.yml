@@ -86,7 +86,7 @@
  grey_dwarf:0 "Grey Dawi"
  black_dwarf:0 "Drazh Dawi"
  vault_dwarf:0 "Vault Dawi"
- vault_dwarf:0 "South Dawi"
+ south_dwarf:0 "South Dawi"
  common_dwarf:0 "Dawi"
  norse_dwarf:0 "Norse Dawi"
  
@@ -234,7 +234,6 @@
  
 
  roppsmenn:0 "Roppsmenn"
- south_dwarf:0 "South Dawi"
  mange_skaven:0 "Mange Skaven"
  
  

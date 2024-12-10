@@ -45,7 +45,7 @@ gen_asur_missions = {
 					}
 					add_favors = {
 					    who = ROOT
-					    value = 5
+					    amount = 5
 					}
 				}
 			}

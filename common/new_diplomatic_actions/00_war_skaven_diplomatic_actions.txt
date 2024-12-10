@@ -135,7 +135,7 @@ kidnap_grey_seer = {
     }
 
     ai_will_do = {
-        factor = 1000
+        always = yes
     }
 }
 
@@ -189,20 +189,14 @@ ravage_borders = {
     }
 
     ai_will_do = {
-    	factor = 1
-    	modifier = {
-    		factor = 0
-
-	    	OR = {
-		        FROM = { has_cardinal = yes }
-	 			has_opinion = {
-					who = FROM
-					value = 25
-				}
+		FROM = { has_cardinal = no }
+		NOT = {
+			has_opinion = {
+				who = FROM
+				value = -25
 			}
-		}       
-    }
-
+		}
+	}
 }
 
 

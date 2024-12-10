@@ -2,7 +2,7 @@ base_tax = 4
 base_manpower = 1
 base_production = 3
 trade_goods = unknown
-religion = chaos_undivided_religion
+religion = nurglite_religion
 
 culture = beastmen
 

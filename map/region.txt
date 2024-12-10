@@ -276,7 +276,8 @@ ulthuan_region = {
 		shadowmarch_area anlec_area isle_of_blight_area blackswale_area chrace_area laurefalas_area ceyl_area tamarha_area yvraine_area taeland_area
 		saroth_area drake_isles_area shifting_isles_area angerrial_area isle_of_flame_area cairnmoor_area thanon_area finu_area averlorn_march_area gaen_vale_area
 		everwood_area ithilin_area reaver_mark_area high_vale_area elyr_area arsuai_area caelandriol_area dragon_gate_area eagle_gate_area griffon_gate_area
-		phoenix_gate_area 
+		phoenix_gate_area
+		isle_of_the_dead_area
 	}
 }
 #

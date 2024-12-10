@@ -35,19 +35,25 @@ Everybody!
 ###### RANDOM TO DOS ######
 #############################
 
-	Elf trade network stuff: https://discord.com/channels/1314079561687896084/1314080313055510529/1315004963214200913
+	In the new_diplomatic_actions folder, the ai_will_do can't use factor
+		The AI decide to use dip action base on its attitude and the trigger should look like this (this example is taken randomly from the anbenar mod files) :
+		https://discord.com/channels/1314079561687896084/1316004261393465374/1316004261393465374
 
-	Elf culture stuff: https://discord.com/channels/1314079561687896084/1314080313055510529/1315008991826546873
+	Tileans have 2 university building missions
+
+	Master The Art of Boarding tells you to capture 20 ships while having the Boarding naval doctrine active, but there are no naval doctrines selectable even with a 60+ ship fleet
 
 	Remove restriction that you can't declare war while in the Karak 8 peak war.
 		Simplify this whole thing
 
-	Nagarythyn ideas: https://discord.com/channels/1314079561687896084/1315328160153337937/1315334789133500447
+	Bretonia reforms need grail knights back in, but hussar issue
 
-	The araby are evil but the norsca and hobgoblins are neutral? i really only know lore stuff from the little there is in twwh but it feels weird
-		Just change this to be based on religion. Araby should be nuetral
+	Make sure all the prov_names_adj are correct
 
-	I would suggest changing the nature of the grail quest, because every time i try it i just get another heir before they come back, meaning louen is effectively the only grail knight you're ever going to get, maybe change it into a series of events? 
+	Death of a Merchant Event gives a Jewish Advisor https://discord.com/channels/1314079561687896084/1314080343443243050/1315414472965226527
+
+	Grail Quest is all strange
+		I would suggest changing the nature of the grail quest, because every time i try it i just get another heir before they come back, meaning louen is effectively the only grail knight you're ever going to get, maybe change it into a series of events? 
 
 	The MTTH for age decadence events should be looked at. Currently for any country with a ruler over 350 (So basically all elves, undead, the cathayan dragons, and probably more) age decadence events trigger, on average, every 53 months. Given how strong the negative effects of these events are, and how comparatively rare the counterpart age revival events are, (On average once every 140 months) it should trigger much less frequently.
 
@@ -55,8 +61,6 @@ Everybody!
 			WHAT IF RACIAL RAIDING IS AN END OF WAR PEACE OFFERING? THAT TAKES 75 WARSCORE? But that would mean you actually need to win the war, which kind of defeats the purpose
 
 	Replace Comet event with Twin Tailed Comet Event
-
-	it doesn't seem like Winter Teeth Tunnel is working as intended, since I couldn't walk through it during my war with Karak Hirn.
 
 	Missions
 		Make all missions a little harder
@@ -81,8 +85,6 @@ Everybody!
 
 	Not sure if this is a bug but why do some nations only have one tradition? Example Stirland, Averland, and Talabecland
 
-	Enjoying orcs so far. There's a tribal confederation cb that does nothing and has no localization. Is that a placeholder?
-
 	The Nehekharan Pantheon should have a decision you can take every so often which allows you to switch which diety you follow, since your rulers are immortal you're locked in unless you choose to get them killed
 
 	War for karak8peaks - Clan Angrun U37 war names don't work - "No War Name"
@@ -91,19 +93,41 @@ Everybody!
 
 	I see quite a few formables don't have custom ideas (Bretonnia doesn't have any at all it seems), maybe disable the ideas changing event in in these cases?
 
-	Bretonnia has only one monument as well, I would have at least expected a vinyard or the like, or a port that buffs up their navy to reflect the lore of them having a really damn strong navy
-
 	Add some token trade modifier to all artifacts so that they can be seen on the trade map
 
 	Khorne Sacrifice events and decisions working?
 
 	Brett's Find Ducal allies is impossible once you have vassalized verybody - prolly change it to vassalize or ally
 
-	for example chaos wariors have an idea for better raising but they cant raise and if they form a horde they lose their unique reform
+	How to represent Beastmen?
 
-	Each of the elven Pantheon also gives a one time boost - manpower, money, or mana
+	there should probably be an option for a norscan nation to turn on the chaos gods and turn back to the old ways in a sort of challange mode since the chaosifying of norsca was a long gradual process
+
+	When the emperor (of the empire) dies they should get 10 imperial authority (like the base game) 
+		And for some reason you lose your bretonnian imperial vassals after some time and they become duke of some random bretonian king
+
+	Raid Neighbors Wood Elf Mission
+		Correct me if i'm wrong but this was implemented with all provinces scope and checked for neighbor provinces when it could be scoped directly to neighbors, couldn't it?
+
+	tried swapping to a theocracy as the albion fimir, it just took away two reform tiers and i stayed tribal, monarchy worked fine, havent tried republic
+
+	It doesn't seem to go through if you full annex a race, and I would also suggest promoting a culture should work in place of trust but that's just me.
 
 	Gell's suggested flavor decisions/events: https://discord.com/channels/@me/1315325752035770490/1315327269371379712
+
+	Remove Dev Cost from state edicts
+
+	When you form a subject over a brettonian duke and a new royarch gets crowned they become their subject again
+
+	Wood elf decision - if you control/subject all the magical forest (or a key province in each), then "Connect the World tree" to gain one of each development in all magical forests
+
+	is a dominion meant to cost twice as much AE as non-dominions?
+
+	Add Monuments
+		Also there should be various monuments in the various peaks of Vala Azril Ungol
+		Bretonnia has only one monument as well, I would have at least expected a vinyard or the like, or a port that buffs up their navy to reflect the lore of them having a really damn strong navy
+		Bordeleaux should have either a port or a vinyard, and Moussilion is think would probbaly deserve a monument as well
+		Shrine of Khaine as a monument?
 
 #############################
 ###### Confirm ######
@@ -123,13 +147,23 @@ Everybody!
 
 	Add Uzkulak Canal picture
 
-	Make Dominion Favors and trust separate line items to they are easier to see.
+	@Jeff.gomez That the empire has to deal with chaos cults would make sense lore wise. But i was playing as dwarves, so my population suddenly converting to worship orc gods made no sense at all. Maybe adding a restriction to the covert action to be only usable by chaos factions?
+		@Lockey - That's a super good call. I'll add in a restriction that you can only do it if you are a Chaos/Vampiric religion, or if the target is in the same religious group. Maybe make it visible always, but indicate that it can't be done for that reason.
+
+	Mix up Uncolonized Chaos province Religions
+
+
+
+	The araby are evil but the norsca and hobgoblins are neutral? i really only know lore stuff from the little there is in twwh but it feels weird
+		Just change this to be based on religion. Araby should be good
 
 #############################
 ######## MAP STUFF #######
 #############################
 
-	Prov 593, 762, 789, 134, 789 in wrong physical place. Tussenhof, Gellone, allenhof, Nuln
+	Provinces in wrong physical place: 19, 31, 110, 134, 217, 271, 316, 580, 581, 584, 569, 593, 593, 616, 634, 762, 789, 789,  Greyspire Fortress
+
+	Lore wise there should be a conection between  Sjoktraken to Kraka Ravnsvake via the underground tunnel called the Ungruvalk
 
 	Attempting to walk through Jaraiz from the irrana mountains state group to go to belemoz will make you path irregularly.
 
@@ -147,22 +181,43 @@ Everybody!
 ######## GFX STUFF #######
 #############################
 
-	Lizardfolk Holy Site gfx
-
-	Crop the great project images.
-
-	GFX for underground goods
-		No image for fungi trade goods.
-
 	GFX for gret seer council actions and holy see tab
+
+	GFX and gui around fightiness
+
+	Dragon Cults need their own GFX
 
 #############################
 ######## FUTURE STUFF #######
 #############################
 
+	Add Gromil as a resource
+
+	Trade
+		I think the Vaults Trade node doesnt make sense getting money from karaz - a - Karak lore wise. I think it makes more sense that it works as a starting node (a rich one but still one) that sends to Karaz - a - Karak as lore wise Karaz - a - Karak is the center of dwarven economics since before the fall of the karaz Ankor, especially without Karak Eight Peaks. 
+		Its a Underway junctions getting the northern holds and those in the vaults, in the same way Vala Azril Ungol was a great underway junction from the southern holds.
+		Elf trade network stuff: https://discord.com/channels/1314079561687896084/1314080313055510529/1315004963214200913
+		Trade Stuff: https://discord.com/channels/1314079561687896084/1315715354114129960/1315715354114129960
+
+	Nagarythyn ideas: https://discord.com/channels/1314079561687896084/1315328160153337937/1315334789133500447
+	Elf culture stuff: https://discord.com/channels/1314079561687896084/1314080313055510529/1315008991826546873
+
+	Zharr-Naggrund should be reformable by the chaos dwarves, and the chaos dwarves should have a formable if they control the dark lands and/or the karaz ankor
+	Dhrath-Zharr-Ankor as a potential name
+
+	I think the River Reik would enjoy being navigable, at least until Altdorf, After all after Mariengburg´s secession, the 1st Imperial Fleet is housed in its docks.
+
+	I was reviewing how we handle units and special ones in the mod. EU4 has about 15 special unit types, such as Hussars and Streltsy. Currently, we add Hussars as Grail Knights, which effectively takes up a special unit slot for Bretonnians.
+		The approach I suggest is to make Hussars into something more generic, like 'Magic Cavalry,' which can then be used across different nations. We could also create a special interface in the military tab to show the current Magic Cavalry unit type for each nation.
+
+		We can use the is_hussars_modifier = yes flag to apply different bonuses to various nations.
+		like if bret you get cav shock on your Magic Cavalry
+		and if wood elfs you get cavalry fire
+		and the  15 special unit types would be like  Magic Cavalry,  War Machine, Monster, Monster Cavalry, Expendable Infantry
+		Expendable Infantry would be cheap and we could add them for as skaven slaves,  goblins slaves
+
 	Many more cultures! Double the number of cultures in each culture group.
 
-	Also there should be various monuments in the various peaks of Vala Azril Ungol
 
 	In averlorn i´d change the Gaen Vale to farmland (or hills if you dont want to stack too much dev reduction on the province) and put the magical forest in the slopes of the Anuilli mountains
 
@@ -186,9 +241,27 @@ Everybody!
 
 	kislev cav is so dirt cheap lmao, I has it as same cost of infantry within the first 20 years
 
+	Throughout the game you get the option to steal legendary artifacts once you siege an enemy capital. These artifacts give your country permanent bonuses, althought the coolest part is the roleplay aspect of it imo.
+
+	When searching for them though, I wasn't able to see which ones I had stolen, or which bonuses they give me.
+
+	It would be cool to have a window where we could see these artifacts, what they do, and maybe a bit of they story: original from X, stolen by Y, taken by you as a final owner.
+
+	New Religion
+		Vim-toism or Simcism for Nippon: https://discord.com/channels/1314079561687896084/1315711285383659562/1315711285383659562
+
 	Add Nations
 		Boris Ursus' faction from the Chaos Wastes
 		Add Skarbrand and Exhiles of Khorne. And Ku’gath
+		A lost legion of curious geaser on Albion
+		Fimir Nation in the darklands: https://discord.com/channels/1314079561687896084/1315712050965647390/1315712050965647390
+
+	New Formables/Reformables
+		Kislev should be made a reformable nations for cultures of Gospodar and Ungol culture groups.
+		Nippon should be similarly reformable for cultures in Nipponese culture group.
+		Hobgoblin Khanate should be available to form for Hobgoblin countries.
+		Khuresh could be implemented as a formable for the Khureshi Snakefolk nations.
+		Osterlund for those who wish to restablish this country by conquering or subjugating Nordland, Osland and Middenland. Each of those countries should get option to form it.
 
 
 	Who is missing National Ideas:
@@ -203,14 +276,15 @@ Everybody!
 		Formables: Albion, Strygos
 		Currently unused: Coilfang (Khureshi Snakefolk), Bubonic Swarm (Chaos Warband), Songhai (Araby), G.R.C. (???)
 		The lost vikings on Albion also have norse ideas.
+		for example chaos wariors have an idea for better raising but they cant raise and if they form a horde they lose their unique reform
+
+	Custom National IDeas
+		High Elves: https://docs.google.com/document/d/1pftMIbuCa8hs0fwAmMAj8LHCRTG8qBnsSJO4j9_sBNE/edit?tab=t.8b65r0rku3z8
 
 	Every Age should have a big bad?
 		Orcs, Lizardfolk (old Ones), Nagash,
 
 	Decision to get Nagash as a ruler
-
-	Wood elf decision - if you control/subject all the magical forest (or a key province in each), then "Connect the World tree" to gain one of each development in all magical forests
-
 	Go on a quest decision - take your ruler to a randomly set province on a different continent, maybe fight a rebel army there.
 
 	New Lahmia & Vampire Coast , Barrow legions Ordo Draconics have placeholder Imperial ideas?
@@ -292,6 +366,8 @@ Everybody!
 	Add some islands? Increase colonial range?
 
 	Everchosen Cannot convert?
+
+
 
 	Finish Starting localization
 		# tech_hobgoblin
@@ -378,21 +454,24 @@ Empire
 		when really the two should be in a personal union
 	league wars between the Sigmarites and the cult of Ulric.
 	Witch hunter estate for empire?
+		Makes force converting people easier.
+	https://discord.com/channels/1314079561687896084/1315772780729335989/1315772780729335989
+	https://discord.com/channels/1314079561687896084/1315720376411754577/1315720376411754577
 
 
 Brettonia
-		Bordeleaux should have either a port or a vinyard, and Moussilion is think would probbaly deserve a monument as well
+	jeff you should add a debuff for the developpement for bretonia
 
 
 
 Vampires
 
 Wood Elves
+	knowing this. What do you think of a conection between the Oak of Ages and the Gaen Vale as in the world roots, perhaps unlockable through a mission (like you do with Eordand or Cyranvar in Anbennar)
+
 
 Dark Elf
 	Also, Naggarond shouldn't be single nation, no? Maybe it should be vassal swarm where vassal can declare war on other vassal, but must participate in their overlord wars? And until Malekith don't capture Phoenix Throne, he would be unable to integrate them. 
-	Shrine of Khaine as a monument?
-
 
 
 High Elves
