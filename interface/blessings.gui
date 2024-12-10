@@ -208,7 +208,7 @@ guiTypes = {
 			name = "title"
 			font = "vic_22s"
 			borderSize = {x = 0 y = 0}	
-			maxWidth = 164
+			maxWidth = 184
 			maxHeight = 20
 			text = ""	
 			format = left

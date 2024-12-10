@@ -15,6 +15,12 @@ spriteTypes = {
 		texturefile = "gfx//interface//holy_sites//itza.dds"
 		loadType = "INGAME"
 	}	
+	
+	spriteType = {
+		name = "GFX_holy_site_4261"
+		texturefile = "gfx//interface//holy_sites//koa.dds"
+		loadType = "INGAME"
+	}	
 
 	spriteType = {
 		name = "GFX_holy_site_2442"
