@@ -223,6 +223,14 @@ gen_nehekhara_ultimate_missions = {
 		}
 		position = 9
 		provinces_to_highlight = {
+
+			NOT = {
+				has_great_project = {
+					type = any
+					tier = 3
+				}
+			}
+
 			has_great_project = {
 				type = any
 				tier = 0
@@ -234,7 +242,7 @@ gen_nehekhara_ultimate_missions = {
 					type = any
 					tier = 3
 				}
-				value = 7
+				value = 11
 			}
 		}
 		effect = {
@@ -378,9 +386,12 @@ gen_nehekharan_pantheon_missions = {
 		}
 		provinces_to_highlight = {
 			OR = {
-				has_great_project = {
-					type = black_pyramid_of_nagash
-					tier = 0
+				AND = {
+					NOT = { owned_by = ROOT }
+					has_great_project = {
+						type = black_pyramid_of_nagash
+						tier = 0
+					}
 				}
 				AND = {
 					region = nehekhara_region

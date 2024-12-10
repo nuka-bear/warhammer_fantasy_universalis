@@ -137,7 +137,7 @@ gen_asur_missions = {
 		icon = mission_high_elf_culture
 		required_missions = { gen_asur_big_fleet }
 		provinces_to_highlight = {
-				province_has_center_of_trade_of_level = 1
+			province_has_center_of_trade_of_level = 1
 		}
 		trigger = {
 			num_of_owned_provinces_with = {

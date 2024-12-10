@@ -277,6 +277,7 @@ gen_norsca_gods_missions = {
 		position = 5
 		provinces_to_highlight = {
 			development = 20
+			NOT = { owned_by = ROOT }
 		}
 		trigger = {
 			any_province = {
@@ -434,6 +435,7 @@ gen_norsca_gods_missions = {
 		}
 		provinces_to_highlight = {
 			development = 30
+			NOT = { owned_by = ROOT }
 		}
 		trigger = {
 			any_province = {
@@ -591,6 +593,7 @@ gen_norsca_gods_missions = {
 		}
 		provinces_to_highlight = {
 			development = 40
+			NOT = { owned_by = ROOT }
 		}
 		trigger = {
 			any_province = {
@@ -748,6 +751,7 @@ gen_norsca_gods_missions = {
 		}
 		provinces_to_highlight = {
 			development = 50
+			NOT = { owned_by = ROOT }
 		}
 		trigger = {
 			any_province = {

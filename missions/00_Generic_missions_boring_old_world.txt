@@ -100,9 +100,13 @@ gen_sow_missions = {
 	gen_sow_places_of_innovation = { 
 		icon = mission_sow_culture
 		required_missions = { gen_sow_places_of_law } 
+		provinces_to_highlight = {
+			owned_by = ROOT
+			NOT = { development = 8 }
+		}
 		trigger = {
 			all_owned_province = {
-				has_building = university
+				development = 8
 			}
 		}
 

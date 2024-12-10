@@ -84,6 +84,7 @@ gen_araby_missions = {
 			NOT = {
 				region = araby_region
 			}
+			NOT = { owned_by = ROOT }
 			is_sea = no
 		}
 		trigger = {

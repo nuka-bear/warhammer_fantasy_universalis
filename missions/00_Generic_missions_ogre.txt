@@ -84,6 +84,7 @@ gen_ogre_missions = {
 				province_id = 2814
 				province_id = 2808
 			}
+			NOT = { owned_by = ROOT }
 		}
 		trigger = {
 			owns = 4272
@@ -111,6 +112,7 @@ gen_ogre_missions = {
 				province_id = 2802
 				province_id = 2796
 			}
+			NOT = { owned_by = ROOT }
 		}
 		trigger = {
 			owns = 2818
@@ -139,6 +141,7 @@ gen_ogre_missions = {
 				province_id = 2751
 				province_id = 2752
 			}
+			NOT = { owned_by = ROOT }
 		}
 		trigger = {
 			owns = 2753

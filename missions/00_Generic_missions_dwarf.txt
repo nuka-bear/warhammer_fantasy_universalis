@@ -70,6 +70,7 @@ gen_dwarf_missions = {
 				trade_goods = copper 
 				trade_goods = iron
 			}
+			NOT = { owned_by = ROOT }
 		}
 		trigger = {
 			copper = 1
@@ -106,6 +107,7 @@ gen_dwarf_missions = {
 				trade_goods = beer
 				trade_goods = gems
 			}
+			NOT = { owned_by = ROOT }
 		}
 		trigger = {
 			gold = 1			
@@ -214,6 +216,7 @@ gen_dwarf_ultimate_missions = {
 				trade_goods = iron
 				trade_goods = gems
 			}
+			NOT = { owned_by = ROOT }
 		}
 		trigger = {
 

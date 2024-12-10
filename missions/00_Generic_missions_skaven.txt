@@ -316,6 +316,7 @@ gen_horned_rat_missions = {
 		required_missions = { }
 		provinces_to_highlight = {
 			development = 30
+			NOT = { owned_by = ROOT }
 		}
 		trigger = {
 			any_province = {
@@ -471,6 +472,7 @@ gen_horned_rat_missions = {
 		required_missions = { gen_skaven_raid_30 }
 		provinces_to_highlight = {
 			development = 40
+			NOT = { owned_by = ROOT }
 		}
 		trigger = {
 			any_province = {
@@ -626,6 +628,7 @@ gen_horned_rat_missions = {
 		required_missions = { gen_skaven_raid_40 }
 		provinces_to_highlight = {
 			development = 50
+			NOT = { owned_by = ROOT }
 		}
 		trigger = {
 			any_province = {

@@ -359,7 +359,7 @@ gen_asrai_cadai_missions = {
 		required_missions = { gen_asrai_cadai_prosperity }
 		provinces_to_highlight = {
 			owned_by = ROOT
-			NOT = { development = 7 }
+			NOT = { development = 9 }
 		}
 		trigger = {
 			all_owned_province = {

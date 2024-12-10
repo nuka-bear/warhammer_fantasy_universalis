@@ -7140,33 +7140,37 @@ country_event = {
 			discount=yes
 		}
 	}
-	option = {
-		name = "personality_options.736.b" #I know just who should recieve our patronage.
-		ai_chance = {
-			factor = 100
-		}
-		highlight = yes
-		trigger = {
-			OR = {
-				ruler_has_personality_ancestor = { key = free_thinker }
-				ruler_has_personality = well_advised_personality
-			}
-			hidden_trigger = {
-				NOT = {
-					has_country_flag = philosopher_flag
-				}
-				monthly_income = 16
-			}
-		}
-		add_prestige = 15
-		add_meritocracy_effect = yes
-		generate_advisor_of_type_and_semi_random_religion_effect = {
-			advisor_type=philosopher
-			advisor_type_if_not_state=philosopher
-			scaled_skill = yes
-			discount=yes
-		}
-	}
+
+
+# Warhammer - Can generate odd religions
+#	option = {
+#		name = "personality_options.736.b" #I know just who should recieve our patronage.
+#		ai_chance = {
+#			factor = 100
+#		}
+#		highlight = yes
+#		trigger = {
+#			OR = {
+#				ruler_has_personality_ancestor = { key = free_thinker }
+#				ruler_has_personality = well_advised_personality
+#			}
+#			hidden_trigger = {
+#				NOT = {
+#					has_country_flag = philosopher_flag
+#				}
+#				monthly_income = 16
+#			}
+#		}
+#		add_prestige = 15
+#		add_meritocracy_effect = yes
+#		generate_advisor_of_type_and_semi_random_religion_effect = {
+#			advisor_type=philosopher
+#			advisor_type_if_not_state=philosopher
+#			scaled_skill = yes
+#			discount=yes
+#		}
+#	}
+
 	after = {
 		clear_saved_name = trader_name
 		erase_advisor_flags_effect = yes
