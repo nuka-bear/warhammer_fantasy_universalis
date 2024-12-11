@@ -839,9 +839,12 @@ bretonnian_2_missions = {
 		trigger = {
 			custom_trigger_tooltip = {
 				tooltip = bretonnia_find_allies_mission_tt
-				num_of_allies = 2
 				calc_true_if = {
-					all_ally = {
+					all_country = {
+						OR = {
+							is_subject_of = ROOT
+							alliance_with = ROOT
+						}
 						is_subject_of_type = bretonnian_dukedom_subject
 						has_opinion = {
 							who = ROOT

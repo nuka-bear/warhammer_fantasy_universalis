@@ -36,7 +36,7 @@ gen_norsca_missions = {
 
 	gen_norsca_bring_the_loot = {
 		icon = mission_norscan_culture
-		required_missions = { gen_norsca_impress_nobility }
+		required_missions = { gen_norsca_please_nobility }
 		trigger = {
 			num_of_war_reparations = 3
 		}

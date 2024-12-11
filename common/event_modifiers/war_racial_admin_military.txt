@@ -16,10 +16,10 @@ human_administration = {
 human_military = {
 
 # Humans wield powerful gunpowder weapons
-	fire_damage = 0.1
+	fire_damage = 0.1 #S
 
-# But are less likely to fight to the death than most other races
-	land_morale = -0.05
+# But they die more easily than other races
+	fire_damage_received = 0.1 #S
 }
 
 #Orcses Were Made for Fightin' an' Winnin'
@@ -94,7 +94,6 @@ dwarven_military = {
 
 elven_administration = {
 
-
 ### Elven courts are prestigous and focused on inner development, but slow to accept new ideas.
 	#Positives
 	diplomatic_reputation = 1 #C
@@ -133,7 +132,6 @@ elven_military = {
 
 }
 
-#welcome to the bonezone
 undead_administration = {
 
 ### Undead magic bouys all aspects of their nations, and they ruthlessly seize taxes from their citizens. But they struggle to develop factories or trade networks, or to develop their own lands.
@@ -181,106 +179,125 @@ undead_military = {
 #playstyle: Big guys who can pick and choose their fights, attacking then retreating back into their lairs to strike at the worst moment
 #ie very defensive race
 fimir_administration = {
+
+### Fimir nations are stable with a strong sense of unity, but they have difficulty working with others, embracing new ideas, and building complex structures
+
 	#Positives
-	fort_maintenance_modifier = -0.2
+	global_tax_modifier = 0.2 #B+++
+	global_unrest = -2 #B
+	loot_amount = 10.0 #D++++
+	prestige_from_land = 0.25 #D+++
+	all_estate_loyalty_equilibrium = 0.1 #C
+	same_culture_advisor_cost = -0.15 #A
+
 	female_advisor_chance = 0.5
 	may_recruit_female_generals = yes
-	power_projection_from_insults = 1
-	global_tax_modifier = 0.15
-	global_prov_trade_power_modifier = 0.1	#
-	harsh_treatment_cost = -0.5	
 	
 	#Negatives
-	improve_relation_modifier = -0.3	
-	administrative_efficiency = -0.05
-	build_cost = 0.1
-	technology_cost = 0.1	
-	embracement_cost = 0.3
-	heir_chance = -0.5	
+	improve_relation_modifier = -0.2 #A
+	build_cost = 0.1 #A
+	technology_cost = 0.1 #S+
+
 }
 
 fimir_military = {
-	#Positives
-	recover_army_morale_speed = 0.5	
-	garrison_damage = 1	
-	fire_damage_received = -0.1	
-	reinforce_speed = 0.25
-	defensiveness = 0.15
-	shock_damage = 0.25
-	shock_damage_received = -0.2
-	morale_damage = 0.05
-	hostile_attrition = 1 
+
+### Fimir are massive and powerful, and their magical fog increases attrition. But they are expensive to feed, and slow to breed.
+   #Positives
+    
+    land_attrition = -0.3 #B+				
+	infantry_power = 0.25 #A+
+	shock_damage = 0.1 #A
+	shock_damage_received = -0.1 #B
+	hostile_attrition = 1 #B
 	
-	#Negatives
-	global_regiment_recruit_speed = 1	
-	land_forcelimit_modifier = -0.3	
-	naval_forcelimit_modifier = -0.5
-	global_manpower_modifier = -0.25
-	infantry_cost = 0.1
-	global_ship_cost = 0.25
-	global_ship_recruit_speed = 0.5
+    #Negatives
+    
+	infantry_cost = 0.25 #B+
+	global_manpower_modifier = -0.25 #B+
+    global_regiment_recruit_speed = 0.5	#E++
+    land_forcelimit_modifier = -0.25 #A+
+    ship_durability = -0.05 #S
+
 }
 
 ogre_administration = {
+
+# Ogres are eager to work with other cultures and religions to do what they do best - coerce and bleed caravans dry. However, they cannot build complex factories and are untrusted by the other races.
 	#Positives
-	caravan_power = 0.25
-	global_trade_power = 0.25
-    harsh_treatment_cost = -0.5					
-    global_spy_defence = 0.3			
+	global_trade_power = 0.25 #B+
+	trade_steering = 0.2 #B
+	merchants = 1 #C
+	tolerance_heathen = 2 #B
+	num_accepted_cultures = 2 #C
 	
     #Negatives
-    technology_cost = 0.05
-    production_efficiency = -0.25
-    improve_relation_modifier = -0.3			
-	spy_offence = -0.2						
+    production_efficiency = -0.25 #A+
+    improve_relation_modifier = -0.2 #A			
+	spy_offence = -0.2 #E						
 }
 
 ogre_military = {
+  ### Ogres are massive and powerful, but they are expensive to feed, and slow to breed.
+
    #Positives
     
-    land_attrition = -0.2				
-	infantry_power = 0.25
+    land_attrition = -0.3 #B+				
+	infantry_power = 0.25 #A+
+	shock_damage = 0.1 #A
+	shock_damage_received = -0.1 #B
 	
     #Negatives
     
-	infantry_cost = 0.25
-	global_manpower_modifier = -0.25
-    global_regiment_recruit_speed = 0.5		
-    land_forcelimit_modifier = -0.25
+	infantry_cost = 0.25 #B+
+	global_manpower_modifier = -0.25 #B+
+    global_regiment_recruit_speed = 0.5	#E++
+    land_forcelimit_modifier = -0.25 #A+
 	
 }
 
 skaven_administration = {	
+### Skaven are innovative and focused on espionage. But they are untrustworthy, hated, and extremely unstable.
 	#Positives
-	technology_cost = -0.25
-	diplomats = 1
-	production_efficiency = 0.10	
-	spy_offence = 0.5
-	envoy_travel_time = -0.8
-	global_colonial_growth = 20
-	reduced_stab_impacts = yes
+	technology_cost = -0.10 #S+
+	diplomats = 1 #C
+	production_efficiency = 0.10 #A
+	spy_offence = 0.5 #E+
+	envoy_travel_time = -0.8 #### Necessary for sending diplomats in and out of the underground
+	global_colonial_growth = 20 #B
+	reduced_stab_impacts = yes #S?
+
+	monarch_lifespan = -0.5
 	
 	#Negatives
-	diplomatic_reputation = -3
-	yearly_corruption = 0.05
-	prestige = -0.25
-	legitimacy = -0.25
-	republican_tradition = -0.1
-	monarch_lifespan = -0.5
+	diplomatic_reputation = -3 #C+++
+	yearly_corruption = 0.05 #B+
+	prestige = -0.5 #C-
+	legitimacy = -0.25 #E-
+	republican_tradition = -0.1 #A-
+	global_unrest = 2 #B
+	all_estate_loyalty_equilibrium = -0.05 #C
 }
 
 skaven_military = {
-	#Positives	
-	global_manpower_modifier = 0.25
-	land_forcelimit_modifier = 0.25		
-	siege_ability = 0.15
-	land_maintenance_modifier = -0.15		
-	fire_damage = 0.15
+### Skaven are numerous and cheap, but cowardly and undisciplined. They wield powerful weapons and can quickly break through seiges, but are weak to shocks.
 
+	#Positives
+	fire_damage = 0.10 #S
+	siege_ability = 0.1 #A
+	global_manpower_modifier = 0.25 #A+
+	manpower_recovery_speed = 0.25 #A+
+	land_forcelimit_modifier = 0.25	#A+
+	infantry_cost = -0.25 #B+
+	hostile_attrition = 1 #B
+	loot_amount = 10.0 #C+++
+	global_supply_limit_modifier = 0.5 #C+++
 
 	#Negatives
-	land_morale = -0.10
-	naval_morale = -0.2
+	land_morale = -0.10 #S
+	discipline = -0.05 #S
+	infantry_power = -0.25 #A+
+	shock_damage_received = 0.1 #B
 
 	can_recruit_cossacks = yes
 	allowed_cossack_fraction = 0.1				
@@ -289,74 +306,76 @@ skaven_military = {
 
 lizardmen_administration = {
 
+### Lizardmen are extremely insular, tolerant of their own kind but not others. They are slow to embrace technological change, but exert an iron fist over their citizens, and often use magic to complete their works.
+
 	#Positives
-	state_maintenance_modifier = -3.00	
-	global_unrest = -1		
-	harsh_treatment_cost = -0.25	
-	war_exhaustion = -0.03		
-	max_absolutism = 10
-	culture_conversion_cost = -0.50
+	all_power_cost = -0.01
+	state_maintenance_modifier = -3.00 #D++++
+	tolerance_own = 2 #B	
+	war_exhaustion = -0.03 #B
+	max_absolutism = 10 #D
+	culture_conversion_cost = -0.50 #B+
+
+	monarch_lifespan = 1.0
 	
 	#Negatives
-	num_accepted_cultures = -2
-	global_trade_power = -0.25	
-	embracement_cost = 0.3		
-	dip_tech_cost_modifier = 0.1
-	relation_with_heathens = -50
-#	reverse_relation_with_heathen_religion = -50
-	tolerance_heathen = -3
+	technology_cost = 0.05 #S
+	global_trade_power = -0.2 #B
+	tolerance_heathen = -4 #B+ or NA
+	num_accepted_cultures = -2 #C
+	relation_with_heathens = -50 #NA
 	
 }
 
 lizardmen_military = {
 
+## Lizardmen are fanatical, but their zealotry can make them undisciplined. They are also slow to breed.
+
 	#Positives
-	discipline = 0.05		
-	morale_damage_received = -0.05	
-	drill_gain_modifier = 1
-	drill_decay_modifier = -0.25
+	land_morale = 0.1 #S
+	morale_damage_received = -0.1 #S
 	
 	#Negatives
-	capped_by_forcelimit = yes
-	merc_maintenance_modifier = 0.5		
-	mercenary_manpower = -0.75	
-	reinforce_speed = -0.15
-	manpower_recovery_speed = -0.25
-	recover_army_morale_speed = -0.05
+	discipline = -0.1 #S
+	fire_damage_received = -0.1 #S
+	reinforce_speed = -0.15 #B
+	manpower_recovery_speed = -0.25 #A+
 
 	can_recruit_cossacks = yes
 	allowed_cossack_fraction = 0.1
+
 }
 
 
 eastern_beastfolk_administration = {	
+	
+### Beastfolk are fractured, rebellious, distrusted, and unwilling to build structures or embrace new ideas. However, they are extremely flexible in their governance, and can devote sudden bursts of energy to any task that comes their way.
+
 	#Positives
-	administrative_efficiency = 0.05	
-	idea_cost = -0.1			
-	num_accepted_cultures = 1	
-	vassal_income = 0.25			
-	vassal_forcelimit_bonus = 1		
+	all_power_cost = -0.1
+	loot_amount = 10.0 #D++++
+	prestige_from_land = 0.25 #D+++
 
 	#Negatives
-	technology_cost = 0.05			
-	global_institution_spread = -0.2		
-	yearly_corruption = 0.1		
-	global_ship_trade_power = -0.3	
+	global_unrest = 2 #B
+	all_estate_loyalty_equilibrium = -0.1 #C
+	improve_relation_modifier = -0.2 #A
+	build_cost = 0.2 #A+
+	technology_cost = 0.1 #S+
 }
 
-eastern_beastfolk_military = {			
-	#Positives
-	shock_damage = 0.2			
-	infantry_power = 0.1		
-	movement_speed = 0.1			
-	shock_damage_received = -0.1		
-	prestige_from_land = 0.5		
-	army_tradition_from_battle = 0.5		
+eastern_beastfolk_military = {
+## Beastmen are fast and without fear, but completely undisciplined and without advanced weapons.
 
+	#Positives
+	land_morale = 0.1 #S
+	morale_damage_received = -0.1 #S
+	shock_damage = 0.1 #S
+	movement_speed = 0.15 # B
+	
 	#Negatives
-	fire_damage = -0.2		
-	naval_morale = -0.1			
-	global_supply_limit_modifier = -0.3	
+	discipline = -0.75 #S+
+	fire_damage = -0.1 #S
 
 }
 
