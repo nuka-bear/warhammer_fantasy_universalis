@@ -5,6 +5,10 @@ JG To Do & Thoughts
 
 Join the discord here: https://discord.gg/n5EDPWRj
 
+	Modifier balance reference: https://docs.google.com/spreadsheets/d/1TEKl9eGqrG4lmC6HrMyQaMRQUYUabBAfouNi8OlkbPU/edit?gid=929582197#gid=929582197
+
+	non-steam needs a slightly different file structure, with the descriptor file in the mods folder alongside the mod files themselves, and a line added to point to the right directory (path="C:\Users\admin\Documents\Paradox Interactive\Europa Universalis IV\mod\warhammer_fantasy_universalis-main") but yes! works perfectly after that modification! thank you so much :)
+
 #############################
 ###### Flavor Packs ######
 #############################
@@ -21,22 +25,16 @@ Everybody!
 	A pie in the sky decision or two
 
 #############################
-###### CORE TO DOS ######
-#############################
-
-	any chance for a github DL link? i have the gog version 
-
-	Racial Balancing
-		https://docs.google.com/spreadsheets/d/1TEKl9eGqrG4lmC6HrMyQaMRQUYUabBAfouNi8OlkbPU/edit?gid=929582197#gid=929582197
-		Change Human Admin bonus - make it nothing?
-		Simplify Skaven modifiers- Lower Discipline, Lower Morale?
-		Finished Undead
-
-#############################
 ###### RANDOM TO DOS ########
 #############################
 
 	Use on_war_won (or equivalent) with national set_flags to set the racial war missions
+
+	Make Undead both human and undead, change vamprism so it just adds undead.
+
+	Norscan Monster Hunt Mana Doesn't go away
+		Stays even after the monster hunt finishes and only dissapears once your leader dies
+	though it seemingly is only affecting diplo, I don't have a -1 for military and admin
 
 	Playing as Clan Skryer/Under-Empire and I noticed that the state Clanscourge is in the Skavenblight tradenode and not the North Skavendom tradenode. Same goes for 2 provinces in the Warren of Shadows state being in the Skavenblight node and the last province being in the north skavendom node.
 
@@ -101,6 +99,8 @@ Everybody!
 
 	How to represent Beastmen?
 
+	Northern Imperial Provinces it too long for the province screen and creates an overflow onto the province terrain type image.
+
 	When the emperor (of the empire) dies they should get 10 imperial authority (like the base game) 
 		And for some reason you lose your bretonnian imperial vassals after some time and they become duke of some random bretonian king
 
@@ -117,8 +117,6 @@ Everybody!
 
 	When you form a subject over a brettonian duke and a new royarch gets crowned they become their subject again
 
-	is a dominion meant to cost twice as much AE as non-dominions?
-
 	Missing localization - Im not entirely sure what they're referencing, but B27_ADJ ought to point at a particular nation, they rose out of Vorag's cores.
 
 	When selecting to go on  a Monster Hunt with Norsca, the game gives you 3 optoins on what to hunt, but the last one is missing localization as seen by the picutre. This was reproduced with Skaelings.
@@ -130,8 +128,6 @@ Everybody!
 		The combination of these two overflows makes for "The Serpeant's" third effect to be displayed directly on top of the first effect for the next deity "The Bear"
 
 	Norsca Flag is Portul's Flag
-
-	Fimir bonus in swamp
 
 	Mix up Tilean Governments: https://discord.com/channels/1314079561687896084/1316226022504402965/1316226022504402965
 
@@ -159,16 +155,23 @@ Everybody!
 
 	Add Uzkulak Canal picture
 
+	The Tier 4 (I assume) Norscan specific government reform "Mammoth Riders" appears duplicated. Both instance have the same immage and description, and they both appear selected is this government reform is chosen.
+
+	Fimir bonus in swamp
+
+	is a dominion meant to cost twice as much AE as non-dominions?
+
 #############################
 ######## MAP STUFF #######
 #############################
 
-	Provinces in wrong physical place: 19, 31, 110, 134, 217, 271, 309. 310, 316, 318, 388, 459, 580, 581, 584, 569, 593, 593, 616, 634, 762, 789, 789, 821, 2349, 2350
+	Provinces in wrong physical place: 19, 31, 110, 134, 217, 271, 309. 310, 316, 318, 357, 388, 459, 580, 581, 584, 569, 593, 593, 616, 634, 695, 762, 789, 789, 821, 2349, 2350
 
 	It seems the issue is that the ships are going to explore "debug_province (Sea)". When exploring this sea tile the ships go to the inexistent Silent Gulf and come back.
 
-	Starting the thread with two sea tiles being connected: Sharkfang Bay (1457) and Wailing Maw (1321)
+	Sharkfang Bay (1457) and Wailing Maw (1321) are connected
 
+	Sea Tiles "Northern Verge" and "Scorpions Coast" connected
 
 	Lore wise there should be a conection between Sjoktraken to Kraka Ravnsvake via the underground tunnel called the Ungruvalk
 

@@ -42,6 +42,13 @@ wood_elves_non_forest = {
 	local_unrest = 2
 }
 
+### Fimir Marsh
+
+fimir_marsh_modifier = {
+	local_hostile_attrition = 3
+	local_hostile_movement_speed = 0.2
+	local_defensiveness = 0.2
+}
 
 ### Undergrounder
 

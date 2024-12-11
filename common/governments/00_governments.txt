@@ -1075,8 +1075,7 @@ tribal = {
 				modernized_furusiyya_reform
 				cawa_auxiliary_forces
 				#warhammer
-				mammoth_riders_reform
-								#warhammer
+						#warhammer
 				mammoth_riders_reform
 				#skaven
 				warhammer_T5_skaven_clan_moulder

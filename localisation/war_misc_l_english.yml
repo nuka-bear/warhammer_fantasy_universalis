@@ -88,6 +88,11 @@ wood_elves_magical_forest_desc:0 "Within the magical forest, the Wood Elves thri
 wood_elves_non_forest_desc:0 "Separated from their sacred woods, the Wood Elves are unable to effectively administer their lands."
 
 
+### Fimir
+
+fimir_marsh_modifier:0 "Fimir in Marsh"
+fimir_marsh_modifier_desc:0 "Magical fog covers the marshes of the fimir, confounding enemy armies."
+
 
 ### Undergrounder
 

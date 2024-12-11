@@ -51,10 +51,10 @@ lizardmen_administration:0 "Lizardmen Administration"
 desc_lizardmen_administration:0 "Lizardmen are iron-fisted rulers, highly intolerant of outsiders but maintaining strict control over their realms. Their reliance on magic helps overcome their distrust of technological advancement and trade."
 
 lizardmen_military:0 "Lizardmen Military"
-desc_lizardmen_military:0 "Fanatical and unyielding, Lizardmen fight with high morale and resilience. However, their zealotry and slow population recovery hinder their effectiveness over time."
+desc_lizardmen_military:0 "Fanatical and unyielding, Lizardmen fight with high morale and resilience. However, their undisciplined zealotry and slow population recovery hinder their effectiveness."
 
 eastern_beastfolk_administration:0 "Beastfolk Administration"
-desc_eastern_beastfolk_administration:0 "Beastfolk are chaotic and rebellious, excelling in bursts of energy for conquest and plunder. Yet, their unstable governance and disdain for infrastructure are significant weaknesses."
+desc_eastern_beastfolk_administration:0 "Beastfolk are chaotic and rebellious, excelling in bursts of energy for conquest and plunder. Their unstable governance and disdain for infrastructure are significant weaknesses, but allow for flexible expansion."
 
 eastern_beastfolk_military:0 "Beastfolk Military"
 desc_eastern_beastfolk_military:0 "Beastfolk are fearless and swift, thriving in shock-based combat. However, their complete lack of discipline and poor weapons leave them vulnerable in prolonged engagements."

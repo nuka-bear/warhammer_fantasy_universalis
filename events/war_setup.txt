@@ -376,6 +376,17 @@ country_event = {
 			}
 		}
 
+		every_country = {
+			limit = { has_country_modifier = fimir_military }
+
+			every_owned_province = { 
+				limit = { has_terrain = marsh }
+				add_permanent_province_modifier = { 
+				    name = fimir_marsh_modifier
+				    duration = -1  
+				}
+			}
+		}
 
 		every_country = {
 			limit = {
