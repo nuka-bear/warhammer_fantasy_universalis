@@ -24,14 +24,44 @@ bretonnian_dukedom_reform = {
 		nobles_influence_modifier = 0.05
 		cavalry_power = 0.10
 	}
-
+	
 	conditional = {
-		allow = {
+		allow = { 
 			has_dlc = "Lions of the North"
 		}
-		amount_of_hussars = 3
+		custom_attributes = {
+			bretonnian_hussars = yes ## amount_of_hussars = 3
+		}
 	}
-
+	
+	effect = {
+		if = {
+			limit = { has_dlc = "Lions of the North" }
+			ROOT = {
+				remove_country_modifier = bretonnian_hussars_indep_modifier
+				remove_country_modifier = bretonnian_hussars_united_modifier
+				
+				add_country_modifier = { 
+					##File Name war_bretonnia_modifiers
+					name = bretonnian_hussars_modifier ## amount_of_hussars = 3
+					duration = -1  
+					hidden = yes
+				}
+			}
+		}
+    }
+	
+	removed_effect = {
+		if = {
+			limit = { 
+				ROOT = { has_country_modifier = bretonnian_hussars_modifier }
+			}
+			ROOT = {
+				remove_country_modifier = bretonnian_hussars_modifier
+			}
+		}
+    }
+	
 	custom_attributes = {
 		buffed_strong_duchies = yes		#+5% Loyalty
 	}
@@ -61,11 +91,42 @@ bretonnian_royarch_reform = {
 	}
 	
 	conditional = {
-		allow = {
+		allow = { 
 			has_dlc = "Lions of the North"
 		}
-		amount_of_hussars = 3
+		custom_attributes = {
+			bretonnian_hussars = yes ## amount_of_hussars = 3
+		}
 	}
+	
+	effect = {
+		if = {
+			limit = { has_dlc = "Lions of the North" }
+			ROOT = {
+				remove_country_modifier = bretonnian_hussars_indep_modifier
+				remove_country_modifier = bretonnian_hussars_united_modifier
+				
+				add_country_modifier = { 
+					##File Name war_bretonnia_modifiers
+					name = bretonnian_hussars_modifier ## amount_of_hussars = 3
+					duration = -1  
+					hidden = yes
+				}
+			}
+		}
+    }
+	
+	removed_effect = {
+		if = {
+			limit = { 
+				ROOT = { has_country_modifier = bretonnian_hussars_modifier }
+			}
+			ROOT = {
+				remove_country_modifier = bretonnian_hussars_modifier
+				
+			}
+		}
+    }
 
 
 	government_abilities = {
@@ -107,12 +168,43 @@ united_bretonnia_reform = {
 		cavalry_power = 0.10
 		governing_capacity = 350
 	}
+	
 	conditional = {
-		allow = {
+		allow = { 
 			has_dlc = "Lions of the North"
 		}
-		amount_of_hussars = 9
+		custom_attributes = {
+			bretonnian_hussars_united = yes ## amount_of_hussars = 9
+		}
 	}
+	
+	effect = {
+		if = {
+			limit = { has_dlc = "Lions of the North" }
+			ROOT = {
+				remove_country_modifier = bretonnian_hussars_indep_modifier
+				remove_country_modifier = bretonnian_hussars_modifier
+				
+				add_country_modifier = { 
+					##File Name war_bretonnia_modifiers
+					name = bretonnian_hussars_united_modifier ## amount_of_hussars = 9
+					duration = -1  
+					hidden = yes
+				}
+			}
+		}
+    }
+	
+	removed_effect = {
+		if = {
+			limit = { 
+				ROOT = { has_country_modifier = bretonnian_hussars_united_modifier }
+			}
+			ROOT = {
+				remove_country_modifier = bretonnian_hussars_united_modifier
+			}
+		}
+    }
 
 	government_abilities = {
 		brt_authority_mechanic
@@ -141,12 +233,43 @@ indep_bretonnian_dukedom_reform = {
 		cavalry_power = 0.10
 		
 	}
+	
 	conditional = {
-		allow = {
+		allow = { 
 			has_dlc = "Lions of the North"
 		}
-		amount_of_hussars = 1
+		custom_attributes = {
+			bretonnian_hussars_indep = yes ## amount_of_hussars = 1
+		}
 	}
+	
+	effect = {
+		if = {
+			limit = { has_dlc = "Lions of the North" }
+			ROOT = {
+				remove_country_modifier = bretonnian_hussars_united_modifier
+				remove_country_modifier = bretonnian_hussars_modifier
+				
+				add_country_modifier = { 
+					##File Name war_bretonnia_modifiers
+					name = bretonnian_hussars_indep_modifier ## amount_of_hussars = 1
+					duration = -1  
+					hidden = yes
+				}
+			}
+		}
+    }
+	
+	removed_effect = {
+		if = {
+			limit = { 
+				ROOT = { has_country_modifier = bretonnian_hussars_indep_modifier }
+			}
+			ROOT = {
+				remove_country_modifier = bretonnian_hussars_indep_modifier
+			}
+		}
+    }
 
 	custom_attributes = {
 		buffed_strong_duchies = yes		#+5% Loyalty

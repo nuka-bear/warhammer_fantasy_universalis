@@ -373,6 +373,22 @@ brt_authority_mechanic = {
 					#Swap Ideas
 				}
 				add_government_reform = united_bretonnia_reform
+				hidden_effect = {
+					if = {
+						limit = { has_dlc = "Lions of the North" }
+						ROOT = {
+							add_country_modifier = { 
+								##File Name war_bretonnia_modifiers
+								name = bretonnian_hussars_united_modifier ## amount_of_hussars = 9
+								duration = -1  
+								hidden = yes
+							}
+							remove_country_modifier = bretonnian_hussars_indep_modifier
+							remove_country_modifier = bretonnian_hussars_modifier
+						}
+					}
+				}
+				
 				swap_non_generic_missions = yes
 				set_country_flag = formed_bretonnia
 			}
