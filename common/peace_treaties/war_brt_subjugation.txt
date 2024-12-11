@@ -51,38 +51,9 @@ po_establish_bretonnia_dukedom = {
 				}
 				change_government = monarchy
 				add_government_reform = bretonnian_dukedom_reform
-				hidden_effect = {
-					if = {
-						limit = { has_dlc = "Lions of the North" }
-						
-						add_country_modifier = { 
-							##File Name war_bretonnia_modifiers
-							name = bretonnian_hussars_modifier ## amount_of_hussars = 3
-							duration = -1  
-							hidden = yes
-						}
-						remove_country_modifier = bretonnian_hussars_indep_modifier
-						remove_country_modifier = bretonnian_hussars_united_modifier
-					}
-				}
-				
 			}
 			else = {
 				add_government_reform = bretonnian_dukedom_reform
-				hidden_effect = {
-					if = {
-						limit = { has_dlc = "Lions of the North" }
-						
-						add_country_modifier = { 
-							##File Name war_bretonnia_modifiers
-							name = bretonnian_hussars_modifier ## amount_of_hussars = 3
-							duration = -1  
-							hidden = yes
-						}
-						remove_country_modifier = bretonnian_hussars_indep_modifier
-						remove_country_modifier = bretonnian_hussars_united_modifier
-					}
-				}
 			}
 		}
 	}

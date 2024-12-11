@@ -59,53 +59,32 @@ bretonnia_virtue_stoicism = {
 ### Removed Hussar stuff until we can figure out Lions of the North Issue
 
 bretonnia_squire_mod = {
-    amount_of_hussars = 1
+#	amount_of_hussars = 1
+		discipline = 0.01
 }
-
-bretonnia_squire_mod_no_dlc = {
-	discipline = 0.01
-}
-
 bretonnia_knight_errant_mod = {
-    amount_of_hussars = 2
-}
+#	amount_of_hussars = 2
+		discipline = 0.02
 
-bretonnia_knight_errant_mod_no_dlc = {
-	discipline = 0.02
 }
-
 bretonnia_kotr_mod = {
-	amount_of_hussars = 3
+#	amount_of_hussars = 3
+		discipline = 0.03
+
 	recover_army_morale_speed = 0.1
 }
-
-bretonnia_kotr_mod_no_dlc = {
-	discipline = 0.03
-	recover_army_morale_speed = 0.1
-}
-
 bretonnia_questing_knight_mod = {
-    amount_of_hussars = 4
+#	amount_of_hussars = 4
 	recover_army_morale_speed = 0.1
 	reinforce_speed = 0.5
 	is_hussars_modifier = yes
 }
-
-bretonnia_questing_knight_mod_no_dlc = {
-	recover_army_morale_speed = 0.1
-	discipline = 0.04
-}
-
 bretonnia_grail_knight_mod = {
-	amount_of_hussars = 5
-	recover_army_morale_speed = 0.1
-	reinforce_speed = 0.5
-	is_hussars_modifier = yes
-}
-
-bretonnia_grail_knight_mod_no_dlc = {
+#	amount_of_hussars = 5
 	discipline = 0.05
 	recover_army_morale_speed = 0.1
+	reinforce_speed = 0.5
+#	is_hussars_modifier = yes
 }
 
 new_bretonnia_king = {

@@ -4142,19 +4142,6 @@ on_dependency_gained_effect = {
 		}
 		FROM = {
 			add_government_reform = bretonnian_dukedom_reform
-			
-			if = {
-				limit = { has_dlc = "Lions of the North" }
-				
-				add_country_modifier = { 
-					##File Name war_bretonnia_modifiers
-					name = bretonnian_hussars_modifier ## amount_of_hussars = 3
-					duration = -1  
-					hidden = yes
-				}
-				remove_country_modifier = bretonnian_hussars_indep_modifier
-				remove_country_modifier = bretonnian_hussars_united_modifier
-			}
 		}
 	}
 	# if = {

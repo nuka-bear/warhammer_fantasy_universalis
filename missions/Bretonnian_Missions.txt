@@ -310,21 +310,10 @@ bretonnian_3_virtue_missions = {
 			else = {
 				change_mil = 1
 			}
-			
-			if = {
-				limit = { has_dlc = "Lions of the North" }
-				add_country_modifier = {
-					name = bretonnia_squire_mod
-					duration = -1
-				}
+			add_country_modifier = {
+				name = bretonnia_squire_mod
+				duration = -1
 			}
-			else = {
-				add_country_modifier = {
-					name = bretonnia_squire_mod_no_dlc
-					duration = -1
-				}
-			}
-			
 		}
 	}
 	bertonnia_knight_errant_mission = {
@@ -355,23 +344,11 @@ bretonnian_3_virtue_missions = {
 			}
 			hidden_effect = {
 				remove_country_modifier = bretonnia_squire_mod
-				remove_country_modifier = bretonnia_squire_mod_no_dlc
 			}
-			
-			if = {
-				limit = { has_dlc = "Lions of the North" }
-				add_country_modifier = {
-					name = bretonnia_knight_errant_mod
-					duration = -1
-				}
+			add_country_modifier = {
+				name = bretonnia_knight_errant_mod
+				duration = -1
 			}
-			else = {
-				add_country_modifier = {
-					name = bretonnia_knight_errant_mod_no_dlc
-					duration = -1
-				}
-			}
-
 		}
 	}
 	bertonnia_knight_of_the_realm_mission = {
@@ -402,23 +379,11 @@ bretonnian_3_virtue_missions = {
 			}
 			hidden_effect = {
 				remove_country_modifier = bretonnia_knight_errant_mod
-				remove_country_modifier = bretonnia_knight_errant_mod_no_dlc
 			}
-			
-			if = {
-				limit = { has_dlc = "Lions of the North" }
-				add_country_modifier = {
-					name = bretonnia_kotr_mod
-					duration = -1
-				}
+			add_country_modifier = {
+				name = bretonnia_kotr_mod
+				duration = -1
 			}
-			else = {
-				add_country_modifier = {
-					name = bretonnia_kotr_mod_no_dlc
-					duration = -1
-				}
-			}
-			
 		}
 	}
 	bertonnia_questing_knight_mission = {
@@ -449,20 +414,10 @@ bretonnian_3_virtue_missions = {
 			}
 			hidden_effect = {
 				remove_country_modifier = bretonnia_kotr_mod
-				remove_country_modifier = bretonnia_kotr_mod_no_dlc
 			}
-			if = {
-				limit = { has_dlc = "Lions of the North" }
-				add_country_modifier = {
-					name = bretonnia_questing_knight_mod
-					duration = -1
-				}
-			}
-			else = {
-				add_country_modifier = {
-					name = bretonnia_questing_knight_mod_no_dlc
-					duration = -1
-				}
+			add_country_modifier = {
+				name = bretonnia_questing_knight_mod
+				duration = -1
 			}
 		}
 	}
@@ -494,20 +449,10 @@ bretonnian_3_virtue_missions = {
 			}
 			hidden_effect = {
 				remove_country_modifier = bretonnia_questing_knight_mod
-				remove_country_modifier = bretonnia_questing_knight_mod_no_dlc
 			}
-			if = {
-				limit = { has_dlc = "Lions of the North" }
-				add_country_modifier = {
-					name = bretonnia_grail_knight_mod
-					duration = -1
-				}
-			}
-			else = {
-				add_country_modifier = {
-					name = bretonnia_grail_knight_mod_no_dlc
-					duration = -1
-				}
+			add_country_modifier = {
+				name = bretonnia_grail_knight_mod
+				duration = -1
 			}
 		}
 	}
