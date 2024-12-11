@@ -30,12 +30,21 @@ Everybody!
 		https://docs.google.com/spreadsheets/d/1TEKl9eGqrG4lmC6HrMyQaMRQUYUabBAfouNi8OlkbPU/edit?gid=929582197#gid=929582197
 		Change Human Admin bonus - make it nothing?
 		Simplify Skaven modifiers- Lower Discipline, Lower Morale?
+		Finished Undead
 
 #############################
 ###### RANDOM TO DOS ########
 #############################
 
-	Tileans have 2 university building missions
+	Use on_war_won (or equivalent) with national set_flags to set the racial war missions
+
+	Bjornling culture is bjornling not skraeling, Kislev is also Gospodar not Kislevite
+
+	East and West Lustrian Coastilne names permutated: green is named as western coast (should be east) while red is named as eastern coast (should be west)
+
+	As Etaine I colonized some provinces in Dawn's Light (Equivalent to South Africa) but can't add them to a trade company. For references, I have all DLCs.
+
+	Bret missions need better tooltips
 
 	Master The Art of Boarding tells you to capture 20 ships while having the Boarding naval doctrine active, but there are no naval doctrines selectable even with a 60+ ship fleet
 
@@ -84,17 +93,11 @@ Everybody!
 
 	Playtest Bretts
 
-	I see quite a few formables don't have custom ideas (Bretonnia doesn't have any at all it seems), maybe disable the ideas changing event in in these cases?
-
 	Add some token trade modifier to all artifacts so that they can be seen on the trade map
 
 	Khorne Sacrifice events and decisions working?
 
-	Brett's Find Ducal allies is impossible once you have vassalized verybody - prolly change it to vassalize or ally
-
 	How to represent Beastmen?
-
-	there should probably be an option for a norscan nation to turn on the chaos gods and turn back to the old ways in a sort of challange mode since the chaosifying of norsca was a long gradual process
 
 	When the emperor (of the empire) dies they should get 10 imperial authority (like the base game) 
 		And for some reason you lose your bretonnian imperial vassals after some time and they become duke of some random bretonian king
@@ -112,9 +115,11 @@ Everybody!
 
 	When you form a subject over a brettonian duke and a new royarch gets crowned they become their subject again
 
-	Wood elf decision - if you control/subject all the magical forest (or a key province in each), then "Connect the World tree" to gain one of each development in all magical forests
-
 	is a dominion meant to cost twice as much AE as non-dominions?
+
+	Missing localization - Im not entirely sure what they're referencing, but B27_ADJ ought to point at a particular nation, they rose out of Vorag's cores.
+
+	Fimir bonus in swamp
 
 	Add Monuments
 		Also there should be various monuments in the various peaks of Vala Azril Ungol
@@ -140,23 +145,19 @@ Everybody!
 
 	Add Uzkulak Canal picture
 
-	@Jeff.gomez That the empire has to deal with chaos cults would make sense lore wise. But i was playing as dwarves, so my population suddenly converting to worship orc gods made no sense at all. Maybe adding a restriction to the covert action to be only usable by chaos factions?
-		@Lockey - That's a super good call. I'll add in a restriction that you can only do it if you are a Chaos/Vampiric religion, or if the target is in the same religious group. Maybe make it visible always, but indicate that it can't be done for that reason.
-
-	Mix up Uncolonized Chaos province Religions
-
-
-
-	The araby are evil but the norsca and hobgoblins are neutral? i really only know lore stuff from the little there is in twwh but it feels weird
-		Just change this to be based on religion. Araby should be good
-
 #############################
 ######## MAP STUFF #######
 #############################
 
-	Provinces in wrong physical place: 19, 31, 110, 134, 217, 271, 316, 580, 581, 584, 569, 593, 593, 616, 634, 762, 789, 789,  Greyspire Fortress
+	Provinces in wrong physical place: 19, 31, 110, 134, 217, 271, 316, 580, 581, 584, 569, 593, 593, 616, 634, 762, 789, 789, 2349, 2350  Greyspire Fortress, Silent Gulf 
 
-	Lore wise there should be a conection between  Sjoktraken to Kraka Ravnsvake via the underground tunnel called the Ungruvalk
+	It seems the issue is that the ships are going to explore "debug_province (Sea)". When exploring this sea tile the ships go to the inexistent Silent Gulf and come back.
+
+
+	Starting the thread with two sea tiles being connected: Sharkfang Bay (1457) and Wailing Maw (1321)
+
+
+	Lore wise there should be a conection between Sjoktraken to Kraka Ravnsvake via the underground tunnel called the Ungruvalk
 
 	Attempting to walk through Jaraiz from the irrana mountains state group to go to belemoz will make you path irregularly.
 
@@ -164,7 +165,7 @@ Everybody!
 
 	Units disappear when in certain tiles: Roughly the title, particularly tiles within the dwarven halls have this issue but I didn't see it playing as Karak Eight Peaks dwarves. Do appear when sieging for some reason. Also happens in 'The Vaults' with Gorr  + Rikkit (Tunnels to Skavenblight) and Thrash (Clan Scurvy Tunnels), i closed my thread i hadn't seen yours. Kurn + Thragg for the Irrana Tunnels state too. 
 
-	odd visual bug when playing Brettonia, when armies are fighting they disappear from the map, would make it impossible to retreat an army from a losing battle. the orcs right next to marienburg and courounne seemingly
+	Odd visual bug when playing Brettonia, when armies are fighting they disappear from the map, would make it impossible to retreat an army from a losing battle. the orcs right next to marienburg and courounne seemingly
 
 	Northern Verge is connected to Shatterskulls, and it shouldn't be
 
@@ -195,9 +196,6 @@ Everybody!
 	Nagarythyn ideas: https://discord.com/channels/1314079561687896084/1315328160153337937/1315334789133500447
 	Elf culture stuff: https://discord.com/channels/1314079561687896084/1314080313055510529/1315008991826546873
 
-	Zharr-Naggrund should be reformable by the chaos dwarves, and the chaos dwarves should have a formable if they control the dark lands and/or the karaz ankor
-	Dhrath-Zharr-Ankor as a potential name
-
 	I think the River Reik would enjoy being navigable, at least until Altdorf, After all after Mariengburg´s secession, the 1st Imperial Fleet is housed in its docks.
 
 	I was reviewing how we handle units and special ones in the mod. EU4 has about 15 special unit types, such as Hussars and Streltsy. Currently, we add Hussars as Grail Knights, which effectively takes up a special unit slot for Bretonnians.
@@ -210,7 +208,6 @@ Everybody!
 		Expendable Infantry would be cheap and we could add them for as skaven slaves,  goblins slaves
 
 	Many more cultures! Double the number of cultures in each culture group.
-
 
 	In averlorn i´d change the Gaen Vale to farmland (or hills if you dont want to stack too much dev reduction on the province) and put the magical forest in the slopes of the Anuilli mountains
 
@@ -248,13 +245,16 @@ Everybody!
 		Add Skarbrand and Exhiles of Khorne. And Ku’gath
 		A lost legion of curious geaser on Albion
 		Fimir Nation in the darklands: https://discord.com/channels/1314079561687896084/1315712050965647390/1315712050965647390
+			8E and Fantasy Roleplay 4E state that Fimir are mostly concentrated in the wetlands of northern and western Old World (ie. largely concentrated in Norsca and Wastelands), but they are present elsewhere too, such as in Albion and Hybrasille (theorised to the new island shown in most recent maps of the Old World west of Albion).
+
 
 	New Formables/Reformables
 		Kislev should be made a reformable nations for cultures of Gospodar and Ungol culture groups.
 		Nippon should be similarly reformable for cultures in Nipponese culture group.
 		Hobgoblin Khanate should be available to form for Hobgoblin countries.
 		Khuresh could be implemented as a formable for the Khureshi Snakefolk nations.
-		Osterlund for those who wish to restablish this country by conquering or subjugating Nordland, Osland and Middenland. Each of those countries should get option to form it.
+		Osterlund for those who wish to restablish this country by conquering or subjugating Nordland, Osland and Middenland. Each of 		Zharr-Naggrund should be reformable by the chaos dwarves, and the chaos dwarves should have a formable if they control the dark lands and/or the karaz ankor
+			Dhrath-Zharr-Ankor as a potential namethose countries should get option to form it.
 
 
 	Who is missing National Ideas:
@@ -270,6 +270,8 @@ Everybody!
 		Currently unused: Coilfang (Khureshi Snakefolk), Bubonic Swarm (Chaos Warband), Songhai (Araby), G.R.C. (???)
 		The lost vikings on Albion also have norse ideas.
 		for example chaos wariors have an idea for better raising but they cant raise and if they form a horde they lose their unique reform
+		New Lahmia & Vampire Coast, Barrow legions Ordo Draconics have placeholder Imperial ideas?
+
 
 	Custom National IDeas
 		High Elves: https://docs.google.com/document/d/1pftMIbuCa8hs0fwAmMAj8LHCRTG8qBnsSJO4j9_sBNE/edit?tab=t.8b65r0rku3z8
@@ -278,11 +280,8 @@ Everybody!
 		Orcs, Lizardfolk (old Ones), Nagash,
 
 	Decision to get Nagash as a ruler
+	
 	Go on a quest decision - take your ruler to a randomly set province on a different continent, maybe fight a rebel army there.
-
-	New Lahmia & Vampire Coast , Barrow legions Ordo Draconics have placeholder Imperial ideas?
-
-	Add Non-accepted culture governing cost increase back in - local_governing_cost = 1.0 ?
 
 	Ask other modders (anbennar) for 3d models?
 
@@ -352,15 +351,9 @@ Everybody!
 
 	Fightiness events that give manpower don't give manpower if you're already above max? They give mil power or something else?
 
-	Have a Vampiric mission create a center of reformation
-
-	Ruinous power getting great vortex should trigger an event that makes a center of reformation on the location.
-
 	Add some islands? Increase colonial range?
 
 	Everchosen Cannot convert?
-
-
 
 	Finish Starting localization
 		# tech_hobgoblin
@@ -381,7 +374,7 @@ Everybody!
 
 	Old Ones End Times?
 
-	Should Celestial REgency use EOC?
+	Should Celestial REgency use EOC? Or High Elves
 				
 
 #############################
@@ -408,6 +401,11 @@ Legitimate Successor government mechanic for Nehekhara & Cathay?
 A basic spell or two? Is mana = spell resource?
 	Undead Spend 100 mil mana to gain a 10,000 manpower?
 
+	Add Non-accepted culture governing cost increase back in - local_governing_cost = 1.0 ?
+
+	Have a Vampiric mission create a center of reformation
+
+	Ruinous power getting great vortex should trigger an event that makes a center of reformation on the location.
 
 #############################
 ###### Flavor Pack Ideas ######
@@ -434,6 +432,8 @@ Skaven
 
 Norscans
 	Change Ultimate - lame as is. Number of ships captured?
+	there should probably be an option for a norscan nation to turn on the chaos gods and turn back to the old ways in a sort of challange mode since the chaosifying of norsca was a long gradual process
+
 
 Chaos Tribes
 	Government Type should allow estates? Make sure everybody up there is the right gov type and tech group

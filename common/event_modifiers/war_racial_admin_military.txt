@@ -1,154 +1,175 @@
-#Mostly the same as Anbennar slight differences here and there
+
+
 
 # Humans = generaleralist ie boring but good
 human_administration = {
-	all_power_cost = -0.025	
+
+# Humans are quick to grasp new ideas, and more willing to engage in diplomacy with others ...
+	technology_cost = -0.05 #S
+	diplomats = 1 #C
+
+# But their governmemts often have a hard time maintaining control
+	all_estate_loyalty_equilibrium = -0.05 #C
+	global_unrest = 2 #B
 }
 
 human_military = {
-	land_morale = 0.05 			#human spirit
-	naval_morale = 0.05
+
+# Humans wield powerful gunpowder weapons
+	fire_damage = 0.1
+
+# But are less likely to fight to the death than most other races
+	land_morale = -0.05
 }
 
 #Orcses Were Made for Fightin' an' Winnin'
 orcish_administration = {
-	#Positives
-	mil_advisor_cost = -0.90
+
+# Orcs are focused on war, and distain diplomacy and infrastructyre
 	war_taxes_cost_modifier = -1.0
 	country_military_power = 1
 	loot_amount = 10.0
 	prestige_from_land = 0.25
-	monarch_lifespan = 1.0
+	monarch_lifespan = 0.6
 
 	#Negatives
 	improve_relation_modifier = -0.25
-	spy_offence = -0.2
+	spy_offence = -0.25
 	build_cost = 0.10
 	all_power_cost = 0.05
 
 }
 
 orcish_military = {
+
+### Orcs are enthusiastic, but undisciplined fighters, without the patience to siege or defend territory
 	global_manpower_modifier = 0.2
 	army_tradition_from_battle = 0.5
 	land_morale = 0.10
 	land_forcelimit_modifier = 0.25
 
 	#Negatives
-	yearly_army_professionalism = -0.5
-	drill_gain_modifier = -0.5
+	discipline = -0.05
 	artillery_power = -0.20	
 	defensiveness = -0.25
 	siege_ability = -0.1
 }
 
+
 dwarven_administration = {
+
+### Dwarves are industrious, but proud. They have difficult relations with others, which can affect trade
 	#Positives
-	production_efficiency = 0.2
-	fort_maintenance_modifier = -0.10
-	inflation_action_cost = -0.25
-	election_cycle = 12	
+	production_efficiency = 0.2 #A+
+	build_cost = -0.1 # A
+	fort_maintenance_modifier = -0.30 #D+
 	monarch_lifespan = 4.0
+	election_cycle = 12
 
 	#Negatives
-	global_colonial_growth = -30
-	global_tax_modifier = -0.05
-	trade_efficiency = -0.05
-	improve_relation_modifier = -0.25	
+	trade_efficiency = -0.2 #A+
+	improve_relation_modifier = -0.25 #A
+	build_time = 0.30 # C+
 	rival_change_cost = 2
-	stability_cost_modifier = 0.3
-
 }
 
 dwarven_military = {
+
+### Tough, hardy, and slow, with excellent artillery and sieging ability, as well as defensive forts.
 	#Positives
-	shock_damage_received = -0.125	
-	backrow_artillery_damage = 0.2	
-	siege_ability = 0.1	
-	artillery_levels_available_vs_fort = 1	
-	drill_decay_modifier = -0.15
-	defensiveness = 0.10
-	artillery_barrage_cost = -0.50
+	shock_damage_received = -0.1 #B	
+	artillery_power = 0.1 # S
+	siege_ability = 0.1	# A
+	artillery_levels_available_vs_fort = 1 #C
+	defensiveness = 0.15 #B 
 
 	#Negatives
-	manpower_recovery_speed = -0.25
-	global_regiment_cost = 0.15	
-	movement_speed = -0.1
+	manpower_recovery_speed = -0.20 #A+
+	global_regiment_cost = 0.2 #S+
+	movement_speed = -0.15 #B
 	naval_morale = -0.2
 
 	picture = "racial_mil_dwarf"
 }
 
 elven_administration = {
+
+
+### Elven courts are prestigous and focused on inner development, but slow to accept new ideas.
 	#Positives
-	diplomatic_reputation = 1	
-	prestige_decay = -0.01
-	improve_relation_modifier = 0.25	
+	diplomatic_reputation = 1 #C
+	prestige_decay = -0.01 #C
+	development_cost_in_primary_culture = -0.1 #S
+	range = 2.0
+
 	election_cycle = 20	
 	female_advisor_chance = 0.5
 	may_recruit_female_generals = yes
-	range = 2.0
+	monarch_lifespan = 10000.0
 
 	#Negatives
-	technology_cost = 0.05	
-	global_institution_spread = -0.33	
+	technology_cost = 0.05 #S
+	global_institution_spread = -0.2 #E
 }
 
 elven_military = {
+
+### Elves are disciplined fighters with a strong naval tradition, but they are slow to reproduce and overcome by the horrors of war.
+
 	#Positives
-	discipline = 0.1
-	drill_decay_modifier = -0.25	
-	drill_gain_modifier = 1	
-	movement_speed = 0.15	
-	army_tradition_decay = -0.01
-	navy_tradition_decay = -0.02
-
-
-	#Negatives
-	war_exhaustion_cost = 0.5	
-	manpower_recovery_speed = -0.5	
-	reinforce_speed = -0.33
-	mercenary_discipline = -0.1
-	merc_maintenance_modifier = 0.3	
-	mercenary_manpower = -0.5	
-	sailors_recovery_speed = -0.25
+	discipline = 0.1 # S+
+	drill_decay_modifier = -0.25 #A
+	navy_tradition_decay = -0.02 #B+
 
 	can_recruit_cossacks = yes
 	allowed_cossack_fraction = 0.1
+
+	#Negatives
+	war_exhaustion_cost = 0.5 #E+
+	manpower_recovery_speed = -0.5 #A++++
+	reinforce_speed = -0.25 #B+
+	sailors_recovery_speed = -0.25 #B+
+
+
 }
 
 #welcome to the bonezone
 undead_administration = {
-	all_power_cost = -0.1
-	global_tax_modifier = 0.20
+
+### Undead magic bouys all aspects of their nations, and they ruthlessly seize taxes from their citizens. But they struggle to develop factories or trade networks, or to develop their own lands.
+
+	all_power_cost = -0.1 #S+++
+	global_tax_modifier = 0.20 #B+
+
+	monarch_lifespan = 10000.0 
+
 	# Negatives
-	production_efficiency = -0.10
-	trade_efficiency = -0.10
-	build_cost = 0.15
-	development_cost = 0.15
+	production_efficiency = -0.10 #A
+	trade_efficiency = -0.10 #A
+	build_cost = 0.2 #A+
+	development_cost = 0.2 #S
 }
 
 
 undead_military = {
-	global_manpower_modifier = 1.0	
-	land_forcelimit_modifier = 1.0
-	global_supply_limit_modifier = 1.0
-	
-	land_attrition = -0.75
-	movement_speed = -0.20
 
-	infantry_cost = -0.5	
-	infantry_power = -0.5
+### Undead are without end and cheap, but weaker an any other nation's infantry. They lack fear, but stand are difficult to control and direct. Necromantic energies bleed away at enemies invading their land. They are weak to shock damage
 
-	land_morale = 0.1
-	discipline = -0.1
-	morale_damage = 0.05
+	global_manpower_modifier = 1.0 #A+++++++
+	land_forcelimit_modifier = 1.0 #A+++++++
+	global_supply_limit_modifier = 1.0 #C+++
+	land_attrition = -0.50 #B+++
+	infantry_cost = -0.5 #B++++
+	land_morale = 0.1 #S
+	reinforce_speed = 3	#B+++++++
+	reinforce_cost_modifier = -0.5 #C+++++
+	recover_army_morale_speed = 0.5	#C++++
+	hostile_attrition = 2 #B+
 
-	reinforce_speed = 3	
-	reinforce_cost_modifier = -0.5
-	recover_army_morale_speed = 0.5	
-
-	hostile_attrition = 2
+	movement_speed = -0.15 #B
+	infantry_power = -0.5 #A++++
+	discipline = -0.1 #S+
+	shock_damage_received = 0.1 #B
 
 	can_recruit_cossacks = yes
 	allowed_cossack_fraction = 0.1

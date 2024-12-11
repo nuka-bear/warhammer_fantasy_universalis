@@ -13,7 +13,7 @@ estate_nobles = {
 			has_enabled_estate = { estate = estate_nobles }
 			has_unlocked_estate = { estate = estate_nobles }
 			AND = {
-				NOT = { has_government_attribute = is_pirate_republic_reform }
+#				NOT = { has_government_attribute = is_pirate_republic_reform }
 				NOT = { government = native }
 				NOT = { has_reform = siberian_tribe }
 				NOT = { is_revolutionary_republic_trigger = yes }
