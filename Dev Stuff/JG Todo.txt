@@ -29,6 +29,14 @@ Everybody!
 #############################
 
 	Final Empire Centralization reform doesn't work!
+
+	Change Monster bonuses away from discipline and to shock/fire/morale resistance/damage (or just power)
+
+	Balance Karak 8 Peak War
+
+	Make sure hordes of Chaos reform is visible
+
+	Work on performance
 	
 	Use on_war_won (or equivalent) with national set_flags to set the racial war missions
 
@@ -90,8 +98,6 @@ Everybody!
 
 	is a dominion meant to cost twice as much AE as non-dominions?
 
-	Add some token trade modifier to all artifacts so that they can be seen on the trade map
-
 	Khorne Sacrifice events and decisions working?
 
 	Northern Imperial Provinces it too long for the province screen and creates an overflow onto the province terrain type image.
@@ -103,11 +109,17 @@ Everybody!
 
 	tried swapping to a theocracy as the albion fimir, it just took away two reform tiers and i stayed tribal, monarchy worked fine, havent tried republic
 
+	Expand empire diplomatically? Can it be done?
+
+	More imperial Authority earned?
+
 	It doesn't seem to go through if you full annex a race, and I would also suggest promoting a culture should work in place of trust but that's just me.
 
 	Gell's suggested flavor decisions/events: https://discord.com/channels/@me/1315325752035770490/1315327269371379712
 
 	Remove Dev Cost from state edicts
+
+	Everyone can convert to Vamprism (If you have a vampiric province?)
 
 	When you form a subject over a brettonian duke and a new royarch gets crowned they become their subject again
 
@@ -118,16 +130,31 @@ Everybody!
 		The Serpeant has 3 effects, making the third effect appear outside of the designated area for this deity's effects
 		The effect "Liberty Desire from Subjects Development: -25%" is too long as overflows into the  next line
 		The combination of these two overflows makes for "The Serpeant's" third effect to be displayed directly on top of the first effect for the next deity "The Bear"
+		https://discord.com/channels/1314079561687896084/1316502460411416596/1316502460411416596
 
-	Norsca Flag is Portul's Flag
 
 	Mix up Tilean Governments: https://discord.com/channels/1314079561687896084/1316226022504402965/1316226022504402965
+
+
+	Trade
+		I think the Vaults Trade node doesnt make sense getting money from karaz - a - Karak lore wise. I think it makes more sense that it works as a starting node (a rich one but still one) that sends to Karaz - a - Karak as lore wise Karaz - a - Karak is the center of dwarven economics since before the fall of the karaz Ankor, especially without Karak Eight Peaks. 
+		Its a Underway junctions getting the northern holds and those in the vaults, in the same way Vala Azril Ungol was a great underway junction from the southern holds.
+		Elf trade network stuff: https://discord.com/channels/1314079561687896084/1314080313055510529/1315004963214200913
+		Trade Stuff: https://discord.com/channels/1314079561687896084/1315715354114129960/1315715354114129960
+		its a little frustrating that the Worlds Edge Mountains trade nodes and the rest of the worlds trade nodes have almost no interaction whatsoever except at the very south of the whole range and the very north. it kinda makes it so that other than the 3 trade nodes in the main worlds edge mountains area, dwarfs really dont get to use any of the other trade nodes as theres no way to path them back to your capital. 
+		Very odd considering there are 3 different times when a trade route passes through a mountain pass that directly leads to the inside trade nodes of the mountains, one of which literally passes within 1 province of the dwarves capitol. 
+		i have more production in my country than the next 6 highest producers in the entire world all feeding into only 3 trade nodes, all of which i have 100% control over feeding into my capital node, and its still not enough to get the #1 most valuable trade node requirement for global trade
+		Trade routes in general could probably use more movement, I notice a lot of beginner nodes that feel like they could make receive trade, or push in other directions
+
 
 	Add Monuments
 		Also there should be various monuments in the various peaks of Vala Azril Ungol
 		Bretonnia has only one monument as well, I would have at least expected a vinyard or the like, or a port that buffs up their navy to reflect the lore of them having a really damn strong navy
 		Bordeleaux should have either a port or a vinyard, and Moussilion is think would probbaly deserve a monument as well
 		Shrine of Khaine as a monument?
+		Oh and also I believe Black pit should be made into normal province. Since its cool place where all those huge spiders live and breed. Could possibly host two diffrent monuments even. One for goblins that use those huge spiders and commune with them to control them. 
+		And the second monument or artifact could be Dark Heart. I belive i've heard somewhere that it is actually stored somwhere there. Not 100% sure tho.
+		https://discord.com/channels/1314079561687896084/1316722707714408479/1316722707714408479
 
 #############################
 ###### Confirm ######
@@ -151,6 +178,8 @@ Everybody!
 ######## MAP STUFF #######
 #############################
 
+	Check on map locations: 388, 695, 4933
+
 	It seems the issue is that the ships are going to explore "debug_province (Sea)". When exploring this sea tile the ships go to the inexistent Silent Gulf and come back.
 
 	Sharkfang Bay (1457) and Wailing Maw (1321) are connected
@@ -158,10 +187,6 @@ Everybody!
 	Sea Tiles "Northern Verge" and "Scorpions Coast" connected
 
 	Lore wise there should be a conection between Sjoktraken to Kraka Ravnsvake via the underground tunnel called the Ungruvalk
-
-	Attempting to walk through Jaraiz from the irrana mountains state group to go to belemoz will make you path irregularly.
-
-	Units disappear when in certain tiles: Roughly the title, particularly tiles within the dwarven halls have this issue but I didn't see it playing as Karak Eight Peaks dwarves. Do appear when sieging for some reason. Also happens in 'The Vaults' with Gorr  + Rikkit (Tunnels to Skavenblight) and Thrash (Clan Scurvy Tunnels), i closed my thread i hadn't seen yours. Kurn + Thragg for the Irrana Tunnels state too. 
 
 	Northern Verge is connected to Shatterskulls, and it shouldn't be
 
@@ -179,17 +204,26 @@ Everybody!
 
 	Advisor portraits
 
+	Flags
+		Norsca Flag is Portul's Flag
+		Tower of Gorgoth has Leige Flag
+
+
 #############################
 ######## FUTURE STUFF #######
 #############################
 
 	Add Gromil as a resource
 
-	Trade
-		I think the Vaults Trade node doesnt make sense getting money from karaz - a - Karak lore wise. I think it makes more sense that it works as a starting node (a rich one but still one) that sends to Karaz - a - Karak as lore wise Karaz - a - Karak is the center of dwarven economics since before the fall of the karaz Ankor, especially without Karak Eight Peaks. 
-		Its a Underway junctions getting the northern holds and those in the vaults, in the same way Vala Azril Ungol was a great underway junction from the southern holds.
-		Elf trade network stuff: https://discord.com/channels/1314079561687896084/1314080313055510529/1315004963214200913
-		Trade Stuff: https://discord.com/channels/1314079561687896084/1315715354114129960/1315715354114129960
+	Monstrous Military Ideas
+		Just a simple military idea set, for nations that innately have monsters or evil techgroups that want to start building monsters from scratch, similarly to marine ideas force limit without having to name them individually.
+		Just a idea throwup of the ordering and some kind of naming themes.
+		Cossack Force Limit (0.5 per 100 development)
+		Cavalry Maintenance ( Hounds of Chaos )
+		10% Siege Power ( Giants at the Walls )
+		Cossack Unit Fire ( Warpfire Horror Spew )
+		20% force limit Expansion ( The Beastmen Wilderness )
+		Garrison Attack Modifier ( Lair Nesting, useful for strong late game forts )
 
 	Nagarythyn ideas: https://discord.com/channels/1314079561687896084/1315328160153337937/1315334789133500447
 	Elf culture stuff: https://discord.com/channels/1314079561687896084/1314080313055510529/1315008991826546873

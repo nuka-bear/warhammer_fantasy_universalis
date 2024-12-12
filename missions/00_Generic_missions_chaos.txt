@@ -346,14 +346,14 @@ gen_chaos_gods_missions = {
 
 	gen_chaos_gods_please_church = { 
 		icon = mission_chaos_religion
-		required_missions = {  } 
+		required_missions = {  }
 		trigger = {
 			estate_loyalty = {
 			    estate = estate_church
 			    loyalty = 65
 			}
 			num_of_estate_agendas_completed = {
-				estate = estate_churc
+				estate = estate_church
 				value = 1
 			}
 		}

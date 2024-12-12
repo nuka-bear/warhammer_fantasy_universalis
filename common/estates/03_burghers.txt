@@ -11,8 +11,8 @@ estate_burghers = {
 			has_unlocked_estate = { estate = estate_burghers }
 			AND = {
 #				NOT = { has_government_attribute = is_pirate_republic_reform }
-				NOT = { is_revolutionary_republic_trigger = yes }
-				NOT = { government = native }
+#				NOT = { is_revolutionary_republic_trigger = yes }
+#				NOT = { government = native }
 				NOT = { has_reform = siberian_tribe }
 				is_nomad = no
 				is_colonial_nation = no
