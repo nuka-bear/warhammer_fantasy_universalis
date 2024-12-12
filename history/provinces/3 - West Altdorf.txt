@@ -1,6 +1,6 @@
 owner = A81
 controller = A81
-culture = reiklander
+culture = altdorfer
 religion = cult_of_sigmar
 center_of_trade = 2
 hre = yes

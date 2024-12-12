@@ -1,7 +1,7 @@
 owner = A29
 controller = A29
-culture = roppsmenn
-religion = kislev_old_faith
+culture = krevarian
+religion = ursun
 base_tax = 3
 base_production = 1
 trade_goods = fur
@@ -10,5 +10,3 @@ is_city = yes
 add_core = A29
 add_local_autonomy = 25
 add_core = B70
-
-

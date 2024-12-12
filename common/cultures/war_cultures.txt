@@ -739,7 +739,24 @@ imperial_group = {
 			Hohenbach 
 		}
 	}
-
+	altdorfer  = {
+	}
+	imperial_dawi  = {
+	}
+	talabheimer  = {
+	}
+	middenheimer  = {
+	}
+	salzenmunder  = {
+	}
+	sudenburger  = {
+	}
+	leopoldheimer  = {
+	}
+	neulander  = {
+	}
+	imperial_gnome  = {
+	}
 	male_names = {
 		Abelard Achim Adalard Adalbert Adam Adolf Adolphus Aelfric Agobard Albrecht Alexander Aldred Alfons Alfred Almerich Alaric Alois Amadeus Ammianus Ammon Anders Andreas Anno Ansbert Anselm Anton Archibald Armin Arnim ArnoldArnulf Artur August Augustin Augustus Axel
 		Baldemar Baldewin Balthazar Bartolf Basil Behmen Benard Berengar Bernard Bernd Bernfried Bernhard Bert Berthold Bertolt Bertrand Blasius Boemus Bohemond Boleslav Bonifaz Boris Bruno Burchard Buchard Buthred
@@ -897,6 +914,44 @@ halfling_group	= {
 			Thorncobble Tumbleberry 
 		}
 	}
+	pygmy = {
+		male_names = {
+			Oranyan Sango Ajaka Aganju Kari Oluaso Onigbogi Ofinran Eguguoju Orompoto Ajiboyede Abipa Obalokun Ajagbo 
+			Odorawu Kanran Jayin Ayibi Osiyago Ojigi Gberu Amuniwaiye Onisle Labisi Agboluaje Majeogbe Abiodun Awole 
+			Arongangan Adebo Maaku Aburumaku Majotu Do Aklim Dakondunu Ganye Hessu Wegbaja Akaba Agaja Tegbesu Kpengla 
+			Anonglo Haholo Kpasse Ayohuan Agbangia
+		}
+		female_names = {
+			Winona Isi Abeni Abimbola Abiodun Ade Adebola Adebowale Adedayo Adetokunbo Alaba Ayo Ayodele Ayomide 
+			Ayotunde Bolanle Bosede Dada Dayo Ekundayo Eniola Enitan Folami Gbemisola Idowu Ife Ige Kayin Mojisola 
+			Monifa Olamide Olayinka Olubunmi Olufunke Olufunmilayo Olufunmilola Oluwafunmilayo Oluwakanyinsola 
+			Oluwasegun Oluwaseun Oluwaseyi Oluwatoyin Oluwayemisi Omobolanle Omolara Oni Opeyemi Simisola Temitope 
+			Titilayo Yejide Yewande
+		}
+		dynasty_names = {
+			Alaafin Eweka Ubah Umaru Aliu Solaja Okara
+			Ajuwa Ezinwa Kanu Opara Rufai
+		}
+	}
+	giant_pygmy = {
+		male_names = {
+			Oranyan Sango Ajaka Aganju Kari Oluaso Onigbogi Ofinran Eguguoju Orompoto Ajiboyede Abipa Obalokun Ajagbo 
+			Odorawu Kanran Jayin Ayibi Osiyago Ojigi Gberu Amuniwaiye Onisle Labisi Agboluaje Majeogbe Abiodun Awole 
+			Arongangan Adebo Maaku Aburumaku Majotu Do Aklim Dakondunu Ganye Hessu Wegbaja Akaba Agaja Tegbesu Kpengla 
+			Anonglo Haholo Kpasse Ayohuan Agbangia
+		}
+		female_names = {
+			Winona Isi Abeni Abimbola Abiodun Ade Adebola Adebowale Adedayo Adetokunbo Alaba Ayo Ayodele Ayomide 
+			Ayotunde Bolanle Bosede Dada Dayo Ekundayo Eniola Enitan Folami Gbemisola Idowu Ife Ige Kayin Mojisola 
+			Monifa Olamide Olayinka Olubunmi Olufunke Olufunmilayo Olufunmilola Oluwafunmilayo Oluwakanyinsola 
+			Oluwasegun Oluwaseun Oluwaseyi Oluwatoyin Oluwayemisi Omobolanle Omolara Oni Opeyemi Simisola Temitope 
+			Titilayo Yejide Yewande
+		}
+		dynasty_names = {
+			Alaafin Eweka Ubah Umaru Aliu Solaja Okara
+			Ajuwa Ezinwa Kanu Opara Rufai
+		}
+	}		
 }
 
 #Good
@@ -916,6 +971,8 @@ bretonnian_group	= {
 	marcheur = {
 	}
 	outremer = {
+	}
+	bretonnian_gnome  = {
 	}
 	dynasty_names = {
 		Archambault Armistead 
@@ -974,7 +1031,7 @@ bretonnian_group	= {
 	}
 }
 
-
+	
 greenskins_group	= {
 	graphical_culture = westerngfx
 	common_orc = {
@@ -1311,7 +1368,36 @@ greenskins_group	= {
 			Moonclaw Moonhowlaz "One Eye" "Red Cloud" "Red Eye" "River Rat" "Scabby Eye" Spiderclaw "Yellow Eye"
 		}
 	}
-	
+	fire_kobold = {
+		male_names = {
+			Aggro Aggry Amble Anx Assik Ati Backbinz Backbla Backblum Backbog Backdy Backgi Backgit Backgrub 
+			Backgut Backid Backira Backit Backlah Backlit Backnose Backny Backoff Backopa Backrak Backrit 
+			Backsnik Backstabba Backurran Backzak Badbinz Badbla Badblum Badbog Baddy Badgi Badgit Badgrub 
+			Eekzit  Eeknik  Eeknob  Eekrit  Eeksnik  Eekstabba  Eekzak  Ekker  Ekky  Elzit  Elzin  
+			Elzinz  Ergit  Ergob  Ergrub  Ergut  Erkitz  Erkit  Erkzit  Erkzak  Ernez  Ernezit  
+			Ernob  Ernsnik  Ernostabba  Ernzak  Ettik  Ettin  Ettinz  Ettitz  Ettzag  Ettzit  
+			Feggit  Feggitty  Feggrub  Feggut  Fenik  Fenitz  Fensnik  Fenzak  Fikkit  Fikkitz  
+			Fikzag  Fikzit  Flibbin  Flibbitz  Fliggit  Fligzag  Fligzit  Flinix  Flinzit  Flinsnik  
+			Flizkinz  Flizzit  Flizznik  Flubbinz  Flubgit  Flubgrub  Flubgut  Flubzit  Fluknik  
+			Flukzag  Flukzit  Fuzzit  Fuzzkinz  Fuzznik  Fuzzzak  Fuzzzit  Fynk  Fynkbitz  Fynkit  
+			Fynkzag  Fynkzit  Gekzit  Geknik  Gekzak  Gelbitz  Gelgrub  Gelgut  Gelkit  Gelzag  
+			Gekbinz  Gekgrub  Gekgut  Gelzit  Gelzit  Gensnik  Genzak  Genzzit  Gidbitz  Gidgrub  
+			Gidkit  Gidzag  Gidzit  Ginkbinz  Ginkkit  Ginkzag  Ginkzit  Gribbinz  Gribkit  Gribzag  
+			Gribzit  Grizzbinz  Grizzkit  Grizzzag  Grizzzit  Gronbinz  Gronkit  Gronzig  Gronzit  
+			
+		}
+		female_names = {
+			Bdaset Bite Bizzle Blib Blotty Bogoexr Bred Btesg Doz Ekalim Faq Ferenghi Gkobat
+			Grot Grott Grotty Kzed Lotty Mab Mazy Meal Moretar Mtan Munch Nilbog Nmatub Nozudg 
+			Origol Puff Rikkitikki Rundo Sber Serugz Shakog Shisho Splib Splog Sprog Squeebles
+			Squik Squog Teeny Temn Ten Tiny Toerag Toss Tosukg Turbogz Winky Xob Zogubd
+		}
+		dynasty_names = {
+			Norgin Bait  Foecleaver Wiggy  Zik Grot Runtbite "Throat Slit" Runty Shadowchain "Bitter-Eye" "Black Venom" 
+			Blackweb Bloodfeather "Bloody Spearz" "Broken Axe" "Cluster Eye" "Crooked Moon" "Drippin Fang" "Evil Eye" Madmoon
+			Moonclaw Moonhowlaz "One Eye" "Red Cloud" "Red Eye" "River Rat" "Scabby Eye" Spiderclaw "Yellow Eye"
+		}
+	}	
 	dynasty_names = {
 		"da Abhorrunt" "da Appallin'" "da Beastly" "da Boar Master" "da Booma" "da Boss of da Fightiest Boyz" "da Boss of Massif Orcal" "da Bretstabba" "da Brooza" "da Bully" "da Burly" "da Dead Killy" "da Dead-Un Burna" "da Death-breevah" "da Demolisher" "da Distressed" "da Earitabul" "da Aye-Rate" "da Feral" "da Fiya Starta" "da Frootcake" "da Grabba" "da Groundshaka" "da Gutstabba" "da Half-wit" "da Hefty" "da Hulkin" "da Humiecooka" "da Hunta" "da Invinsabul" "da Krunka" "da Loathsum" "da Looter of Mount Grey Hag" "da Malingerer" "da Massif" "da Menacin'" "da Mighty" "da Noyzee" "da Noosance" "da Pranksta of da Plain of Bones" "da Puffy" "da Ratty Chukka" "da Rotund" "da Rugged" "da Scrap Keepa" "da Scrappa" "da Slacka" "da Slasha" "da Slipperee" "da Spry" "da Stuntysnappa" "da Ticklish" "da Troll Keepa" "da Tyrant of da Marshes uh Madness" "da Un-Kind" "da Whalopper" "da Yellabelly" "da Big Zogin' Boss" 
 		Bigbooma Bigstikka Bloodbasher "Boar Boy o' da Aporkalypse" Boarherda Bonebreff Bonedancer Bonebreaka Bonecrusha Bonykrumpa Bonysmasha Brainbelter Castle-kracka Craterface Crotchchoppa Danglejaw Dorfcutter Dorfhater Eadsplitta Elfbasha Elfsickle 
@@ -1328,16 +1414,35 @@ greenskins_group	= {
 	}	
 }
 
-#WIP, copied from Russian? EU4
-#i.e. gospodor's
 kislevite_group = {
 	graphical_culture = easterngfx
 	gospodar = { #generally used for rural population
 	}
-	kislevite_culture = { #ie the city
-	}
 	erengradian = {
 	}
+	tzavarian = {
+	}
+	dolvarian = {
+	}
+	gorelsk = {
+	}
+	krevarian = {
+	}
+	sudevarian = {
+	}
+	pogranicznik = {
+	}
+	sibyrian = {
+	}
+	wheatlander = {
+	}
+	scythian2 = {
+	}
+	ungol = { #'rural'
+	}
+	praager = { #'urban' centerd or praag obviously
+	}
+
 	male_names = {
 		Vasiliy Ivan Dmitriy Yuriy Andrei Semen Fyodor Afanasiy Akim Aleksandr Alexei Anatoliy Arkadiy 
 		Dorofey Feodosiy Feofilakt Gavriil Innokentiy Iosif Lavrentiy Makariy Matveiy Mikhail Nazariy 
@@ -1354,7 +1459,7 @@ kislevite_group = {
 		Svetozar Sviatopolk Svatopluk Sviatoslav Sviatoslav Terentiy Trifon Vasiliy Basil Vasilko 
 		Viacheslav Vladimir Vladimir Vladislav Vladislav Voislav Volodar Vseslav
 		Vsevolod Vyshata Vysheslav Yaropolk Yaroslav Jaroslav Yefimiy Yelisey Yemelyan Emil Yeremey 
-		Yevstafiy Yuriy George
+		Yevstafiy Yuriy George Tordomir
 	}
 	female_names = {
 		Agafya Agatha Agrafena Alexandra Anastasia Anastasia Anna Anna Boleslava Darya Dobrava 
@@ -1364,14 +1469,14 @@ kislevite_group = {
 		Liudmila Malfrida Malusha Maria Maria Marina Olena Helen Olga Pereyaslava Praskovya Praxida 
 		Prebrana Predslava Premyslava Svetlana Yuliya
 		Pribislava Rogneda Rostislava Sbyslava Sofia Sophia Sviatoslava Tatyana Ulita Ulyana
-		Varvara Vasilisa Veleslava Verkhoslava Vseslava Viacheslava Yaroslava Zabava Zvenislava
+		Varvara Vasilisa Veleslava Verkhoslava Vseslava Viacheslava Yaroslava Zabava Zvenislava Naryska Ulrika Miska Shoika
 	}
 	dynasty_names = {
 		Rurikovich Godunov Shuisky Romanov Sheremetev Golitsyn Naryshkin Khilkov Gorchakov
 		Belosselsky Chelyadnin Potyomkin Poloch Izbor Tversky Lukisky Pleskov Toropetsky Dukhovsky
 		Koroviev Woland Tyvertsky Buzhansky Slutsky Pinesky Zhytomyrsky Vynnytsky Polan Ulich Drevl 
 		Lyubech Roslavsky Turov
-		Dolgorukov Gagarin Galitzine Massalski Shuysky Gantimurov Sibirsky
+		Dolgorukov Gagarin Galitzine Massalski Shuysky Gantimurov Sibirsky Straghov Lubovasyn Radinov Kolarabinikov 
 		# CKII
 		Demidov Lopukhin Tolstoy "Lobanov-Rostovsky" Menshikov Obolensky
 	}
@@ -1379,12 +1484,8 @@ kislevite_group = {
 
 #WIP, copied from Russian? EU4
 
-ungol_group = {
+roppsmenn_group = {
 	graphical_culture = easterngfx
-	ungol = { #'rural'
-	}
-	praager = { #'urban' centerd or praag obviously
-	}
 	roppsmenn = { 
 	}
 	male_names = {

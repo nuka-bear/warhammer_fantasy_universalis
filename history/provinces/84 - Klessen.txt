@@ -1,7 +1,7 @@
 owner = A12
 controller = A12
 add_core = A12
-culture = wastelander
+culture = imperial_dawi
 religion = old_world_cults_religion
  
 hre = no

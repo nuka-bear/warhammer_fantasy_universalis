@@ -1,6 +1,6 @@
 owner = G40
 controller = G40
-culture = ungol
+culture = roppsmenn
 religion = kislev_old_faith
 base_tax = 1
 base_production = 3

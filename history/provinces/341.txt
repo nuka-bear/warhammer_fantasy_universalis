@@ -1,6 +1,6 @@
 owner = A35
 controller = A35
-culture = ungol
+culture = roppsmenn
 religion = kislev_old_faith
 base_tax = 1
 base_production = 1

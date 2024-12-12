@@ -6,5 +6,5 @@ trade_goods = grain
 religion = ursun
 controller = B31
 is_city = yes
-culture = gospodar
+culture = wheatlander
 add_core = B31

@@ -1,6 +1,6 @@
 owner = G40
 controller = G40
-culture = ungol
+culture = gorelsk
 religion = ursun
 base_tax = 1
 base_production = 3

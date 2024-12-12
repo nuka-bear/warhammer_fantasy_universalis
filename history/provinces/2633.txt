@@ -6,5 +6,5 @@ trade_goods = beer
 religion = chaos_undivided_religion
 controller = B44
 is_city = yes
-culture = hastling
+culture = sibyrian
 add_core = B44

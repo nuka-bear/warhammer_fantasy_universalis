@@ -1,7 +1,7 @@
 owner = A29
 controller = A29
-culture = gospodar
-religion = kislev_old_faith
+culture = ungol
+religion = cult_of_taal_religion
 base_tax = 1
 base_production = 2
 trade_goods = iron
