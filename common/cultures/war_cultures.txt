@@ -22,7 +22,7 @@ imperial_group = {
 			Gamalbert Gebhard Georg Gerald Geralt Gerard Gerbert Gerhardt Gerd Gerhard Gerhoh Gerlach Gesebert Giselbert Godric Goderick Godfric Godfried Gotelind Gottfried Gotthard Gottschalk Gotthilm Gotthold Gotz Gotzelo Gozwin Gregor Guenther Gundechar Gundulf Gunnwald Gunter Gunther Gunthram Guntram Günzel Gustaf Gustav Gustavus
 			Haldred Hammond Harland Hannes Hans Hansel Hanzi Hartmann Harold Hartwig Hasjürgen Hebert Heiko Heiner Heinrich Heinz Heironymus Helmut Henri Herbert Heriman Hermann Herrand Herschel Hesso Hewald Hilderic Himmler Hincmar Hogan Holger Horaz Hugh Hugo Humbert
 			Immanuel Ingmar Ignaz Ingo Ivan Ivo
-			Jakob Jens Jens-Peter Jerome Joachim Jochim Johann Johannes Jonas Jörg Josef Josias Jozef Jürgen Justin
+			Jakob Jens Jens-Peter Jerome Joachim Jochim Johann Johannes Jonas Jorg Josef Josias Jozef Jürgen Justin
 			Kai Kail Karl Karl-Franz Karloman Kaspar Kaster Kastor Klaus Knud Konrad Kristof Kuno Kurt Kyle
 			Lambert Lämmerslint Laurent Laurenz Leberecht Lembert Leo Leonard Leonhard Leopold Linus Lodeweik Lodewik Lorenzo Lothar Lou Lubert Lucas Ludolf Ludwig Luidgard Luidolf Luitpold Luitprand Luke Lukas Lutbert Luther Lutz
 			Magnus Malekai Manfred Mannfred Mannricht Mannslieb Marius Mark Markus Markwald Markward Martin Mathias Mathieu Matthias Maurice Maximillian Maynard Meinhard Meinhart Meinward Melchior Michael Mies Mikhail Moritz Mortmore
@@ -80,7 +80,7 @@ imperial_group = {
 			Gamalbert Gebhard Georg Gerald Geralt Gerard Gerbert Gerhardt Gerd Gerhard Gerhoh Gerlach Gesebert Giselbert Godric Goderick Godfric Godfried Gotelind Gottfried Gotthard Gottschalk Gotthilm Gotthold Gotz Gotzelo Gozwin Gregor Guenther Gundechar Gundulf Gunnwald Gunter Gunther Gunthram Guntram Günzel Gustaf Gustav Gustavus
 			Haldred Hammond Harland Hannes Hans Hansel Hanzi Hartmann Harold Hartwig Hasjürgen Hebert Heiko Heiner Heinrich Heinz Heironymus Helmut Henri Herbert Heriman Hermann Herrand Herschel Hesso Hewald Hilderic Himmler Hincmar Hogan Holger Horaz Hugh Hugo Humbert
 			Immanuel Ingmar Ignaz Ingo Ivan Ivo
-			Jakob Jens Jens-Peter Jerome Joachim Jochim Johann Johannes Jonas Jörg Josef Josias Jozef Jürgen Justin
+			Jakob Jens Jens-Peter Jerome Joachim Jochim Johann Johannes Jonas Jorg Josef Josias Jozef Jürgen Justin
 			Kai Kail Karl Karl-Franz Karloman Kaspar Kaster Kastor Klaus Knud Konrad Kristof Kuno Kurt Kyle
 			Lambert Lämmerslint Laurent Laurenz Leberecht Lembert Leo Leonard Leonhard Leopold Linus Lodeweik Lodewik Lorenzo Lothar Lou Lubert Lucas Ludolf Ludwig Luidgard Luidolf Luitpold Luitprand Luke Lukas Lutbert Luther Lutz
 			Magnus Malekai Manfred Mannfred Mannricht Mannslieb Marius Mark Markus Markwald Markward Martin Mathias Mathieu Matthias Maurice Maximillian Maynard Meinhard Meinhart Meinward Melchior Michael Mies Mikhail Moritz Mortmore
@@ -137,7 +137,7 @@ imperial_group = {
 			Gamalbert Gebhard Georg Gerald Geralt Gerard Gerbert Gerhardt Gerd Gerhard Gerhoh Gerlach Gesebert Giselbert Godric Goderick Godfric Godfried Gotelind Gottfried Gotthard Gottschalk Gotthilm Gotthold Gotz Gotzelo Gozwin Gregor Guenther Gundechar Gundulf Gunnwald Gunter Gunther Gunthram Guntram Günzel Gustaf Gustav Gustavus
 			Haldred Hammond Harland Hannes Hans Hansel Hanzi Hartmann Harold Hartwig Hasjürgen Hebert Heiko Heiner Heinrich Heinz Heironymus Helmut Henri Herbert Heriman Hermann Herrand Herschel Hesso Hewald Hilderic Himmler Hincmar Hogan Holger Horaz Hugh Hugo Humbert
 			Immanuel Ingmar Ignaz Ingo Ivan Ivo
-			Jakob Jens Jens-Peter Jerome Joachim Jochim Johann Johannes Jonas Jörg Josef Josias Jozef Jürgen Justin
+			Jakob Jens Jens-Peter Jerome Joachim Jochim Johann Johannes Jonas Jorg Josef Josias Jozef Jürgen Justin
 			Kai Kail Karl Karl-Franz Karloman Kaspar Kaster Kastor Klaus Knud Konrad Kristof Kuno Kurt Kyle
 			Lambert Lämmerslint Laurent Laurenz Leberecht Lembert Leo Leonard Leonhard Leopold Linus Lodeweik Lodewik Lorenzo Lothar Lou Lubert Lucas Ludolf Ludwig Luidgard Luidolf Luitpold Luitprand Luke Lukas Lutbert Luther Lutz
 			Magnus Malekai Manfred Mannfred Mannricht Mannslieb Marius Mark Markus Markwald Markward Martin Mathias Mathieu Matthias Maurice Maximillian Maynard Meinhard Meinhart Meinward Melchior Michael Mies Mikhail Moritz Mortmore
@@ -194,7 +194,7 @@ imperial_group = {
 			Gamalbert Gebhard Georg Gerald Geralt Gerard Gerbert Gerhardt Gerd Gerhard Gerhoh Gerlach Gesebert Giselbert Godric Goderick Godfric Godfried Gotelind Gottfried Gotthard Gottschalk Gotthilm Gotthold Gotz Gotzelo Gozwin Gregor Guenther Gundechar Gundulf Gunnwald Gunter Gunther Gunthram Guntram Günzel Gustaf Gustav Gustavus
 			Haldred Hammond Harland Hannes Hans Hansel Hanzi Hartmann Harold Hartwig Hasjürgen Hebert Heiko Heiner Heinrich Heinz Heironymus Helmut Henri Herbert Heriman Hermann Herrand Herschel Hesso Hewald Hilderic Himmler Hincmar Hogan Holger Horaz Hugh Hugo Humbert
 			Immanuel Ingmar Ignaz Ingo Ivan Ivo
-			Jakob Jens Jens-Peter Jerome Joachim Jochim Johann Johannes Jonas Jörg Josef Josias Jozef Jürgen Justin
+			Jakob Jens Jens-Peter Jerome Joachim Jochim Johann Johannes Jonas Jorg Josef Josias Jozef Jürgen Justin
 			Kai Kail Karl Karl-Franz Karloman Kaspar Kaster Kastor Klaus Knud Konrad Kristof Kuno Kurt Kyle
 			Lambert Lämmerslint Laurent Laurenz Leberecht Lembert Leo Leonard Leonhard Leopold Linus Lodeweik Lodewik Lorenzo Lothar Lou Lubert Lucas Ludolf Ludwig Luidgard Luidolf Luitpold Luitprand Luke Lukas Lutbert Luther Lutz
 			Magnus Malekai Manfred Mannfred Mannricht Mannslieb Marius Mark Markus Markwald Markward Martin Mathias Mathieu Matthias Maurice Maximillian Maynard Meinhard Meinhart Meinward Melchior Michael Mies Mikhail Moritz Mortmore
@@ -250,7 +250,7 @@ imperial_group = {
 			Gamalbert Gebhard Georg Gerald Geralt Gerard Gerbert Gerhardt Gerd Gerhard Gerhoh Gerlach Gesebert Giselbert Godric Goderick Godfric Godfried Gotelind Gottfried Gotthard Gottschalk Gotthilm Gotthold Gotz Gotzelo Gozwin Gregor Guenther Gundechar Gundulf Gunnwald Gunter Gunther Gunthram Guntram Günzel Gustaf Gustav Gustavus
 			Haldred Hammond Harland Hannes Hans Hansel Hanzi Hartmann Harold Hartwig Hasjürgen Hebert Heiko Heiner Heinrich Heinz Heironymus Helmut Henri Herbert Heriman Hermann Herrand Herschel Hesso Hewald Hilderic Himmler Hincmar Hogan Holger Horaz Hugh Hugo Humbert
 			Immanuel Ingmar Ignaz Ingo Ivan Ivo
-			Jakob Jens Jens-Peter Jerome Joachim Jochim Johann Johannes Jonas Jörg Josef Josias Jozef Jürgen Justin
+			Jakob Jens Jens-Peter Jerome Joachim Jochim Johann Johannes Jonas Jorg Josef Josias Jozef Jürgen Justin
 			Kai Kail Karl Karl-Franz Karloman Kaspar Kaster Kastor Klaus Knud Konrad Kristof Kuno Kurt Kyle
 			Lambert Lämmerslint Laurent Laurenz Leberecht Lembert Leo Leonard Leonhard Leopold Linus Lodeweik Lodewik Lorenzo Lothar Lou Lubert Lucas Ludolf Ludwig Luidgard Luidolf Luitpold Luitprand Luke Lukas Lutbert Luther Lutz
 			Magnus Malekai Manfred Mannfred Mannricht Mannslieb Marius Mark Markus Markwald Markward Martin Mathias Mathieu Matthias Maurice Maximillian Maynard Meinhard Meinhart Meinward Melchior Michael Mies Mikhail Moritz Mortmore
@@ -306,7 +306,7 @@ imperial_group = {
 			Gamalbert Gebhard Georg Gerald Geralt Gerard Gerbert Gerhardt Gerd Gerhard Gerhoh Gerlach Gesebert Giselbert Godric Goderick Godfric Godfried Gotelind Gottfried Gotthard Gottschalk Gotthilm Gotthold Gotz Gotzelo Gozwin Gregor Guenther Gundechar Gundulf Gunnwald Gunter Gunther Gunthram Guntram Günzel Gustaf Gustav Gustavus
 			Haldred Hammond Harland Hannes Hans Hansel Hanzi Hartmann Harold Hartwig Hasjürgen Hebert Heiko Heiner Heinrich Heinz Heironymus Helmut Henri Herbert Heriman Hermann Herrand Herschel Hesso Hewald Hilderic Himmler Hincmar Hogan Holger Horaz Hugh Hugo Humbert
 			Immanuel Ingmar Ignaz Ingo Ivan Ivo
-			Jakob Jens Jens-Peter Jerome Joachim Jochim Johann Johannes Jonas Jörg Josef Josias Jozef Jürgen Justin
+			Jakob Jens Jens-Peter Jerome Joachim Jochim Johann Johannes Jonas Jorg Josef Josias Jozef Jürgen Justin
 			Kai Kail Karl Karl-Franz Karloman Kaspar Kaster Kastor Klaus Knud Konrad Kristof Kuno Kurt Kyle
 			Lambert Lämmerslint Laurent Laurenz Leberecht Lembert Leo Leonard Leonhard Leopold Linus Lodeweik Lodewik Lorenzo Lothar Lou Lubert Lucas Ludolf Ludwig Luidgard Luidolf Luitpold Luitprand Luke Lukas Lutbert Luther Lutz
 			Magnus Malekai Manfred Mannfred Mannricht Mannslieb Marius Mark Markus Markwald Markward Martin Mathias Mathieu Matthias Maurice Maximillian Maynard Meinhard Meinhart Meinward Melchior Michael Mies Mikhail Moritz Mortmore
@@ -362,7 +362,7 @@ imperial_group = {
 			Gamalbert Gebhard Georg Gerald Geralt Gerard Gerbert Gerhardt Gerd Gerhard Gerhoh Gerlach Gesebert Giselbert Godric Goderick Godfric Godfried Gotelind Gottfried Gotthard Gottschalk Gotthilm Gotthold Gotz Gotzelo Gozwin Gregor Guenther Gundechar Gundulf Gunnwald Gunter Gunther Gunthram Guntram Günzel Gustaf Gustav Gustavus
 			Haldred Hammond Harland Hannes Hans Hansel Hanzi Hartmann Harold Hartwig Hasjürgen Hebert Heiko Heiner Heinrich Heinz Heironymus Helmut Henri Herbert Heriman Hermann Herrand Herschel Hesso Hewald Hilderic Himmler Hincmar Hogan Holger Horaz Hugh Hugo Humbert
 			Immanuel Ingmar Ignaz Ingo Ivan Ivo
-			Jakob Jens Jens-Peter Jerome Joachim Jochim Johann Johannes Jonas Jörg Josef Josias Jozef Jürgen Justin
+			Jakob Jens Jens-Peter Jerome Joachim Jochim Johann Johannes Jonas Jorg Josef Josias Jozef Jürgen Justin
 			Kai Kail Karl Karl-Franz Karloman Kaspar Kaster Kastor Klaus Knud Konrad Kristof Kuno Kurt Kyle
 			Lambert Lämmerslint Laurent Laurenz Leberecht Lembert Leo Leonard Leonhard Leopold Linus Lodeweik Lodewik Lorenzo Lothar Lou Lubert Lucas Ludolf Ludwig Luidgard Luidolf Luitpold Luitprand Luke Lukas Lutbert Luther Lutz
 			Magnus Malekai Manfred Mannfred Mannricht Mannslieb Marius Mark Markus Markwald Markward Martin Mathias Mathieu Matthias Maurice Maximillian Maynard Meinhard Meinhart Meinward Melchior Michael Mies Mikhail Moritz Mortmore
@@ -418,7 +418,7 @@ imperial_group = {
 			Gamalbert Gebhard Georg Gerald Geralt Gerard Gerbert Gerhardt Gerd Gerhard Gerhoh Gerlach Gesebert Giselbert Godric Goderick Godfric Godfried Gotelind Gottfried Gotthard Gottschalk Gotthilm Gotthold Gotz Gotzelo Gozwin Gregor Guenther Gundechar Gundulf Gunnwald Gunter Gunther Gunthram Guntram Günzel Gustaf Gustav Gustavus
 			Haldred Hammond Harland Hannes Hans Hansel Hanzi Hartmann Harold Hartwig Hasjürgen Hebert Heiko Heiner Heinrich Heinz Heironymus Helmut Henri Herbert Heriman Hermann Herrand Herschel Hesso Hewald Hilderic Himmler Hincmar Hogan Holger Horaz Hugh Hugo Humbert
 			Immanuel Ingmar Ignaz Ingo Ivan Ivo
-			Jakob Jens Jens-Peter Jerome Joachim Jochim Johann Johannes Jonas Jörg Josef Josias Jozef Jürgen Justin
+			Jakob Jens Jens-Peter Jerome Joachim Jochim Johann Johannes Jonas Jorg Josef Josias Jozef Jürgen Justin
 			Kai Kail Karl Karl-Franz Karloman Kaspar Kaster Kastor Klaus Knud Konrad Kristof Kuno Kurt Kyle
 			Lambert Lämmerslint Laurent Laurenz Leberecht Lembert Leo Leonard Leonhard Leopold Linus Lodeweik Lodewik Lorenzo Lothar Lou Lubert Lucas Ludolf Ludwig Luidgard Luidolf Luitpold Luitprand Luke Lukas Lutbert Luther Lutz
 			Magnus Malekai Manfred Mannfred Mannricht Mannslieb Marius Mark Markus Markwald Markward Martin Mathias Mathieu Matthias Maurice Maximillian Maynard Meinhard Meinhart Meinward Melchior Michael Mies Mikhail Moritz Mortmore
@@ -474,7 +474,7 @@ imperial_group = {
 			Gamalbert Gebhard Georg Gerald Geralt Gerard Gerbert Gerhardt Gerd Gerhard Gerhoh Gerlach Gesebert Giselbert Godric Goderick Godfric Godfried Gotelind Gottfried Gotthard Gottschalk Gotthilm Gotthold Gotz Gotzelo Gozwin Gregor Guenther Gundechar Gundulf Gunnwald Gunter Gunther Gunthram Guntram Günzel Gustaf Gustav Gustavus
 			Haldred Hammond Harland Hannes Hans Hansel Hanzi Hartmann Harold Hartwig Hasjürgen Hebert Heiko Heiner Heinrich Heinz Heironymus Helmut Henri Herbert Heriman Hermann Herrand Herschel Hesso Hewald Hilderic Himmler Hincmar Hogan Holger Horaz Hugh Hugo Humbert
 			Immanuel Ingmar Ignaz Ingo Ivan Ivo
-			Jakob Jens Jens-Peter Jerome Joachim Jochim Johann Johannes Jonas Jörg Josef Josias Jozef Jürgen Justin
+			Jakob Jens Jens-Peter Jerome Joachim Jochim Johann Johannes Jonas Jorg Josef Josias Jozef Jürgen Justin
 			Kai Kail Karl Karl-Franz Karloman Kaspar Kaster Kastor Klaus Knud Konrad Kristof Kuno Kurt Kyle
 			Lambert Lämmerslint Laurent Laurenz Leberecht Lembert Leo Leonard Leonhard Leopold Linus Lodeweik Lodewik Lorenzo Lothar Lou Lubert Lucas Ludolf Ludwig Luidgard Luidolf Luitpold Luitprand Luke Lukas Lutbert Luther Lutz
 			Magnus Malekai Manfred Mannfred Mannricht Mannslieb Marius Mark Markus Markwald Markward Martin Mathias Mathieu Matthias Maurice Maximillian Maynard Meinhard Meinhart Meinward Melchior Michael Mies Mikhail Moritz Mortmore
@@ -530,7 +530,7 @@ imperial_group = {
 			Gamalbert Gebhard Georg Gerald Geralt Gerard Gerbert Gerhardt Gerd Gerhard Gerhoh Gerlach Gesebert Giselbert Godric Goderick Godfric Godfried Gotelind Gottfried Gotthard Gottschalk Gotthilm Gotthold Gotz Gotzelo Gozwin Gregor Guenther Gundechar Gundulf Gunnwald Gunter Gunther Gunthram Guntram Günzel Gustaf Gustav Gustavus
 			Haldred Hammond Harland Hannes Hans Hansel Hanzi Hartmann Harold Hartwig Hasjürgen Hebert Heiko Heiner Heinrich Heinz Heironymus Helmut Henri Herbert Heriman Hermann Herrand Herschel Hesso Hewald Hilderic Himmler Hincmar Hogan Holger Horaz Hugh Hugo Humbert
 			Immanuel Ingmar Ignaz Ingo Ivan Ivo
-			Jakob Jens Jens-Peter Jerome Joachim Jochim Johann Johannes Jonas Jörg Josef Josias Jozef Jürgen Justin
+			Jakob Jens Jens-Peter Jerome Joachim Jochim Johann Johannes Jonas Jorg Josef Josias Jozef Jürgen Justin
 			Kai Kail Karl Karl-Franz Karloman Kaspar Kaster Kastor Klaus Knud Konrad Kristof Kuno Kurt Kyle
 			Lambert Lämmerslint Laurent Laurenz Leberecht Lembert Leo Leonard Leonhard Leopold Linus Lodeweik Lodewik Lorenzo Lothar Lou Lubert Lucas Ludolf Ludwig Luidgard Luidolf Luitpold Luitprand Luke Lukas Lutbert Luther Lutz
 			Magnus Malekai Manfred Mannfred Mannricht Mannslieb Marius Mark Markus Markwald Markward Martin Mathias Mathieu Matthias Maurice Maximillian Maynard Meinhard Meinhart Meinward Melchior Michael Mies Mikhail Moritz Mortmore
@@ -586,7 +586,7 @@ imperial_group = {
 			Gamalbert Gebhard Georg Gerald Geralt Gerard Gerbert Gerhardt Gerd Gerhard Gerhoh Gerlach Gesebert Giselbert Godric Goderick Godfric Godfried Gotelind Gottfried Gotthard Gottschalk Gotthilm Gotthold Gotz Gotzelo Gozwin Gregor Guenther Gundechar Gundulf Gunnwald Gunter Gunther Gunthram Guntram Günzel Gustaf Gustav Gustavus
 			Haldred Hammond Harland Hannes Hans Hansel Hanzi Hartmann Harold Hartwig Hasjürgen Hebert Heiko Heiner Heinrich Heinz Heironymus Helmut Henri Herbert Heriman Hermann Herrand Herschel Hesso Hewald Hilderic Himmler Hincmar Hogan Holger Horaz Hugh Hugo Humbert
 			Immanuel Ingmar Ignaz Ingo Ivan Ivo
-			Jakob Jens Jens-Peter Jerome Joachim Jochim Johann Johannes Jonas Jörg Josef Josias Jozef Jürgen Justin
+			Jakob Jens Jens-Peter Jerome Joachim Jochim Johann Johannes Jonas Jorg Josef Josias Jozef Jürgen Justin
 			Kai Kail Karl Karl-Franz Karloman Kaspar Kaster Kastor Klaus Knud Konrad Kristof Kuno Kurt Kyle
 			Lambert Lämmerslint Laurent Laurenz Leberecht Lembert Leo Leonard Leonhard Leopold Linus Lodeweik Lodewik Lorenzo Lothar Lou Lubert Lucas Ludolf Ludwig Luidgard Luidolf Luitpold Luitprand Luke Lukas Lutbert Luther Lutz
 			Magnus Malekai Manfred Mannfred Mannricht Mannslieb Marius Mark Markus Markwald Markward Martin Mathias Mathieu Matthias Maurice Maximillian Maynard Meinhard Meinhart Meinward Melchior Michael Mies Mikhail Moritz Mortmore
@@ -689,7 +689,7 @@ imperial_group = {
 			Gamalbert Gebhard Georg Gerald Geralt Gerard Gerbert Gerhardt Gerd Gerhard Gerhoh Gerlach Gesebert Giselbert Godric Goderick Godfric Godfried Gotelind Gottfried Gotthard Gottschalk Gotthilm Gotthold Gotz Gotzelo Gozwin Gregor Guenther Gundechar Gundulf Gunnwald Gunter Gunther Gunthram Guntram Günzel Gustaf Gustav Gustavus
 			Haldred Hammond Harland Hannes Hans Hansel Hanzi Hartmann Harold Hartwig Hasjürgen Hebert Heiko Heiner Heinrich Heinz Heironymus Helmut Henri Herbert Heriman Hermann Herrand Herschel Hesso Hewald Hilderic Himmler Hincmar Hogan Holger Horaz Hugh Hugo Humbert
 			Immanuel Ingmar Ignaz Ingo Ivan Ivo
-			Jakob Jens Jens-Peter Jerome Joachim Jochim Johann Johannes Jonas Jörg Josef Josias Jozef Jürgen Justin
+			Jakob Jens Jens-Peter Jerome Joachim Jochim Johann Johannes Jonas Jorg Josef Josias Jozef Jürgen Justin
 			Kai Kail Karl Karl-Franz Karloman Kaspar Kaster Kastor Klaus Knud Konrad Kristof Kuno Kurt Kyle
 			Lambert Lämmerslint Laurent Laurenz Leberecht Lembert Leo Leonard Leonhard Leopold Linus Lodeweik Lodewik Lorenzo Lothar Lou Lubert Lucas Ludolf Ludwig Luidgard Luidolf Luitpold Luitprand Luke Lukas Lutbert Luther Lutz
 			Magnus Malekai Manfred Mannfred Mannricht Mannslieb Marius Mark Markus Markwald Markward Martin Mathias Mathieu Matthias Maurice Maximillian Maynard Meinhard Meinhart Meinward Melchior Michael Mies Mikhail Moritz Mortmore
@@ -750,7 +750,7 @@ imperial_group = {
 		Gamalbert Gebhard Georg Gerald Geralt Gerard Gerbert Gerhardt Gerd Gerhard Gerhoh Gerlach Gesebert Giselbert Godric Goderick Godfric Godfried Gotelind Gottfried Gotthard Gottschalk Gotthilm Gotthold Gotz Gotzelo Gozwin Gregor Guenther Gundechar Gundulf Gunnwald Gunter Gunther Gunthram Guntram Günzel Gustaf Gustav Gustavus
 		Haldred Hammond Harland Hannes Hans Hansel Hanzi Hartmann Harold Hartwig Hasjürgen Hebert Heiko Heiner Heinrich Heinz Heironymus Helmut Henri Herbert Heriman Hermann Herrand Herschel Hesso Hewald Hilderic Himmler Hincmar Hogan Holger Horaz Hugh Hugo Humbert
 		Immanuel Ingmar Ignaz Ingo Ivan Ivo
-		Jakob Jens Jens-Peter Jerome Joachim Jochim Johann Johannes Jonas Jörg Josef Josias Jozef Jürgen Justin
+		Jakob Jens Jens-Peter Jerome Joachim Jochim Johann Johannes Jonas Jorg Josef Josias Jozef Jürgen Justin
 		Kai Kail Karl Karl-Franz Karloman Kaspar Kaster Kastor Klaus Knud Konrad Kristof Kuno Kurt Kyle
 		Lambert Lämmerslint Laurent Laurenz Leberecht Lembert Leo Leonard Leonhard Leopold Linus Lodeweik Lodewik Lorenzo Lothar Lou Lubert Lucas Ludolf Ludwig Luidgard Luidolf Luitpold Luitprand Luke Lukas Lutbert Luther Lutz
 		Magnus Malekai Manfred Mannfred Mannricht Mannslieb Marius Mark Markus Markwald Markward Martin Mathias Mathieu Matthias Maurice Maximillian Maynard Meinhard Meinhart Meinward Melchior Michael Mies Mikhail Moritz Mortmore
@@ -805,25 +805,25 @@ estalian_group	= {
 	}
 	dynasty_names = {
 		"de Aviz" "de Bragança" "de Crato" "d'Alburquerque" "de Portugal" "de Lencastre" "de Melo" 
-		"de Moura" "de Nápoles" "de Menezes" "de Saldanha" 
+		"de Moura" "de Napoles" "de Menezes" "de Saldanha" 
 		#CK2
 		"da Câmara" "da Maia" "de Abrantes" "de Moura Barreto" "de Sousa"
 	}
 	male_names = {
-		João Filipe Afonso Pedro António Duarte Henrique José Manuel Sebastião Miguel Teodósio Dinis 
-		Alexandre Carlos Diego Jaime Luís Álvaro André Bartolomeu Caetano Damião Estevão Francisco 
-		Xavier Gabriel Garcia Gaspar Gil Gonçalo Guilherme Inácio Joaquim Jorge Lourenço Marco Nicolau 
-		Paulo Rafael Rogério Rui Simão Uriel Vicente Octávio
-		Afonso Alphonse Aires Álvaro Oliver Bermudo Vermudo Diogo Diaco Egas Estêvão Stephen Fernão 
+		João Filipe Afonso Pedro Antonio Duarte Henrique Jose Manuel Sebastião Miguel Teodosio Dinis 
+		Alexandre Carlos Diego Jaime Luis Alvaro Andre Bartolomeu Caetano Damião Estevão Francisco 
+		Xavier Gabriel Garcia Gaspar Gil Gonçalo Guilherme Inacio Joaquim Jorge Lourenço Marco Nicolau 
+		Paulo Rafael Rogerio Rui Simão Uriel Vicente Octavio
+		Afonso Alphonse Aires Alvaro Oliver Bermudo Vermudo Diogo Diaco Egas Estêvão Stephen Fernão 
 		Ferdinand Fernando Ferdinand Garcia Garcia Gil Egidius Gomes Gomez Gonçalo Gonzalo Guterre 
-		Walter Henrique Henry Hermígio João John Lopo Lupo Lourenço Laurence Martim Martin Mem Mendo 
+		Walter Henrique Henry Hermigio João John Lopo Lupo Lourenço Laurence Martim Martin Mem Mendo 
 		Mendo Mendo Monio Munio Muno Munio Nuno Nuno Paio Pelagius Pedro Peter Pero Peter Pôncio 
 		Rodrigo Roderick Rui Roderick Sancho Soeiro Suero Raimundo Raymond Vasco Vasco Vicente 
 		Vincent Pons
 	}
 	female_names = {
-		Aldara Alduara Aldonça Aldonza Beatriz Beatrice Berengária Berengaria Branca Blanche
-		Constance Dórdia Elvira Elvira Estevainha Stephania Fruilhe Fronilde Gontinha Gontroda 
+		Aldara Alduara Aldonça Aldonza Beatriz Beatrice Berengaria Berengaria Branca Blanche
+		Constance Dordia Elvira Elvira Estevainha Stephania Fruilhe Fronilde Gontinha Gontroda 
 		Guiomar Inês Agnes Joana Joan Leonor Eleanor Mafalda Matilda Margarida Margaret Maria 
 		Marinha Marine Mor Mayor Ouroana Sancha Sancha Teresa Teresa Urraca Urraca Gotruda Constança
 	}
@@ -921,7 +921,7 @@ bretonnian_group	= {
 		Archambault Armistead 
 		Babineaux Beaumont
 		d'Aquitain d'aquitaine d'Ferignac d'Gien d'Hemmerle d'Jouinard d'Marguilles d'Montjoie d'Perrache d'Poussenc d'Quenelles d'Renesse
-		"de Alencon" "de Brionne" "de Bruleaux" "de Brusse" "de Caradue" "de Chantillon" "de Descloux" "de Fregune" "de la Roserie" "de L'Anguille" "de Larret" "de Martel" "de Montfort" "de Moreaux" "de Muret" "de Portsall" "de Turín"
+		"de Alencon" "de Brionne" "de Bruleaux" "de Brusse" "de Caradue" "de Chantillon" "de Descloux" "de Fregune" "de la Roserie" "de L'Anguille" "de Larret" "de Martel" "de Montfort" "de Moreaux" "de Muret" "de Portsall" "de Turin"
 		Deniaud Dufort
 		Labelle	
 		Michaud
@@ -930,47 +930,47 @@ bretonnian_group	= {
 		Theugard
 	}
 	male_names = {
-		Édouard Érrard Étienne Adémar Adrien Aimery Alain 
-		Aldebert Aldéric Alphonse Amaury Amédée Ancel André Antoine Archambaud Arnaud 
-		Arnault Arnoul Aubry Aymar Barthélémi Baudouin Benoît Bérenger Bernard Bertrand Bohemond 
+		Edouard Errard Etienne Ademar Adrien Aimery Alain 
+		Aldebert Alderic Alphonse Amaury Amedee Ancel Andre Antoine Archambaud Arnaud 
+		Arnault Arnoul Aubry Aymar Barthelemi Baudouin Benoît Berenger Bernard Bertrand Bohemond 
 		Boson Bouchard Centule Charles Clotaire Ebbon Enguerrand Eudes Eustache Evrard Foulques François 
-		Frédéric Gaucher Gaucelin Gauthier Geoffroi Géraud Gilbert Gilles Godefroi
-		Guichard Guiges Guilhem Guillaume Guy Hélie Hamelin Henri Herbert Hildebert Hugues Humbert Jacques 
-		Jaufré Jaspert Jean Jourdain Julien Léon Léonard Lothaire Louis Loup Mathieu Maurice Nicolas Ogier Onfroi Orson Othon
-		Payen Philippe Pierre Raimbaut Raoul Raymond Raynaud Renaud Richard Robert Robin Roger Rorgues Roubaud Savary Sigismond Simon Thibault Thiébaut 
+		Frederic Gaucher Gaucelin Gauthier Geoffroi Geraud Gilbert Gilles Godefroi
+		Guichard Guiges Guilhem Guillaume Guy Helie Hamelin Henri Herbert Hildebert Hugues Humbert Jacques 
+		Jaufre Jaspert Jean Jourdain Julien Leon Leonard Lothaire Louis Loup Mathieu Maurice Nicolas Ogier Onfroi Orson Othon
+		Payen Philippe Pierre Raimbaut Raoul Raymond Raynaud Renaud Richard Robert Robin Roger Rorgues Roubaud Savary Sigismond Simon Thibault Thiebaut 
 		Thierry Thomas Valeran Yves
-		Adélard Adrien-Marie Alphonse Alexis Alston Ames André Amadieu Antonin Antoine-Laurent Auguste Augustin Aubert Auben Audric 
+		Adelard Adrien-Marie Alphonse Alexis Alston Ames Andre Amadieu Antonin Antoine-Laurent Auguste Augustin Aubert Auben Audric 
 		Barnabe Barthomieu Basile Bastien Baudouin Bedivere Beau Beldane Benoît Benezet Bernard Franchot
-		Charles-Louis Charles-Leon "Charles Maurice" "Charles Bon-Adrien" "Claude Ambroise" Claude-Perrin Claude Christophe Clément Constantin 
+		Charles-Louis Charles-Leon "Charles Maurice" "Charles Bon-Adrien" "Claude Ambroise" Claude-Perrin Claude Christophe Clement Constantin 
 		Donatien Dion Didier Diderot Denis 
-		Edmond Edgard Emery Emmanuel Eugène Étienne Étienne-François 
-		Fabien Fabrice Félix Fernand Ferrand Ferrant Florentin Franck François François-Louis François-Marie François-Paul François-René François-Joseph Frédéric Gabriel Gaston Gautier Geoffroi Georges Georges-Louis Gérald Géraud Gratien Guilbert Guillaume-Chrétien 
+		Edmond Edgard Emery Emmanuel Eugène Etienne Etienne-François 
+		Fabien Fabrice Felix Fernand Ferrand Ferrant Florentin Franck François François-Louis François-Marie François-Paul François-Rene François-Joseph Frederic Gabriel Gaston Gautier Geoffroi Georges Georges-Louis Gerald Geraud Gratien Guilbert Guillaume-Chretien 
 		Hamon Hercule Hilaire Horace Hyacinth 
 		Ilbert 
-		Jean-André Jean-Baptiste Jean-Frédéric Jean-François Jean-Jacques Jean-Luc "Jean Moreau" Jeannot Julien 
-		Laurent Laurence Lammert Lazare Léon Léopold Lionel Louis-Alexandre Louis-Bernard Louis-Gabriel Louis-Joseph Louis-Marie Louis-Nicolas Louis Lucien 
+		Jean-Andre Jean-Baptiste Jean-Frederic Jean-François Jean-Jacques Jean-Luc "Jean Moreau" Jeannot Julien 
+		Laurent Laurence Lammert Lazare Leon Leopold Lionel Louis-Alexandre Louis-Bernard Louis-Gabriel Louis-Joseph Louis-Marie Louis-Nicolas Louis Lucien 
 		Marcel Marin Maurice Maxence Michel Morris
 		Nazaire Nicholas Nicholas-Joseph Nicolas Nicolas-Charles Niel 
 		Olivier 
 		Pepin Perrin Philip Philippe-Antoine Philippe Pierre-Charles Pierre-François 
-		Raoul Raimund René Renard Rémi Rémy Rodolph Rodrigue Roger Rolande 
-		Sébastien Sieur Simon Sylvestre 
-		Théodore Théo Timothée Tristan 
+		Raoul Raimund Rene Renard Remi Remy Rodolph Rodrigue Roger Rolande 
+		Sebastien Sieur Simon Sylvestre 
+		Theodore Theo Timothee Tristan 
 		Urbain 
 		Victor-Marie Victor
 	}
 	female_names = {
-		Éléonore Élodie Étiennette Adèle Adalmode Adelaide Adelinde 
-		Agnès Aléarde Alice Aliénor Agathe
+		Eleonore Elodie Etiennette Adèle Adalmode Adelaide Adelinde 
+		Agnès Alearde Alice Alienor Agathe
 		Alix Almodis Amelie Anne Antoinette Arsinde Aude Aurengarde 
-		Béatrice Béatrix Belleassez Benoîte Bérengère
-		Berthe Blanche Bonne Bourgogne Bourguigne Cécile Cathèrine 
+		Beatrice Beatrix Belleassez Benoîte Berengère
+		Berthe Blanche Bonne Bourgogne Bourguigne Cecile Cathèrine 
 		Charlotte Constance Denise Douce Echive Eglantine
 		Elisabeth Emma Ermengarde Ermessinde Esclarmonde 
-		Euphrosine Eustachie Eve Gerberge Gisèle Guillaumette Héloise Helvis Hodierne Ide Ildégarde
+		Euphrosine Eustachie Eve Gerberge Gisèle Guillaumette Heloise Helvis Hodierne Ide Ildegarde
 		Isabeau Isabelle Jeanne Judith Julienne Mafalda Mahaut Margot Marguerite Marie Marthe
-		Mascarose Mathilde Mélisande Mélisende Mélusine Péronelle Pernelle Perinne Pernette Plaisance 
-		Raymonde Sarrazine Solène Sophie Stéphanie Sybille Tiburge Valence Yolande
+		Mascarose Mathilde Melisande Melisende Melusine Peronelle Pernelle Perinne Pernette Plaisance 
+		Raymonde Sarrazine Solène Sophie Stephanie Sybille Tiburge Valence Yolande
 	}
 }
 
@@ -1457,7 +1457,7 @@ tilean_group = {
 		Buoso Callisto Camillo Candido Cangrande Carlo Cassio Castore Cataldo Catone Cecco 
 		Chiaffredo Chiano Ciro Ciuccio Claudio Clemente Costanzo Cesare
 		Comita Conone Cornelio Corradino Corrado Cosimo Cosma Costante Costantino 
-		Cristoforo Damiano Davide Demetrio Dioniso Doménico 
+		Cristoforo Damiano Davide Demetrio Dioniso Domenico 
 		Durante Edoardo Elio Emmanuele Ennio Enrico Enzio Enzo Ercole 
 		Ermenegildo Ettore Eugenio Ezio Ezzelino Fabrizio Fausto Federigo
 		Felice Ferdinando Ferruccio Filippo Fiorello Flavio Folco Fortunato 
@@ -1544,127 +1544,127 @@ norse_group = {
 		primary = A78
 	}
 	dynasty_names = {
-		Ragarsson Donnersson Halvorsson Lindqvist Haneto Højgaard  Mortenson Danielson Andreasson Lundgren
-		Johansson Øybiorn Neergaard "af Isaksen" Lund Vilhjalmsson Holgersson Kjallak Hanna
+		Ragarsson Donnersson Halvorsson Lindqvist Haneto Hojgaard  Mortenson Danielson Andreasson Lundgren
+		Johansson Oybiorn Neergaard "af Isaksen" Lund Vilhjalmsson Holgersson Kjallak Hanna
 		Knutson
 		Snagarlson Southbane Shieldsmasher Shiptaker Swordsson Stigsson
 		Torgersen Torjussen Tusktaker
 		Viletide
 	}
 	male_names = {
-		Abbe Abel Abjörn Aðakán Aðalmækir Aðalmærki Aðalráðr Aðalvaldr Ádám Aðgils Aðísl Adúlfr Ævarr Afi Ágautr Ágeirr Agmund
-		Agnarr Águti Agviðr Ailmær Ákimann Álarr Albóðr Aldúlfr Aldviðr Aleifr Áleifr Alf Alfgautr Alfkæll Álfljótr Alfr Álfr 
-		Álfráðr Alfríkr Alfvarðr Álfvarinn Alfvin Algautr Algísl Áli Alli Almgeirr Álmgeirr Alrekr Alríkr Alvér Alvini Ambi 
-		Ámundi Ámundr An Andreas Andsvarr Anki Anlaf Ansurr Ansvarr Anundi Anvindr Api Ari Arinbiörn Ármóðr Arn Arnbiörn 
-		Arnbjorn Arnbjörn Arndórr Arnfastr Arnfiðr Arnfinn Arngeir Arnhallr Árni Arnkel Arnkell Arnketilbarn Arnketill 
-		Arnlaug Arnljot Arnniútr Arnoddr Arnor Arnórr Arnríðr Arnrøðr Arnsteinn Arnulfr Ásdiarfr Ásfarð Ásfrøðr Asgaut 
-		Asgeir Ásgísl Ásgrímr Ási Askel Ásketill Askr Ásmarr Asmund Ásólfr Assurr Ásti Ástráðr Ásvaldr Ásviðr Atfari 
-		Atli Atsurr Audbjorn Auðbjörn Auðgeirr Auðgísl Auðgrímr Auðhvatr Auði Auðmaðr Auðmann Auðsteinn Auðúlfr Audun 
-		Auðun Auðvini Augnarr Auni Aunn Auríkr Austmaðr Authulf Auti Autir Ávangr Azurr Bæilir Baggi Bak Baldi Balki 
-		Balli Bard Bárekr Barki Barkr Barkviðr Barn Barni Basing Bassi Baug Beda Bekki Beli Belli Beltr Benedikt Bensi 
-		Berg Bergfinn Bergfinnr Bergr Bergþórr Bersi Bíldr Billingr Birgir Bisi Bjaðachr Bjálfi Bjarnheðinn Bjarnvarðr 
-		Bjartmar Bjartr Bjólfr Björnketill Björnólfr Bjornulf Björnulfr Björnúlfr Björsi Bjórstein Blæingr Blakki Blakkr 
-		Blanda Blesi Bleyði Bodalf Böðmóðr Bófi Böggvir Bói Boldi Bolli Bólnautr Boltr Bóndi Borggæirr Borggeir Borgulfr 
-		Borgúlfr Bork Börkr Borstig Bósi Bótfreðr Bótgæirr Bóthvatr Bóti Bótmundr Botni Bótólfr Bragi Brandr Brandulfr Breiði 
-		Breiðr Bresi Bretakollr Broddr Bróklauss Bröndulfr Brotulfr Bruddr Brúðr Brúnkarl Brúnn Brusi Brynjulfr Buði Buggi 
-		Bukki Bukkr Bursti Butni Býrir Býúlfr Dagfinn Dagr Dagstyrr Dagviðr Dálkr Danpr Darri Djúri Djúrvér Dofnakr Dolgfinnr 
-		Dómaldi Dörruðr Dóti Drósbói Dúfa Dufgúss Dufþakr Dugfúss Dunfjall Dunkr Dúsi Dyri Dýri Dýrvér Edmundr Eðvarðr Efi Egil 
-		Egill Eiðr Eiláfr Eileifr Eilif Eilífr Einar Einarr Eindridi Eindriðr Eitri Eldgrim Eldgrímr Éldi Elliðagrímr Emundr 
-		Endriði Eringísl Erlend Erli Erling Erlingr Ernmund Eydis Eygautr Eyguti Eyjolf Eykr Eylakr Eylaugr Eyniútr Eyríkr 
-		Eysteinn Eyvald Eyvendill Eyvindr Eyþjófr Faddi Faði Faksi Farbjörn Fargrim Fargrímr Farmann Farthegn Fastarr Fastbjörn 
-		Fastgeir Fastmundr Fati Feiti Fiak Fiðr Filippus Finn Finnbjörn Finnbogi Finni Finnleik Finnólfr Finnr Finnviðr Firir 
-		Firthgest Fjallgeirr Fjölvarr Flikkr Flóki Foli Fóli Folkaðr Folkbjörn Folkgeir Fólki Folksteinn Folkviðr Forni Fóthraðr 
-		Frakki Fráni Freybjörn Freygeirr Freyríkr Freysteinn Friðbjörn Fridgeir Fridmund Friðmundr Friðrekr Friðulfr Friðþjófr 
-		Frodi Frøkn Frostulfr Fullhugi Fullr Fúlnir Fundinn Fúsi Fux Gaddi Gælfr Gagi Gagr Galinn Galli Galmann Galmi Gálmr 
-		Galti Gamalkarl Gamalkarli Gamli Gardar Garðr Gaukr Gauss Gautarr Gautdiarfr Gauti Gautráðr Gautrekr Gavtvid Gedda 
-		Geir Geirbjörn Geirdiarfr Geirfinn Geiri Geirleikr Geirmárr Geirmundr Geirni Geirolf Geirólfr Geirraðr Geirrøðr 
-		Geirsteinn Geirvarðr Geirviðr Geirþjófr Geitir Gellir Gerðarr Gialli Gibbon Gígr Gildi Gilli Gillingr Gils 
-		Gilsbrikt Gimp Gippi Giskingr Gísli Gísmundr Gísstæinn Giúlákr Gizur Gizurr Gjaflaugr Gjafvaldr Gjarðarr Glæggi Glam 
-		Glippir Glöggr Gnæggir Gnauðimaðr Gneisti Gnupi Gnúpr Goðin Gráni Granmárr Grannkall Grásteinn Grégóríús Greiði Grein 
-		Greipr Grenjaðr Grimar Grímarr Grími Grimkel Grimolf Grímr Grímsi Grith Grjótgarðr Grubbi Grúmi Grummi Grytingr Guðbjörn 
-		Guðfriðr Guðfrøðr Guði Guðini Guðki Gudleif Gudmund Guðmundr Guðriðr Gudrik Guðrøðr Guðsteinn Guðúlfr Guðvarr Guðþorn 
-		Gullæifr Gulli Gummi Gunndiarfr Gunni Gunnlaug Gunnlaugr Gunnmundr Gunnólfr Gunnulf Gunnvaldr Gunnvarr Gunnviðr Gussi 
-		Guthhere Guthroth Guti Guttormr Gýlaugr Gylfir Gyrgir Habbi Hábeinn Haddr Háðski Haeng Hæra Hæringr Hættingr Haf 
-		Hafgrímr Haflidi Hafliði Hafþórir Hagbarðr Hagi Hakikarl Haklangr Hákon Háleygr Halfburinn Halfdan Hálfr Hall Hallad 
-		Hallbjorn Hallbjörn Halldor Halldórr Hallfreðr Hallfrøðr Hallgeirr Hallgrim Hallgrímr Halli Hallkel Hallkell Hallormr 
-		Hallr Hallstein Hallsteinn Hallvard Hallvarðr Halmi Hamall Hamarr Hamr Hand Hár Harald Haraldr Harðænni Harðaknútr 
-		Hardbein Harðbeinn Harðgeirr Harðgrípr Harði Harðnefr Harðr Harðsteinn Harek Hárekr Hári Harmsorgi Hárukr Harvaldr 
-		Hásteinn Hauk Haukreiði Háulfr Hávarðr Hávarr Heðinbjörn Heðinfastr Hefnir Hegg Heggi Hegsteinn Hegviðr Heiðrekr 
-		Heilgeirr Heimkell Hekkr Helf Helgulfr Hella Helmingr Hemingr Herbjörn Herburt Hergrímr Heriólfr Herjarr Herjolf 
-		Herjólfr Herkingr Herlaugr Herrøðr Hersir Hersteinn Hildibrandr Hildir Hildulfr Hildungr Hildvígr Hjalli Hjálmarr 
-		Hjálmgeirr Hjálmgrímr Hjálmólfr Hjálmr Hjálmviðr Hjalti Hjarrandi Hjorleif Hjörólfr Hjörvarðr Hlífsteinn Hlífundr 
-		Hlodvir Hneitr Höggvandi Hogni Högni Hólmbjörn Hólmdiarfr Hólmgautr Holmgavt Hólmgeirr Hólmkell Hólmketill Hólmlaugr
-		Hólmr Holmstein Hólmviðr Hónefr Hord Hörðr Hornbori Horni Horsefni Hösvi Hrafn Hrafningr Hrafnkel Hrafnvartr Hrafsi 
-		Hrappr Hreiðarr Hreiðir Hreiðmárr Hreiðúlfr Hrein Hreinn Hrifla Hriflingr Hringulfr Hroald Hroar Hróbjartr Hróðaldr 
-		Hróðarr Hróðgautr Hróðgeirr Hróðhvatr Hróðísl Hróðlaugr Hróðmárr Hróðólfr Hróðsteinn Hróðulfr Hróðvísl Hrói Hrókr 
-		Hrollaug Hrollaugr Hrolleifr Hrømingr Hrómundr Hrosskel Hrútr Hugaldr Hugi Humli Hunbogi Hundi Hundifotr Hundigrímr
-		Hundolfr Hundólfr Hundr Hundulfr Húnketill Húnn Hvalr Hvati Hvelpr Hvíti Hvítkárr Hwal Hyrningr Ígulbjörn Ingi Ingifast 
-		Ingifastr Ingigeirr Ingikárr Ingileifr Ingimann Ingimárr Ingimund Ingivaldr Ingjaldr Ingolf Ingólfr Ión Iric Isgaut 
-		Ísólfr Isulf Ívarr Jargeirr Jarl Jarli Járni Játmundr Jobjorn Jóbjörn Jöðurr Jófreyr Jöfursteinn Jókell Jokul Jomar 
-		Jóni Jónsi Jór Jórulfr Jósteinn Jösurr Júti Kabbi Kadal Kálfr Kanpr Kappi Karli Kárni Kárr Kasi Kaupmann Ketil 
-		Ketilbjörn Ketilfastr Kiúlákr Kiúli Kjarfalr Kjartan Kjarvalr Kjotvi Kjötvi Klakkr Klefi Kleppir Kleppr Klintr 
-		Klippir Klœngr Knakkr Knjúkr Knöttr Knut Kodran Køgir Kolbein Kolbeinn Kolgrímr Kolli Kollr Kolr Kolskegg 
-		Kolskeggr Kolsveinn Konal Kóri Körlungr Korpr Korpúlfr Kotkell Krákr Krínán Kristófórus Krókr Krumr Kuggi Kúss Kváran 
-		Kvígbjörn Kvígr Kvígulfr Kylfa Láfi Lafsi Lambi Laugi Lefwine Leggr Leidolf Leiknir Leó Létta Libbi Liðr Liðsmaðr 
-		Lifolf Lífsteinn Líknhvatr Líknviðr Lingormr Ljot Ljótr Ljufvini Loðinn Lodmund Lofríkr Lokki Lokkr Lýðbjörn Lyting
-		Makan Mákr Mallymkun Malmury Mangi Mar Már Margaðr Markús Marteinn Meginbjörn Meinolf Melbrigði Melkólfr Melkólmr 
-		Melpatrikr Melsnati Mikael Miki Mistivir Móðólfr Moldi Morði Mörðr Múli Mundgeirr Munólfr Myndill Mýr Myskia Næmr 
-		Næstr Nagli Náttfari Nefbjörn Nefjólfr Nefstein Nikulás Njal Njáll Nukki Nykr Obbi Óblauðr Óðalfreðr Odd Oddbjörn 
-		Oddgeirr Oddi Oddleif Oddr Oddulfr Oddvarr Odinkar Œpir Ofeig Ófeigr Ofráðr Ogmund Ögmundr Ögurr Óláfr Ölfun Ölvér 
-		Ölvir Ómundi Ómunr Øn Ónæmr Öndurr Óneisi Öngli Öngull Ónn Önn Önundr or Orest Øringr Orm Ormgeirr Ormr Orn Ornulf 
-		Órœkja Óspakr Össurr Óstarki Ósvaldr Osvif Ósvífr Oswald Ósyrgr Otr Otrygg Ótryggi Ottar Oxi Øylæifr Øyniútr Øyríkr
-		Özurr Óþveginn Páll Patrekr Pétr Philippus Raði Ráðþialfr Rafnketill Rafnsvartr Raggi Ragi Ragnfastr Ragnfrøðr Ragni
-		Ragnvaldr Rambi Randi Rannvér Rauðbjörn Rauði Raumr Refkell Reginmundr Reiðarr Reiðr Reiðubúinn Reinaldr Reinn Reistr
-		Ríki Ríkólfr Ríkr Ringulfr Róarr Róbert Roðbert Roðbjartr Róðmarr Róðmundr Roðrekr Rœkia Róghvatr Róki Rókr Rossketill 
-		Rúnfastr Rúnki Rúnólfr Sædiarfr Sæfúss Sæleifr Saemund Sæulfr Sævarr Salgarðr Salómon Sámr Sauðkólfr Saxi Sialfi Sigarr 
-		Sigbjorn Sigbjörn Sigbrand Sigdiarfr Sigebeorht Sigeferth Sigeheah Sigehelm Sigemund Sigestael Sigfasti Sigfúss Siggeirr
-		Siggi Sigguatr Sighadd Sighvat Sighvatr Sigmarr Sigmundr Sigólfr Sigræifr Sigrhaddr Sigríkr Sigrøðr Sigsteinn Sigurðr 
-		Sigvaldi Sigverkr Silvester Sindri Singasven Sinir Sjólfr Skærðir Skagi Skáldi Skamkel Skamkell Skapti Skarði Skarfr 
-		Skati Sker Skíði Skofti Skógi Skógr Skólmr Skopti Skorri Skuf Skúfr Skuli Skuti Skygni Slagvér Slagvi Slóði Slothi 
-		Smiðkell Smiðr Snaebjorn Snaekol Snækollr Snær Snjolfr Snór Snorri Sod Sokki Sölgi Sólmundr Sölsi Solvi Sölvi Söndúlfr
-		Sørkell Sorli Sössurr Sóti Sparr Sperla Spjalli Spjót Spjóti Spörr Staki Stakkr Stari Starkaðr Starr Starri Stefán 
-		Stein Steinar Steinbjorn Steinbjörn Steindórr Steinfastr Steinfinnr Steingrim Steingrímr Steini Steinkel Steinkell 
-		Steinketill Steinmod Steinn Steinolf Steinþórr Stígandi Stigr Stillingr Stóðbjörn Støðingr Stóðkell Stóri Störkaðr 
-		Stórólfr Stúfr Stybbir Styfialdr Styggr Styrbjörn Styrkárr Styrkollr Styrlakr Styrmir Styrr Súlki Sunnólfr Surtr Sútari
-		Svæinir Sváfa Svafar Svanr Svaraldr Svarðkell Svarthöfði Svartkollr Svartr Sveinaldr Sveinbjorn Sveinbjörn Sveinki 
-		Sverri Sverrir Sviðbalki Swein Sylfa Syrkell Taðkr Tafæistr Tanni Tannr Tarr Tárr Tasaldi Tatti Teitr Tíðkumi Tindr 
-		Tjorvi Tjörvi Tófi Tóli Tómas Torrad Torráðr Tortryggr Tósti Tóti Totti Trygg Tulkr Tumi Túni Tunni Tyrfing Tyrvi Ubbi
-		Úbeinn Uffi Ufi Uggi Úlfarr Ulfbjorn Ulfgrim Úlfhvatr Ulfketil Úlfketill Úlfljótr Úlfnaðr Úlfr Úlfrekr Úlfvaldr Úlfviðr
-		Unir Unnketill Unnúlfr Unnvaldr Unr Útlagi Útryggr Vaði Væni Væringr Vafri Vakri Valbrandr Valdimárr Valdríkr Valgarðr 
-		Valgautr Váli Valr Valthjof Vandil Vandraðr Várfeitr Varghöss Varinn Vé-Finnr Vebjorn Vébjörn Vébrandr Védiarfr Veðr 
-		Veðraldi Véfastr Végautr Vegeir Végeirr Veglágr Végrímr Véketill Veleif Véleifr Vémundr Véniútr Véörn Vertlithi Vestein
-		Vésteinn Vestmárr Vetr Veturlidi Véþormr Véþorn Víðarr Víðfari Vífill Vígbjóðr Vígfúss Víghjalmr Víghvatr Vígi Vígleikr 
-		Vígmaðr Vígmundr Víkingr Vilhjálmr Vilmundr Vinaman Vörfeitr Vöttr Vrangi Vrangr Vreistr Þengill Þidrandi Þiðrekr Þidrik
-		Þjóðarr Þjostolf Þollákr Þometill Þóraldi Þórbeinir Þorbjorn Þórbrandr Þorfast Þorfinn Þorfrethr Þorgeir Þórgeirr Þórgestr Þorgils Þórgils Þórgísl Þorgrim Þórhaddr Þórhalli Þóriroddr Þorkel Þorketil Þórketill Þórlaugr Þórleifr Þórmóðr Þormothr Þórmundr Þórniútr Þóroddr Þorolf Þororm Þorred Þórrøðr Þorstein Þórsteinn Þórvarðr Þosteinn Þrain Þráinn Þrándr Þrassi Þróndr Þrost
+		Abbe Abel Abjorn Aoakan Aoalmakir Aoalmarki Aoalraor Aoalvaldr Adam Aogils Aoisl Adulfr Avarr Afi Agautr Ageirr Agmund
+		Agnarr Aguti Agvior Ailmar Akimann Alarr Alboor Aldulfr Aldvior Aleifr Aleifr Alf Alfgautr Alfkall Alfljotr Alfr Alfr 
+		Alfraor Alfrikr Alfvaror Alfvarinn Alfvin Algautr Algisl Ali Alli Almgeirr Almgeirr Alrekr Alrikr Alver Alvini Ambi 
+		Amundi Amundr An Andreas Andsvarr Anki Anlaf Ansurr Ansvarr Anundi Anvindr Api Ari Arinbiorn Armoor Arn Arnbiorn 
+		Arnbjorn Arnbjorn Arndorr Arnfastr Arnfior Arnfinn Arngeir Arnhallr Arni Arnkel Arnkell Arnketilbarn Arnketill 
+		Arnlaug Arnljot Arnniutr Arnoddr Arnor Arnorr Arnrior Arnroor Arnsteinn Arnulfr Asdiarfr Asfaro Asfroor Asgaut 
+		Asgeir Asgisl Asgrimr Asi Askel Asketill Askr Asmarr Asmund Asolfr Assurr Asti Astraor Asvaldr Asvior Atfari 
+		Atli Atsurr Audbjorn Auobjorn Auogeirr Auogisl Auogrimr Auohvatr Auoi Auomaor Auomann Auosteinn Auoulfr Audun 
+		Auoun Auovini Augnarr Auni Aunn Aurikr Austmaor Authulf Auti Autir Avangr Azurr Bailir Baggi Bak Baldi Balki 
+		Balli Bard Barekr Barki Barkr Barkvior Barn Barni Basing Bassi Baug Beda Bekki Beli Belli Beltr Benedikt Bensi 
+		Berg Bergfinn Bergfinnr Bergr Bergthorr Bersi Bildr Billingr Birgir Bisi Bjaoachr Bjalfi Bjarnheoinn Bjarnvaror 
+		Bjartmar Bjartr Bjolfr Bjornketill Bjornolfr Bjornulf Bjornulfr Bjornulfr Bjorsi Bjorstein Blaingr Blakki Blakkr 
+		Blanda Blesi Bleyoi Bodalf Boomoor Bofi Boggvir Boi Boldi Bolli Bolnautr Boltr Bondi Borggairr Borggeir Borgulfr 
+		Borgulfr Bork Borkr Borstig Bosi Botfreor Botgairr Bothvatr Boti Botmundr Botni Botolfr Bragi Brandr Brandulfr Breioi 
+		Breior Bresi Bretakollr Broddr Broklauss Brondulfr Brotulfr Bruddr Bruor Brunkarl Brunn Brusi Brynjulfr Buoi Buggi 
+		Bukki Bukkr Bursti Butni Býrir Býulfr Dagfinn Dagr Dagstyrr Dagvior Dalkr Danpr Darri Djuri Djurver Dofnakr Dolgfinnr 
+		Domaldi Dorruor Doti Drosboi Dufa Dufguss Dufthakr Dugfuss Dunfjall Dunkr Dusi Dyri Dýri Dýrver Edmundr Eovaror Efi Egil 
+		Egill Eior Eilafr Eileifr Eilif Eilifr Einar Einarr Eindridi Eindrior Eitri Eldgrim Eldgrimr Eldi Ellioagrimr Emundr 
+		Endrioi Eringisl Erlend Erli Erling Erlingr Ernmund Eydis Eygautr Eyguti Eyjolf Eykr Eylakr Eylaugr Eyniutr Eyrikr 
+		Eysteinn Eyvald Eyvendill Eyvindr Eythjofr Faddi Faoi Faksi Farbjorn Fargrim Fargrimr Farmann Farthegn Fastarr Fastbjorn 
+		Fastgeir Fastmundr Fati Feiti Fiak Fior Filippus Finn Finnbjorn Finnbogi Finni Finnleik Finnolfr Finnr Finnvior Firir 
+		Firthgest Fjallgeirr Fjolvarr Flikkr Floki Foli Foli Folkaor Folkbjorn Folkgeir Folki Folksteinn Folkvior Forni Fothraor 
+		Frakki Frani Freybjorn Freygeirr Freyrikr Freysteinn Friobjorn Fridgeir Fridmund Friomundr Friorekr Frioulfr Friothjofr 
+		Frodi Frokn Frostulfr Fullhugi Fullr Fulnir Fundinn Fusi Fux Gaddi Galfr Gagi Gagr Galinn Galli Galmann Galmi Galmr 
+		Galti Gamalkarl Gamalkarli Gamli Gardar Garor Gaukr Gauss Gautarr Gautdiarfr Gauti Gautraor Gautrekr Gavtvid Gedda 
+		Geir Geirbjorn Geirdiarfr Geirfinn Geiri Geirleikr Geirmarr Geirmundr Geirni Geirolf Geirolfr Geirraor Geirroor 
+		Geirsteinn Geirvaror Geirvior Geirthjofr Geitir Gellir Geroarr Gialli Gibbon Gigr Gildi Gilli Gillingr Gils 
+		Gilsbrikt Gimp Gippi Giskingr Gisli Gismundr Gisstainn Giulakr Gizur Gizurr Gjaflaugr Gjafvaldr Gjaroarr Glaggi Glam 
+		Glippir Gloggr Gnaggir Gnauoimaor Gneisti Gnupi Gnupr Gooin Grani Granmarr Grannkall Grasteinn Gregorius Greioi Grein 
+		Greipr Grenjaor Grimar Grimarr Grimi Grimkel Grimolf Grimr Grimsi Grith Grjotgaror Grubbi Grumi Grummi Grytingr Guobjorn 
+		Guofrior Guofroor Guoi Guoini Guoki Gudleif Gudmund Guomundr Guorior Gudrik Guoroor Guosteinn Guoulfr Guovarr Guothorn 
+		Gullaifr Gulli Gummi Gunndiarfr Gunni Gunnlaug Gunnlaugr Gunnmundr Gunnolfr Gunnulf Gunnvaldr Gunnvarr Gunnvior Gussi 
+		Guthhere Guthroth Guti Guttormr Gýlaugr Gylfir Gyrgir Habbi Habeinn Haddr Haoski Haeng Hara Haringr Hattingr Haf 
+		Hafgrimr Haflidi Haflioi Hafthorir Hagbaror Hagi Hakikarl Haklangr Hakon Haleygr Halfburinn Halfdan Halfr Hall Hallad 
+		Hallbjorn Hallbjorn Halldor Halldorr Hallfreor Hallfroor Hallgeirr Hallgrim Hallgrimr Halli Hallkel Hallkell Hallormr 
+		Hallr Hallstein Hallsteinn Hallvard Hallvaror Halmi Hamall Hamarr Hamr Hand Har Harald Haraldr Haroanni Haroaknutr 
+		Hardbein Harobeinn Harogeirr Harogripr Haroi Haronefr Haror Harosteinn Harek Harekr Hari Harmsorgi Harukr Harvaldr 
+		Hasteinn Hauk Haukreioi Haulfr Havaror Havarr Heoinbjorn Heoinfastr Hefnir Hegg Heggi Hegsteinn Hegvior Heiorekr 
+		Heilgeirr Heimkell Hekkr Helf Helgulfr Hella Helmingr Hemingr Herbjorn Herburt Hergrimr Heriolfr Herjarr Herjolf 
+		Herjolfr Herkingr Herlaugr Herroor Hersir Hersteinn Hildibrandr Hildir Hildulfr Hildungr Hildvigr Hjalli Hjalmarr 
+		Hjalmgeirr Hjalmgrimr Hjalmolfr Hjalmr Hjalmvior Hjalti Hjarrandi Hjorleif Hjorolfr Hjorvaror Hlifsteinn Hlifundr 
+		Hlodvir Hneitr Hoggvandi Hogni Hogni Holmbjorn Holmdiarfr Holmgautr Holmgavt Holmgeirr Holmkell Holmketill Holmlaugr
+		Holmr Holmstein Holmvior Honefr Hord Horor Hornbori Horni Horsefni Hosvi Hrafn Hrafningr Hrafnkel Hrafnvartr Hrafsi 
+		Hrappr Hreioarr Hreioir Hreiomarr Hreioulfr Hrein Hreinn Hrifla Hriflingr Hringulfr Hroald Hroar Hrobjartr Hrooaldr 
+		Hrooarr Hroogautr Hroogeirr Hroohvatr Hrooisl Hroolaugr Hroomarr Hrooolfr Hroosteinn Hrooulfr Hroovisl Hroi Hrokr 
+		Hrollaug Hrollaugr Hrolleifr Hromingr Hromundr Hrosskel Hrutr Hugaldr Hugi Humli Hunbogi Hundi Hundifotr Hundigrimr
+		Hundolfr Hundolfr Hundr Hundulfr Hunketill Hunn Hvalr Hvati Hvelpr Hviti Hvitkarr Hwal Hyrningr Igulbjorn Ingi Ingifast 
+		Ingifastr Ingigeirr Ingikarr Ingileifr Ingimann Ingimarr Ingimund Ingivaldr Ingjaldr Ingolf Ingolfr Ion Iric Isgaut 
+		Isolfr Isulf Ivarr Jargeirr Jarl Jarli Jarni Jatmundr Jobjorn Jobjorn Joourr Jofreyr Jofursteinn Jokell Jokul Jomar 
+		Joni Jonsi Jor Jorulfr Josteinn Josurr Juti Kabbi Kadal Kalfr Kanpr Kappi Karli Karni Karr Kasi Kaupmann Ketil 
+		Ketilbjorn Ketilfastr Kiulakr Kiuli Kjarfalr Kjartan Kjarvalr Kjotvi Kjotvi Klakkr Klefi Kleppir Kleppr Klintr 
+		Klippir Klœngr Knakkr Knjukr Knottr Knut Kodran Kogir Kolbein Kolbeinn Kolgrimr Kolli Kollr Kolr Kolskegg 
+		Kolskeggr Kolsveinn Konal Kori Korlungr Korpr Korpulfr Kotkell Krakr Krinan Kristoforus Krokr Krumr Kuggi Kuss Kvaran 
+		Kvigbjorn Kvigr Kvigulfr Kylfa Lafi Lafsi Lambi Laugi Lefwine Leggr Leidolf Leiknir Leo Letta Libbi Lior Liosmaor 
+		Lifolf Lifsteinn Liknhvatr Liknvior Lingormr Ljot Ljotr Ljufvini Looinn Lodmund Lofrikr Lokki Lokkr Lýobjorn Lyting
+		Makan Makr Mallymkun Malmury Mangi Mar Mar Margaor Markus Marteinn Meginbjorn Meinolf Melbrigoi Melkolfr Melkolmr 
+		Melpatrikr Melsnati Mikael Miki Mistivir Mooolfr Moldi Moroi Moror Muli Mundgeirr Munolfr Myndill Mýr Myskia Namr 
+		Nastr Nagli Nattfari Nefbjorn Nefjolfr Nefstein Nikulas Njal Njall Nukki Nykr Obbi Óblauor Óoalfreor Odd Oddbjorn 
+		Oddgeirr Oddi Oddleif Oddr Oddulfr Oddvarr Odinkar Œpir Ofeig Ófeigr Ofraor Ogmund Ögmundr Ögurr Ólafr Ölfun Ölver 
+		Ölvir Ómundi Ómunr On Ónamr Öndurr Óneisi Öngli Öngull Ónn Önn Önundr or Orest Oringr Orm Ormgeirr Ormr Orn Ornulf 
+		Órœkja Óspakr Össurr Óstarki Ósvaldr Osvif Ósvifr Oswald Ósyrgr Otr Otrygg Ótryggi Ottar Oxi Oylaifr Oyniutr Oyrikr
+		Özurr Óthveginn Pall Patrekr Petr Philippus Raoi Raothialfr Rafnketill Rafnsvartr Raggi Ragi Ragnfastr Ragnfroor Ragni
+		Ragnvaldr Rambi Randi Rannver Rauobjorn Rauoi Raumr Refkell Reginmundr Reioarr Reior Reioubuinn Reinaldr Reinn Reistr
+		Riki Rikolfr Rikr Ringulfr Roarr Robert Roobert Roobjartr Roomarr Roomundr Roorekr Rœkia Roghvatr Roki Rokr Rossketill 
+		Runfastr Runki Runolfr Sadiarfr Safuss Saleifr Saemund Saulfr Savarr Salgaror Salomon Samr Sauokolfr Saxi Sialfi Sigarr 
+		Sigbjorn Sigbjorn Sigbrand Sigdiarfr Sigebeorht Sigeferth Sigeheah Sigehelm Sigemund Sigestael Sigfasti Sigfuss Siggeirr
+		Siggi Sigguatr Sighadd Sighvat Sighvatr Sigmarr Sigmundr Sigolfr Sigraifr Sigrhaddr Sigrikr Sigroor Sigsteinn Siguror 
+		Sigvaldi Sigverkr Silvester Sindri Singasven Sinir Sjolfr Skaroir Skagi Skaldi Skamkel Skamkell Skapti Skaroi Skarfr 
+		Skati Sker Skioi Skofti Skogi Skogr Skolmr Skopti Skorri Skuf Skufr Skuli Skuti Skygni Slagver Slagvi Slooi Slothi 
+		Smiokell Smior Snaebjorn Snaekol Snakollr Snar Snjolfr Snor Snorri Sod Sokki Solgi Solmundr Solsi Solvi Solvi Sondulfr
+		Sorkell Sorli Sossurr Soti Sparr Sperla Spjalli Spjot Spjoti Sporr Staki Stakkr Stari Starkaor Starr Starri Stefan 
+		Stein Steinar Steinbjorn Steinbjorn Steindorr Steinfastr Steinfinnr Steingrim Steingrimr Steini Steinkel Steinkell 
+		Steinketill Steinmod Steinn Steinolf Steinthorr Stigandi Stigr Stillingr Stoobjorn Stooingr Stookell Stori Storkaor 
+		Storolfr Stufr Stybbir Styfialdr Styggr Styrbjorn Styrkarr Styrkollr Styrlakr Styrmir Styrr Sulki Sunnolfr Surtr Sutari
+		Svainir Svafa Svafar Svanr Svaraldr Svarokell Svarthofoi Svartkollr Svartr Sveinaldr Sveinbjorn Sveinbjorn Sveinki 
+		Sverri Sverrir Sviobalki Swein Sylfa Syrkell Taokr Tafaistr Tanni Tannr Tarr Tarr Tasaldi Tatti Teitr Tiokumi Tindr 
+		Tjorvi Tjorvi Tofi Toli Tomas Torrad Torraor Tortryggr Tosti Toti Totti Trygg Tulkr Tumi Tuni Tunni Tyrfing Tyrvi Ubbi
+		Úbeinn Uffi Ufi Uggi Úlfarr Ulfbjorn Ulfgrim Úlfhvatr Ulfketil Úlfketill Úlfljotr Úlfnaor Úlfr Úlfrekr Úlfvaldr Úlfvior
+		Unir Unnketill Unnulfr Unnvaldr Unr Útlagi Útryggr Vaoi Vani Varingr Vafri Vakri Valbrandr Valdimarr Valdrikr Valgaror 
+		Valgautr Vali Valr Valthjof Vandil Vandraor Varfeitr Varghoss Varinn Ve-Finnr Vebjorn Vebjorn Vebrandr Vediarfr Veor 
+		Veoraldi Vefastr Vegautr Vegeir Vegeirr Veglagr Vegrimr Veketill Veleif Veleifr Vemundr Veniutr Veorn Vertlithi Vestein
+		Vesteinn Vestmarr Vetr Veturlidi Vethormr Vethorn Vioarr Viofari Vifill Vigbjoor Vigfuss Vighjalmr Vighvatr Vigi Vigleikr 
+		Vigmaor Vigmundr Vikingr Vilhjalmr Vilmundr Vinaman Vorfeitr Vottr Vrangi Vrangr Vreistr Thengill Thidrandi Thiorekr Thidrik
+		Thjooarr Thjostolf Thollakr Thometill Thoraldi Thorbeinir Thorbjorn Thorbrandr Thorfast Thorfinn Thorfrethr Thorgeir Thorgeirr Thorgestr Thorgils Thorgils Thorgisl Thorgrim Thorhaddr Thorhalli Thoriroddr Thorkel Thorketil Thorketill Thorlaugr Thorleifr Thormoor Thormothr Thormundr Thorniutr Thoroddr Thorolf Thororm Thorred Thorroor Thorstein Thorsteinn Thorvaror Thosteinn Thrain Thrainn Thrandr Thrassi Throndr Throst
 
 	}
 	female_names = {
-		Aðísla Æringunnr Ærinngærðr Ærndís Æsa Æshæiðr Æsileif Ætta Áfríðr Ágærðr Ágerðr Aldis Aldís Álfdís Alfeid Alfífa 
-		Álfífa Alof Álof Alþrúðr Ámóða Arinngærðr Arnbjorg Arnbjörg Arnfríðr Arngærðr Arngerðr Arngunn Arngunnr Arnleif Arnóra
-		Arnvé Arnþrúðr Ásælfr Asdis Ásdís Asfrid Ásfríðr Ásgauta Áshildr Áskatla Asleif Ásleif Ásmoð Ásmóð Asta Asvor Auða 
-		Audbjorg Auðbjörg Auðfríðr Auðgerðr Auðhelga Auðhildr Auðr Auga Baugeiðr Begga Bera Bergljót Bergthora Bjartney Bjorg
-		Böðvildr Bolla Borgunna Bót Bótey Bótfríðr Bóthilda Bóthildr Bótvé Brígiða Brynhildr Busla Dageiðr Dís Dísælfr Dómhildr
-		Dotta Dótta Dóttir Drótt Dýrfinna Eðna Eilíf Eilína Elína Ellisif Esja Evja Eylaug Eyvör Eyþóra Faleerðr Fastný Fastvé 
-		Finna Fjötra Folka Folkví Frakokk Freydis Freydís Freygerd Freygunnr Freylaug Frida Friðælfr Frideburg Fridgerd Frosthildr
-		Gauthildr Geira Geirbjörg Geirdís Geirlaug Geirlöð Geirný Geirvé Gerd Gerðr Gilla Ginna Ginnlaug Gíslaug Gorm Grélaða 
-		Grelod Grima Gríma Grimhild Grímhildr Gróa Guðælfr Gudbjorg Guðbjörg Guðlaug Guðleif Guðmóð Guðríðr Guðrún Gulla Gullaug
-		Gulley Gunnríðr Gunnvor Gunnþrúðr Gyda Gyða Gylla Gyra Gyrd Gyrid Gyríðr Hallbera Hallberta Halldora Hallerna Hallfríðr
-		Hallgerd Hallótta Hallveig Hálma Haurlaug Heðindís Heðinvé Heiðr Heilvé Helga Helgunnr Herbjorg Herdis Herdís Herfríðr 
-		Herleif Hervör Hiðindís Hild Hildegærdh Hildibjörg Hildigard Hildigerðr Hildigunnr Hildirid Hildiríðr Hjalmdís Hjalmlaug
-		Hjölp Hjötra Hleið Hlif Hlíf Hlífey Hlífhildr Holmfrid Hólmfríðr Holmvé Hrafnhild Hrafnhildr Hróðgærða Hróðlaug Hrodny
-		Hróðþjóð Huld Hungerd Húngerðr Ígulfríðr Inga Ingeborg Ingibjorg Ingifríðr Ingigerðr Ingigunnr Ingileif Ingimóð Ingiøy 
-		Ingiriðr Ingirun Ingiþóra Inguðr Ingunn Iöfurfríðr Járngerðr Jarþrúðr Jöfurfast Jöfurföst Jöfurfríðr Jóra Joreid Jóreiðr 
-		Jórhildr Jutta Kadlin Kætilælfr Kára Katla Katrín Ketilalfr Ketilgerðr Ketillaug Ketilríðr Ketilvé Kolbrún Kolfrosta 
-		Lauga Lekný Líknvé Lína Ljót Ljótunn Ljúfa Ljúfvina Lofthæna Lopthæna Lúta Mábil Mær Magnhildr Málmfríðr Manga Már Máría
-		Marína Mattildr Mjaðveig Mjöll Móbil Molda Mundgærðr Mundgerða Nidbjorg Niðbjörg Oddbjorg Oddfríðr Oddgerðr Oddkatla 
-		Óðin-Dísa Ólæif Óleif Ölhildr Olof Ólöf Ölrún Öndótt Ormhild Ormhildr Osk Ósk Ótama Otkatla Ottkatla Ráðhildr Rafarta 
-		Raförta Ragna Ragnbjörg Ragneid Ragneiðr Ragnfríðr Ragnhild Ragnhilda Ragnhildr Ragnvé Ragnvör Ragnþrúðr Randvé Rannveig
-		Reginleif Ríkuláta Rjúpa Rögnveig Róta Rúna Sæhildr Saeunn Salbjorg Salbjörg Saldís Salvör Sesilída Sibba Sigbjörg
-		Siggunnr Siglaug Sigrid Sigríðr Sigunnr Sigvör Sigþrúðr Skálphæna Skírlaug Skjaldvör Snælaug Sniólaug Snjólaug Sólvör 
-		Sölvör Sóma Spana Stæina Stafnhilda Steina Steinnvör Steinunn Steinvor Steinvör Stynfríðr Sunnifa Svanlaug Sveina
-		Svínhildr Sylgja Systa Tola Tóra Torfa Una Unn Unnr Valgerðr Valka Vandrad Vébjörg Végerðr Vélaug Vérún Vethildr
-		Vigdis Yngvild Yri Yrsa Þjodhild Þjóðhildr Þóra Þórarna Þorballa Þorelf Þórelfr Þórey Þorfinna Þorgerd Þórgunnr 
-		Þorhild Þóríðr Þorkatla Þórkatla Þorljot Þórný Þórvé Þórví Þrúðrún Þurid Þuríðr Þyra Þýri Þyrnni Þýrví
+		Aoisla Aringunnr Arinngaror Arndis Asa Ashaior Asileif Atta Afrior Agaror Ageror Aldis Aldis Alfdis Alfeid Alfifa 
+		Alfifa Alof Alof Althruor Amooa Arinngaror Arnbjorg Arnbjorg Arnfrior Arngaror Arngeror Arngunn Arngunnr Arnleif Arnora
+		Arnve Arnthruor Asalfr Asdis Asdis Asfrid Asfrior Asgauta Ashildr Askatla Asleif Asleif Asmoo Asmoo Asta Asvor Auoa 
+		Audbjorg Auobjorg Auofrior Auogeror Auohelga Auohildr Auor Auga Baugeior Begga Bera Bergljot Bergthora Bjartney Bjorg
+		Boovildr Bolla Borgunna Bot Botey Botfrior Bothilda Bothildr Botve Brigioa Brynhildr Busla Dageior Dis Disalfr Domhildr
+		Dotta Dotta Dottir Drott Dýrfinna Eona Eilif Eilina Elina Ellisif Esja Evja Eylaug Eyvor Eythora Faleeror Fastný Fastve 
+		Finna Fjotra Folka Folkvi Frakokk Freydis Freydis Freygerd Freygunnr Freylaug Frida Frioalfr Frideburg Fridgerd Frosthildr
+		Gauthildr Geira Geirbjorg Geirdis Geirlaug Geirloo Geirný Geirve Gerd Geror Gilla Ginna Ginnlaug Gislaug Gorm Grelaoa 
+		Grelod Grima Grima Grimhild Grimhildr Groa Guoalfr Gudbjorg Guobjorg Guolaug Guoleif Guomoo Guorior Guorun Gulla Gullaug
+		Gulley Gunnrior Gunnvor Gunnthruor Gyda Gyoa Gylla Gyra Gyrd Gyrid Gyrior Hallbera Hallberta Halldora Hallerna Hallfrior
+		Hallgerd Hallotta Hallveig Halma Haurlaug Heoindis Heoinve Heior Heilve Helga Helgunnr Herbjorg Herdis Herdis Herfrior 
+		Herleif Hervor Hioindis Hild Hildegardh Hildibjorg Hildigard Hildigeror Hildigunnr Hildirid Hildirior Hjalmdis Hjalmlaug
+		Hjolp Hjotra Hleio Hlif Hlif Hlifey Hlifhildr Holmfrid Holmfrior Holmve Hrafnhild Hrafnhildr Hroogaroa Hroolaug Hrodny
+		Hroothjoo Huld Hungerd Hungeror Igulfrior Inga Ingeborg Ingibjorg Ingifrior Ingigeror Ingigunnr Ingileif Ingimoo Ingioy 
+		Ingirior Ingirun Ingithora Inguor Ingunn Iofurfrior Jarngeror Jarthruor Jofurfast Jofurfost Jofurfrior Jora Joreid Joreior 
+		Jorhildr Jutta Kadlin Katilalfr Kara Katla Katrin Ketilalfr Ketilgeror Ketillaug Ketilrior Ketilve Kolbrun Kolfrosta 
+		Lauga Lekný Liknve Lina Ljot Ljotunn Ljufa Ljufvina Lofthana Lopthana Luta Mabil Mar Magnhildr Malmfrior Manga Mar Maria
+		Marina Mattildr Mjaoveig Mjoll Mobil Molda Mundgaror Mundgeroa Nidbjorg Niobjorg Oddbjorg Oddfrior Oddgeror Oddkatla 
+		Óoin-Disa Ólaif Óleif Ölhildr Olof Ólof Ölrun Öndott Ormhild Ormhildr Osk Ósk Ótama Otkatla Ottkatla Raohildr Rafarta 
+		Raforta Ragna Ragnbjorg Ragneid Ragneior Ragnfrior Ragnhild Ragnhilda Ragnhildr Ragnve Ragnvor Ragnthruor Randve Rannveig
+		Reginleif Rikulata Rjupa Rognveig Rota Runa Sahildr Saeunn Salbjorg Salbjorg Saldis Salvor Sesilida Sibba Sigbjorg
+		Siggunnr Siglaug Sigrid Sigrior Sigunnr Sigvor Sigthruor Skalphana Skirlaug Skjaldvor Snalaug Sniolaug Snjolaug Solvor 
+		Solvor Soma Spana Staina Stafnhilda Steina Steinnvor Steinunn Steinvor Steinvor Stynfrior Sunnifa Svanlaug Sveina
+		Svinhildr Sylgja Systa Tola Tora Torfa Una Unn Unnr Valgeror Valka Vandrad Vebjorg Vegeror Velaug Verun Vethildr
+		Vigdis Yngvild Yri Yrsa Thjodhild Thjoohildr Thora Thorarna Thorballa Thorelf Thorelfr Thorey Thorfinna Thorgerd Thorgunnr 
+		Thorhild Thorior Thorkatla Thorkatla Thorljot Thorný Thorve Thorvi Thruorun Thurid Thurior Thyra Thýri Thyrnni Thýrvi
 
 	}
 }
@@ -2003,7 +2003,7 @@ fimir_group = {
 	}
 
 	dynasty_names = {
-		"Fimúl’s Chosen" "the Cruel" "the Devourer" "the Frog" "the Lizard" "the Mud" "the Rot" "the Scorpion" "the Snake" "the Slave Master" 
+		"Fimul’s Chosen" "the Cruel" "the Devourer" "the Frog" "the Lizard" "the Mud" "the Rot" "the Scorpion" "the Snake" "the Slave Master" 
 		Blood-Drinker Daemon-Seeker Daemon-Slave Evil-Eye Gold-Cloak
 		Marsh-Haunter Mace-Master Morghast's Slave Puddle-Watcher Polybog 
 		Scorpion-Tailed Shearl-Beater Skull-Splitter Swamp-Fiend Toad-Licker Trudger Women-Taker
@@ -2209,7 +2209,7 @@ albionise_group = {
 			Domhnall Donnchadh Dughall Daibhidh Diarmid Dolan Daniel Deorsa Dughlas
 			Eoghan Eobhann Eideard Eachann Eoin Eosaph Eanruig Ellair
 			Fearchar Faolan Fearghas Fionn Filib Frangan Friseal Fionnlagh
-			Gillebríghde Gillechreosd Gillecallum Gilleasp Gilleandrais Garbhan Goiridh Griogair
+			Gillebrighde Gillechreosd Gillecallum Gilleasp Gilleandrais Garbhan Goiridh Griogair
 			Hamish Harailt Horas
 			Iain Iacob Iosag Iomhar Iosaph Iona
 			Lucais Labhrainn
@@ -2249,7 +2249,7 @@ albionise_group = {
 			Gordan Grannd Guinne
 			Haig
 			Lamont
-			MacCongáil MacDhiarmaid Moireach MacPharlain MacLeoid MacDhomhnaill MacDhonnachaidh Munro MacNab
+			MacCongail MacDhiarmaid Moireach MacPharlain MacLeoid MacDhomhnaill MacDhonnachaidh Munro MacNab
 			Ncill
 			Rothach Ros
 			Stiubhart Singlear Sutherlarach
@@ -2266,12 +2266,12 @@ strigany_group = {
 
 		male_names = {
 			Adrian Alban Alexander Alexandru Alf Ambrose Ambrosius Anders Andrash Andrea Andreas Andreu Andrew Andries Andrzej Angbert Angelos Anghel Anthon Anthonius Antoni Aron August Austen Azariah
-			Bajan Balc Baptiste Barbat Barbo Barthélemy Bartholomeus Barto Basarab Berengar Besnik Bo Bogdan Boiko Boldo Brann
+			Bajan Balc Baptiste Barbat Barbo Barthelemy Bartholomeus Barto Basarab Berengar Besnik Bo Bogdan Boiko Boldo Brann
 			Cappi Carol Caspar Chal Chalie Chalin Chik Ciprian Ciubar Claudiu Coran Corneliu Costin Crispian
 			Damjan Dan Danor David Dederich Derrick Dicacus Dicun Django Djordji Domonic Dragos Dukker Dumitru Durriken
 			Edwin Eldred Emaus Emerik Emilian Enguerrand Erik Ernst Estinne Ethelred
 			Felippo Felix Ferka Florin Fonso Franciscus Franjo Frederic
-			Gabriel Gagino Gavril Geoffrey George Geralt Gheorghe Goran Grigore Guaril Gudada Gunari György
+			Gabriel Gagino Gavril Geoffrey George Geralt Gheorghe Goran Grigore Guaril Gudada Gunari Gyorgy
 			Halmar Hamelen Hankin Hans Hanzi Harman Herman
 			Iacob Iancu Ieremia Ieronimus Ignatius Ilie Ioan Ion Ionos Iorghu Iosif Iuga
 			Jacobo Jacque Jaime Jal Jan Janos Jean Jehan Jens Jermaine Joannes Johan Johannes John Jolyon Josias Juan Julius Jurgen Jurian
@@ -2284,7 +2284,7 @@ strigany_group = {
 			Quentin
 			Radovan Radu Renard Reynard Robert Roland Roman Rorik Rorke Rott Rurik
 			Saban Sas Sebastian Seneslav Sergiu Shandor Sigmund Simion Simionce Sindel Skald Steben Stefan Stefan Stelian Stephen Stevo
-			Talgris Tamás Tawno Tem Tenney Teodor Tepes Terrance Thomas Tibor Tihomir Timotei Tobar Tomas Tomás Torgo Tristram Tudor
+			Talgris Tamas Tawno Tem Tenney Teodor Tepes Terrance Thomas Tibor Tihomir Timotei Tobar Tomas Tomas Torgo Tristram Tudor
 			Ulric
 			Valentin Valeriu Vasile Veaceslav Vergil Victor Viktor Vilhelm Vintila Vlad
 			Walden Walther Wasili Wesh Wilhelm Willem
@@ -2294,23 +2294,23 @@ strigany_group = {
 		female_names = {
 			Adelina Adrastia Adriana Afina Aisha Aishe Aldith Alexandra Alexia Aline Alivia Alix Alora Amabel Amber Ami Amie Amilia Ana Anabelle Anastasia Anastasia Angela Angelia Angelica Anis Annabel Annora Antonette Antonia Arabella Arina Asa Ashena Audrey Augusta Avia
 			Beata Beatrix Bella
-			Camilla Candice Cassandra Cassia Cateline Celeste Celestine Celia Charity Charmaine Cherri Christina Circe Claire Clara Clare Clarette Clarissa Clemence Clemency Cojiñí Condesa Coral Cordel Cressida Cyneburga
+			Camilla Candice Cassandra Cassia Cateline Celeste Celestine Celia Charity Charmaine Cherri Christina Circe Claire Clara Clare Clarette Clarissa Clemence Clemency Cojiñi Condesa Coral Cordel Cressida Cyneburga
 			Dana Darklis Deanna Delores Desirae Dianna Dika Dionisia Donka Drina
 			Ecatarina Elena Elisabeta Eloise Emalee Emilia Emmanaia Esma Esmeralda Estelle Esti Ethelenda Eufroysina Eva Everilda
 			Fatima Felicia Felicita Feliciti Fifika Floarea Floella Florette Florica Francine Franka
-			Gabrielle Gaynor Germaine Gildí Giselda Gloria Harriet Hilaria Hilde Hortense
+			Gabrielle Gaynor Germaine Gildi Giselda Gloria Harriet Hilaria Hilde Hortense
 			Iacoba Idony Ioana Ionela Irina Isabel Iseult Iulia
 			Jaelle Jax Jeanne Jenni Jescha Jillian Joan Jocelyn Joffy Jofranka Julia Julianna Jutter
 			Kassandra Kassi Kassia Katerin Katherine Kiara Kierra Kim Kira Kirsten Kizzy Krystal Krystine
-			Lajariá Lala Laurena Laurencia Lecia Leola Letitia Lettice Lilah Lillia Lilliana Lorainne Lorena Lorinda Lucinda Luludja Luminitsa Luna Luvinia Luzi Lydia Lyuba Lyubitshka
+			Lajaria Lala Laurena Laurencia Lecia Leola Letitia Lettice Lilah Lillia Lilliana Lorainne Lorena Lorinda Lucinda Luludja Luminitsa Luna Luvinia Luzi Lydia Lyuba Lyubitshka
 			Mabel Mabelle Mairenni Majaris Mako Mala Manishie Marcelyn Maria Marianna Marinda Marion Marousia Martha Martina Mathilde Matilda Maxine Maybelle Milbrer Minerva Mirela Miri Miriam Molle Monica Monisha Morgana Morticia Muria Myranda Myrmidia
 			Nadya Natalia Natalie Natasha Nicole Norene Nuri
-			Ocán Oceane Octavia Olimpia Oliva Olyvia
+			Ocan Oceane Octavia Olimpia Oliva Olyvia
 			Paraschiva Paulina Pearle Peneli Penelope Pernel Petra Petronelle Polly Portia
 			Quintella
 			Raine Rayne Regana Regena Romaine Romayne Rosa Rosabelle Rosannah Roseanne Roxana Rozanne Ruxandra
 			Safana Salena Salina Sanpurananzi Sara Sarina Saskia Selina Sendai Sera Serana Seraphina Shayla Shelagh Shofranka Shyla Sidony Sif Sigrid Sile Silke Silvia Simza Sinfi Sirena Skie Smaranda Sofi Sophia Sora Stana Stanka Stefana Stefania Stella Suri Swanhild Syeira
-			Tabitha Talaitha Talima Tania Tasha Tatianna Teodora Teresa Tereza Tomašis Tori Trejú Triss Trixi Truffeni Tshilaba Tsura Tsuritsa
+			Tabitha Talaitha Talima Tania Tasha Tatianna Teodora Teresa Tereza Tomašis Tori Treju Triss Trixi Truffeni Tshilaba Tsura Tsuritsa
 			Ucho Ujaranza
 			Vadoma Valerie Valori Vasilica Vera Verena Veronika Victoria Viconia Violca Violeta Viollca Viona Virgie Viviette Vivyan Voica
 			Yazmin Yennifer Yolanda Ysabel Yvonne
@@ -2530,36 +2530,36 @@ hung_group = {
 	aghols = {
 		male_names = {
 			Agbarjin Adai Altan Arigaba Arugtai Ayurparibhadra Bodi Bek Bahamu Bars Buyan Biligtü Dayan 
-			Delbeg Ejei Elbeg Engke Güyük Gün Gulichi Irinchibal Jorightu Kublai Köke Ligdan Markörgis Möngke 
-			Manduulun Öljei Örüg Oyiradai Ögödei Qayshan Qoshila Sayn Suddhipala Tayisung Temujin Temür Toghun 
+			Delbeg Ejei Elbeg Engke Güyük Gün Gulichi Irinchibal Jorightu Kublai Koke Ligdan Markorgis Mongke 
+			Manduulun Öljei Örüg Oyiradai Ögodei Qayshan Qoshila Sayn Suddhipala Tayisung Temujin Temür Toghun 
 			Tolui Toq Uskhal Yesün Ariq Batu Eljigidei Joichi Darayisung Tümen
 		}
 		female_names = {
-			Temülen Börte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun 
+			Temülen Borte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun 
 			Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene 
 		}
 	}
 	mung = { # now korchin
 		male_names = {
 			Agbarjin Adai Altan Arigaba Arugtai Ayurparibhadra Bodi Bek Bahamu Bars Buyan Biligtü Dayan 
-			Delbeg Ejei Elbeg Engke Güyük Gün Gulichi Irinchibal Jorightu Kublai Köke Ligdan Markörgis Möngke 
-			Manduulun Öljei Örüg Oyiradai Ögödei Qayshan Qoshila Sayn Suddhipala Tayisung Temujin Temür Toghun 
+			Delbeg Ejei Elbeg Engke Güyük Gün Gulichi Irinchibal Jorightu Kublai Koke Ligdan Markorgis Mongke 
+			Manduulun Öljei Örüg Oyiradai Ögodei Qayshan Qoshila Sayn Suddhipala Tayisung Temujin Temür Toghun 
 			Tolui Toq Uskhal Yesün Ariq Batu Eljigidei Joichi Darayisung Tümen
 		}
 		female_names = {
-			Temülen Börte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun 
+			Temülen Borte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun 
 			Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene 
 		}
 	}
 	chian = {
 		male_names = {
 			Agbarjin Adai Altan Arigaba Arugtai Ayurparibhadra Bodi Bek Bahamu Bars Buyan Biligtü Dayan 
-			Delbeg Ejei Elbeg Engke Güyük Gün Gulichi Irinchibal Jorightu Kublai Köke Ligdan Markörgis Möngke 
-			Manduulun Öljei Örüg Oyiradai Ögödei Qayshan Qoshila Sayn Suddhipala Tayisung Temujin Temür Toghun 
+			Delbeg Ejei Elbeg Engke Güyük Gün Gulichi Irinchibal Jorightu Kublai Koke Ligdan Markorgis Mongke 
+			Manduulun Öljei Örüg Oyiradai Ögodei Qayshan Qoshila Sayn Suddhipala Tayisung Temujin Temür Toghun 
 			Tolui Toq Uskhal Yesün Ariq Batu Eljigidei Joichi Darayisung Tümen
 		}
 		female_names = {
-			Temülen Börte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun 
+			Temülen Borte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun 
 			Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene 
 		}
 	}
@@ -2567,10 +2567,10 @@ hung_group = {
 		male_names = {
 			Batula Toghan Galdan Amursana Erdeni Choghtu Dawa Esen Güshi Lha-bzang Khara Khula Kho Sengge Tseten 
 			Tsewang Kundelung Lobzang Sutai Tsobasa Ubasi Quduqa Toghto Altai Bäki Bayan Dayan Hami Molon Oori 
-			Sechen Radi Talman Todo Tumen Tumu Ubashi Ulan Wehe Yelu Zaya Orlök
+			Sechen Radi Talman Todo Tumen Tumu Ubashi Ulan Wehe Yelu Zaya Orlok
 		}
 		female_names = {
-			Hoelun Tamülün Sorghaghtani Temülen Börte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene 
+			Hoelun Tamülün Sorghaghtani Temülen Borte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene 
 		}
 	}
 	tuka = {
@@ -2584,7 +2584,7 @@ hung_group = {
 			Iskandar
 		}
 		female_names = {
-			Temülen Börte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene 
+			Temülen Borte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene 
 		}
 	}
 	manchu_warhammer = {
@@ -2605,13 +2605,13 @@ hung_group = {
 		male_names = {
 			Abdul-Karim Abdul-Latif Abdul-Rashîd Abdullah Ahmad Alghu Ali Baraq Bayan Quli Buqa Temür Buzan 
 			Changshi Danishmendji Dost Muhammad Dughlat Duwa Duwa Temür Eljigidey Esen Buqa Ilbars Ilyas Ismail 
-			Khabul Khizr Könchek Mahmud Mansur Mubarak Muhammad Muhammad Amin Muhammad Mumin Naqsh-i-Jahan 
+			Khabul Khizr Konchek Mahmud Mansur Mubarak Muhammad Muhammad Amin Muhammad Mumin Naqsh-i-Jahan 
 			Hulagu Qazaghan Qazan Quraysh Sa'id Satuq Shams-i-Jahan Sher Muhammad Soyurghatmish Taliqu 
 			Temür Tughlugh Temür Uwais Yasa'ur Yesu Mongke Yesun Temür Yunus Chagatay Tarmashirin Negübei Qara 
 			Kebek Yahballaha 
 		}
 		female_names = {
-			Sakina Temülen Börte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun 
+			Sakina Temülen Borte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun 
 			Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene "Fatima" "Ibtisam" "Jalila" "Janan" 
 			"Layla" "Sakina" "Sharifa"
 		}
@@ -2634,18 +2634,18 @@ hung_group = {
 		Kabuksin Karaca Kaydum Kegen Konel
 		Korkutan Kortan Kostas Kourkoutai Kuerçi Kugel Kure Sol Suru Tatus Teber Temir Tyrach Yavdi Yazi 
 		# CUMAN / KARLUK / KIRGHIZ
-		Çilbu Aepak Asalup Asep Atrak Bönek Bachman Begluk Blush Bonyak Borç Eldeçyuk Etrek Girgen Gzi 
-		Itlar Ituk Könçek Kobyak Kopti Kotyan Koza Kozel Kubasar Kuntuvdi Kutan Pulad Saru Sevenç Sirçan 
-		Sokal Sotan Sugr Törtogul Togli Tolun Tugor Uzluk Uzur
+		Çilbu Aepak Asalup Asep Atrak Bonek Bachman Begluk Blush Bonyak Borç Eldeçyuk Etrek Girgen Gzi 
+		Itlar Ituk Konçek Kobyak Kopti Kotyan Koza Kozel Kubasar Kuntuvdi Kutan Pulad Saru Sevenç Sirçan 
+		Sokal Sotan Sugr Tortogul Togli Tolun Tugor Uzluk Uzur
 		# AVAR
 		Almish Alp Alzek Anzi Apskhih Araslan Arslan Asparukh Bagha Baghatur Balambär Balambar Barjik 
 		Bars Barsbek Bashtwa Bastu Bataul Batbayan Batoya Batulia Bayan Belkermak Bezmer Bihor Boyan Bugha 
-		Bughra Bulan Bulger Bulçan Busir Buzan Buzer Bälgiçi Böri 
+		Bughra Bulan Bulger Bulçan Busir Buzan Buzer Bälgiçi Bori 
 		Chepa Chinialush Dengizikh Dizeng Dometa Dristar Drong Dukum Elemag Ellak Ernakh Eskhakh Goleda 
 		Gostun Guar Hudbad Iani Ilik Iltäbär Irnek Isbul Islivan Isperikh Ispor Itakh Kamaj Kano Karadakh 
 		Karan Karaton Kardam Kayghalagh Kharaton Khatir Khinialon 
 		Khudbard Khuterkin Kibar Kisa Kordil Kormesiy Kormisosh Kotrag Krovat Krum Kuber Kubrat Kundaç 
-		Kundaçiq Kurt Kutrigur Kälaç Labertam Magotin Malamir Mugel Mänär Mänäs Mënümarót Odolgan Okhsi 
+		Kundaçiq Kurt Kutrigur Kälaç Labertam Magotin Malamir Mugel Mänär Mänäs Mënümarot Odolgan Okhsi 
 		Okhsun Okors Omurtag Onegavon Organ Organa Ornag 
 		Oshi Ostro Pagan Pakhtiyar Bakhtiar Papaçyz Paväl Praksa Rassate Rugila Sabin Samsam Sandil 
 		Sandilkh Sarkhan Sartäç Savin Sevar Shilki Simsam Sondoke Tabghaç Tarasiy Taridin Tarkhan Tarmaç 
@@ -2657,7 +2657,7 @@ hung_group = {
 	female_names = { 
 		Al-Alta Alan Altani Borte Botokhui Bulughan Chabi Chagur Chakha Checheyigen Chotan Doregene 
 		Doquz Ebegei Gurbesu Hogelun Holuikhan Ibakha Khadagan Khogaghchin Khojin Khorijin Khugurchin 
-		Khulan Mandukhai Mongoljin Nomolun Oghul Orbei Sokhatai Sorkhaghatani Tekine Temulun Töregene 
+		Khulan Mandukhai Mongoljin Nomolun Oghul Orbei Sokhatai Sorkhaghatani Tekine Temulun Toregene 
 		Yesugun Yesui Hoelun
 		# PECHENEG
 		Çiçek Çilen Çiltanesi Özgul Özlem Akgul Asli Ayasun Ayten Bozçin Dilek Esin Gulçiçek Gulay 
@@ -2716,12 +2716,12 @@ kurgan_group = {
 	dolgan = {
 		male_names = {
 			Agbarjin Adai Altan Arigaba Arugtai Ayurparibhadra Bodi Bek Bahamu Bars Buyan Biligtü Dayan 
-			Delbeg Ejei Elbeg Engke Güyük Gün Gulichi Irinchibal Jorightu Kublai Köke Ligdan Markörgis Möngke 
-			Manduulun Öljei Örüg Oyiradai Ögödei Qayshan Qoshila Sayn Suddhipala Tayisung Temujin Temür Toghun 
+			Delbeg Ejei Elbeg Engke Güyük Gün Gulichi Irinchibal Jorightu Kublai Koke Ligdan Markorgis Mongke 
+			Manduulun Öljei Örüg Oyiradai Ögodei Qayshan Qoshila Sayn Suddhipala Tayisung Temujin Temür Toghun 
 			Tolui Toq Uskhal Yesün Ariq Batu Eljigidei Joichi Darayisung Tümen
 		}
 		female_names = {
-			Temülen Börte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun 
+			Temülen Borte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun 
 			Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene 
 		}
 
@@ -2729,24 +2729,24 @@ kurgan_group = {
 	kul = { # now korchin
 		male_names = {
 			Agbarjin Adai Altan Arigaba Arugtai Ayurparibhadra Bodi Bek Bahamu Bars Buyan Biligtü Dayan 
-			Delbeg Ejei Elbeg Engke Güyük Gün Gulichi Irinchibal Jorightu Kublai Köke Ligdan Markörgis Möngke 
-			Manduulun Öljei Örüg Oyiradai Ögödei Qayshan Qoshila Sayn Suddhipala Tayisung Temujin Temür Toghun 
+			Delbeg Ejei Elbeg Engke Güyük Gün Gulichi Irinchibal Jorightu Kublai Koke Ligdan Markorgis Mongke 
+			Manduulun Öljei Örüg Oyiradai Ögodei Qayshan Qoshila Sayn Suddhipala Tayisung Temujin Temür Toghun 
 			Tolui Toq Uskhal Yesün Ariq Batu Eljigidei Joichi Darayisung Tümen
 		}
 		female_names = {
-			Temülen Börte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun 
+			Temülen Borte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun 
 			Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene 
 		}
 	}
 	khazags = {
 		male_names = {
 			Agbarjin Adai Altan Arigaba Arugtai Ayurparibhadra Bodi Bek Bahamu Bars Buyan Biligtü Dayan 
-			Delbeg Ejei Elbeg Engke Güyük Gün Gulichi Irinchibal Jorightu Kublai Köke Ligdan Markörgis Möngke 
-			Manduulun Öljei Örüg Oyiradai Ögödei Qayshan Qoshila Sayn Suddhipala Tayisung Temujin Temür Toghun 
+			Delbeg Ejei Elbeg Engke Güyük Gün Gulichi Irinchibal Jorightu Kublai Koke Ligdan Markorgis Mongke 
+			Manduulun Öljei Örüg Oyiradai Ögodei Qayshan Qoshila Sayn Suddhipala Tayisung Temujin Temür Toghun 
 			Tolui Toq Uskhal Yesün Ariq Batu Eljigidei Joichi Darayisung Tümen
 		}
 		female_names = {
-			Temülen Börte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun 
+			Temülen Borte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun 
 			Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene 
 		}
 	}
@@ -2754,10 +2754,10 @@ kurgan_group = {
 		male_names = {
 			Batula Toghan Galdan Amursana Erdeni Choghtu Dawa Esen Güshi Lha-bzang Khara Khula Kho Sengge Tseten 
 			Tsewang Kundelung Lobzang Sutai Tsobasa Ubasi Quduqa Toghto Altai Bäki Bayan Dayan Hami Molon Oori 
-			Sechen Radi Talman Todo Tumen Tumu Ubashi Ulan Wehe Yelu Zaya Orlök
+			Sechen Radi Talman Todo Tumen Tumu Ubashi Ulan Wehe Yelu Zaya Orlok
 		}
 		female_names = {
-			Hoelun Tamülün Sorghaghtani Temülen Börte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene 
+			Hoelun Tamülün Sorghaghtani Temülen Borte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene 
 		}
 	}
 	tokmar = {
@@ -2771,7 +2771,7 @@ kurgan_group = {
 			Iskandar
 		}
 		female_names = {
-			Temülen Börte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene 
+			Temülen Borte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene 
 		}
 	}
 	hastling = {
@@ -2792,13 +2792,13 @@ kurgan_group = {
 		male_names = {
 			Abdul-Karim Abdul-Latif Abdul-Rashîd Abdullah Ahmad Alghu Ali Baraq Bayan Quli Buqa Temür Buzan 
 			Changshi Danishmendji Dost Muhammad Dughlat Duwa Duwa Temür Eljigidey Esen Buqa Ilbars Ilyas Ismail 
-			Khabul Khizr Könchek Mahmud Mansur Mubarak Muhammad Muhammad Amin Muhammad Mumin Naqsh-i-Jahan 
+			Khabul Khizr Konchek Mahmud Mansur Mubarak Muhammad Muhammad Amin Muhammad Mumin Naqsh-i-Jahan 
 			Hulagu Qazaghan Qazan Quraysh Sa'id Satuq Shams-i-Jahan Sher Muhammad Soyurghatmish Taliqu 
 			Temür Tughlugh Temür Uwais Yasa'ur Yesu Mongke Yesun Temür Yunus Chagatay Tarmashirin Negübei Qara 
 			Kebek Yahballaha 
 		}
 		female_names = {
-			Sakina Temülen Börte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun 
+			Sakina Temülen Borte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun 
 			Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene "Fatima" "Ibtisam" "Jalila" "Janan" 
 			"Layla" "Sakina" "Sharifa"
 		}
@@ -2831,18 +2831,18 @@ kurgan_group = {
 		Kabuksin Karaca Kaydum Kegen Konel
 		Korkutan Kortan Kostas Kourkoutai Kuerçi Kugel Kure Sol Suru Tatus Teber Temir Tyrach Yavdi Yazi 
 		# CUMAN / KARLUK / KIRGHIZ
-		Çilbu Aepak Asalup Asep Atrak Bönek Bachman Begluk Blush Bonyak Borç Eldeçyuk Etrek Girgen Gzi 
-		Itlar Ituk Könçek Kobyak Kopti Kotyan Koza Kozel Kubasar Kuntuvdi Kutan Pulad Saru Sevenç Sirçan 
-		Sokal Sotan Sugr Törtogul Togli Tolun Tugor Uzluk Uzur
+		Çilbu Aepak Asalup Asep Atrak Bonek Bachman Begluk Blush Bonyak Borç Eldeçyuk Etrek Girgen Gzi 
+		Itlar Ituk Konçek Kobyak Kopti Kotyan Koza Kozel Kubasar Kuntuvdi Kutan Pulad Saru Sevenç Sirçan 
+		Sokal Sotan Sugr Tortogul Togli Tolun Tugor Uzluk Uzur
 		# AVAR
 		Almish Alp Alzek Anzi Apskhih Araslan Arslan Asparukh Bagha Baghatur Balambär Balambar Barjik 
 		Bars Barsbek Bashtwa Bastu Bataul Batbayan Batoya Batulia Bayan Belkermak Bezmer Bihor Boyan Bugha 
-		Bughra Bulan Bulger Bulçan Busir Buzan Buzer Bälgiçi Böri 
+		Bughra Bulan Bulger Bulçan Busir Buzan Buzer Bälgiçi Bori 
 		Chepa Chinialush Dengizikh Dizeng Dometa Dristar Drong Dukum Elemag Ellak Ernakh Eskhakh Goleda 
 		Gostun Guar Hudbad Iani Ilik Iltäbär Irnek Isbul Islivan Isperikh Ispor Itakh Kamaj Kano Karadakh 
 		Karan Karaton Kardam Kayghalagh Kharaton Khatir Khinialon 
 		Khudbard Khuterkin Kibar Kisa Kordil Kormesiy Kormisosh Kotrag Krovat Krum Kuber Kubrat Kundaç 
-		Kundaçiq Kurt Kutrigur Kälaç Labertam Magotin Malamir Mugel Mänär Mänäs Mënümarót Odolgan Okhsi 
+		Kundaçiq Kurt Kutrigur Kälaç Labertam Magotin Malamir Mugel Mänär Mänäs Mënümarot Odolgan Okhsi 
 		Okhsun Okors Omurtag Onegavon Organ Organa Ornag 
 		Oshi Ostro Pagan Pakhtiyar Bakhtiar Papaçyz Paväl Praksa Rassate Rugila Sabin Samsam Sandil 
 		Sandilkh Sarkhan Sartäç Savin Sevar Shilki Simsam Sondoke Tabghaç Tarasiy Taridin Tarkhan Tarmaç 
@@ -2854,7 +2854,7 @@ kurgan_group = {
 	female_names = { 
 		Al-Alta Alan Altani Borte Botokhui Bulughan Chabi Chagur Chakha Checheyigen Chotan Doregene 
 		Doquz Ebegei Gurbesu Hogelun Holuikhan Ibakha Khadagan Khogaghchin Khojin Khorijin Khugurchin 
-		Khulan Mandukhai Mongoljin Nomolun Oghul Orbei Sokhatai Sorkhaghatani Tekine Temulun Töregene 
+		Khulan Mandukhai Mongoljin Nomolun Oghul Orbei Sokhatai Sorkhaghatani Tekine Temulun Toregene 
 		Yesugun Yesui Hoelun
 		# PECHENEG
 		Çiçek Çilen Çiltanesi Özgul Özlem Akgul Asli Ayasun Ayten Bozçin Dilek Esin Gulçiçek Gulay 
@@ -3097,12 +3097,12 @@ hobgoblin_group = {
 
 	male_names = {
 		Agbarjin Adai Altan Arigaba Arugtai Ayurparibhadra Bodi Bek Bahamu Bars Buyan Biligtü Dayan 
-		Delbeg Ejei Elbeg Engke Güyük Gün Gulichi Irinchibal Jorightu Kublai Köke Ligdan Markörgis Möngke 
-		Manduulun Öljei Örüg Oyiradai Ögödei Qayshan Qoshila Sayn Suddhipala Tayisung Temujin Temür Toghun 
+		Delbeg Ejei Elbeg Engke Güyük Gün Gulichi Irinchibal Jorightu Kublai Koke Ligdan Markorgis Mongke 
+		Manduulun Öljei Örüg Oyiradai Ögodei Qayshan Qoshila Sayn Suddhipala Tayisung Temujin Temür Toghun 
 		Tolui Toq Uskhal Yesün Ariq Batu Eljigidei Joichi Darayisung Tümen
 	}
 	female_names = {
-		Temülen Börte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun 
+		Temülen Borte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun 
 		Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene 
 	}
 	dynasty_names = {
@@ -3110,7 +3110,7 @@ hobgoblin_group = {
 		"Onggirat" "Naiman" "Kereyid" "Sartaq" "Mengu-Timur" "Uriankhai" "Bujakhin" "Besud" "Noyan" 
 		"Jochid" "Chagatayid" "Borjigin" "Chupanid" "Injuid" "Toluid" "Ganbold" "Bolormaa" "Batbayar" 
 		"Bat-Erdene" "Otgonbayar" "Enkhtuyaa" "Gantulga" "Nergüi" "Lkhagvasüren" "Enkhjargal" 
-		"Ganzorig" "Narantsetseg" "Pürevsüren" "Ganbaatar" "Mönkhtsetseg" "Mönkhbat" "Mönkh-Erdene" 
+		"Ganzorig" "Narantsetseg" "Pürevsüren" "Ganbaatar" "Monkhtsetseg" "Monkhbat" "Monkh-Erdene" 
 		"Jalair" "Sartuul" "Olkhunut" "Khatagin" "Iljigin" "Tsookhor" "Qarakhanid"
 	}
 }
@@ -3338,12 +3338,12 @@ lizardmen_group = {
 	}
 
 	dynasty_names = {
-		Aké Bonampak Becan Bolonchen Chaac Camazotz Cancuén Caracol Cerros Chacchoben Chacmultun Chinikiha Chinkultic 
-		Chunchucmil Civiltuk Calakmul Copan Coba Dzibilchaltun Dzibilnocac Dzilam Edzná Ekab Gumarcaj Gucumatz Hocchob 
-		Hormiguero Hunahpu Huracan Ixbalanque Ixchel Ixtab Ichmac Ichmul Itzan Ixil Iximche Ixlu Izamal Labná  
+		Ake Bonampak Becan Bolonchen Chaac Camazotz Cancuen Caracol Cerros Chacchoben Chacmultun Chinikiha Chinkultic 
+		Chunchucmil Civiltuk Calakmul Copan Coba Dzibilchaltun Dzibilnocac Dzilam Edzna Ekab Gumarcaj Gucumatz Hocchob 
+		Hormiguero Hunahpu Huracan Ixbalanque Ixchel Ixtab Ichmac Ichmul Itzan Ixil Iximche Ixlu Izamal Labna  
 		Lubaantun Lubaantun Jaina Jolja Kaminaljuyu Kabah Kiuic "Kantunil Kin" Lamanai Mayapan Machaquila Mani Muluchtzekel 
-		Muyil Nakum Nakbe Naranjo Nebaj Okop Oxcutzcab Oxkintok Palenque Pomoná Pusilha Quirigua Sayil Seibal Sisila Tonina 
-		Tikal Tulum Tancah Tazumal Tecoh Topoxté Uxmal Uaxactun Ucanal Uci Utatlan Waká Xcalumkin Xcaret Xcorralche Xcucsuc 
+		Muyil Nakum Nakbe Naranjo Nebaj Okop Oxcutzcab Oxkintok Palenque Pomona Pusilha Quirigua Sayil Seibal Sisila Tonina 
+		Tikal Tulum Tancah Tazumal Tecoh Topoxte Uxmal Uaxactun Ucanal Uci Utatlan Waka Xcalumkin Xcaret Xcorralche Xcucsuc 
 		Xculoc Xlapak Xpuhil Xultun Xunantunich Yaklmai Yaxchilan Yaxha Yo'okop Zipacna Zaculeu 
 	}
 	male_names = {

@@ -2113,10 +2113,20 @@ voc_indiamen_ship = {
 	can_transport_units = yes
 }
 
+#### MONSTERS
 
 cossacks_regiment = {
+#	discipline = 1.0
+
 	land_maintenance_modifier = 2.0
-	discipline = 1.0
+
+	shock_damage_received = -0.5
+	morale_damage_received = -0.5
+	fire_damage_received = -0.5
+
+	fire_damage = 1.0
+	shock_damage = 1.0
+	morale_damage = 1.0
 }
 
 carolean_regiment = {

@@ -107,9 +107,8 @@ the_crow = {
 }
 
 the_serpent = {
-	liberty_desire_from_subject_development = -0.25
+	reduced_liberty_desire = 25
 	diplomatic_reputation = 1
-	heir_chance = 1.0
 	
 	potential = { religion = norscan }
 	trigger = {}

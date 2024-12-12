@@ -22,7 +22,7 @@ Everybody!
 	5x decisions
 	Special Religious mechanic
 	Switch up multiple different gov types and religions for each area.
-	A pie in the sky decision or two
+	A pie in the sky decision or two. 
 
 #############################
 ###### RANDOM TO DOS ########
@@ -31,8 +31,6 @@ Everybody!
 	Work on performance?
 
 	Final Empire Centralization reform doesn't work!
-
-	Change Monster bonuses away from discipline and to shock/fire/morale resistance/damage (or just power)
 
 	Balance Karak 8 Peak War
 		Remove restriction that you can't declare war while in the Karak 8 peak war.
@@ -48,13 +46,11 @@ Everybody!
 		Stays even after the monster hunt finishes and only dissapears once your leader dies
 		though it seemingly is only affecting diplo, I don't have a -1 for military and admin
 
-	Kislev is also Gospodar not Kislevite
-
 	As Etaine I colonized some provinces in Dawn's Light (Equivalent to South Africa) but can't add them to a trade company. For references, I have all DLCs.
 
-	Bret missions need better tooltips
+	i dont think its possible to pass the reforms without fighting all the electors: https://discord.com/channels/1314079561687896084/1314656598051913818/1316839640489263136
 
-	Make sure all the prov_names_adj are correct
+	Bret missions need better tooltips
 
 	Grail Quest is all strange
 		I would suggest changing the nature of the grail quest, because every time i try it i just get another heir before they come back, meaning louen is effectively the only grail knight you're ever going to get, maybe change it into a series of events? 
@@ -102,6 +98,7 @@ Everybody!
 	Northern Imperial Provinces it too long for the province screen and creates an overflow onto the province terrain type image.
 
 	And for some reason you lose your bretonnian imperial vassals after some time and they become duke of some random bretonian king
+		its from their crowning event
 
 	Raid Neighbors Wood Elf Mission
 		Correct me if i'm wrong but this was implemented with all provinces scope and checked for neighbor provinces when it could be scoped directly to neighbors, couldn't it?
@@ -123,15 +120,9 @@ Everybody!
 	When selecting to go on  a Monster Hunt with Norsca, the game gives you 3 optoins on what to hunt, but the last one is missing localization as seen by the picutre. This was reproduced with Skaelings.
 		At the end of a succesful hunt, the possitive modifiers have placeholder text for "norsca_mammoth_trophy" and "norscan_hunt_fatigue"
 
-	In the Norscan religion menu, when selecting a deity, there are two overflows for The Serpeant:
-		The Serpeant has 3 effects, making the third effect appear outside of the designated area for this deity's effects
-		The effect "Liberty Desire from Subjects Development: -25%" is too long as overflows into the  next line
-		The combination of these two overflows makes for "The Serpeant's" third effect to be displayed directly on top of the first effect for the next deity "The Bear"
 		https://discord.com/channels/1314079561687896084/1316502460411416596/1316502460411416596
 
-
 	Mix up Tilean Governments: https://discord.com/channels/1314079561687896084/1316226022504402965/1316226022504402965
-
 
 	Trade
 		I think the Vaults Trade node doesnt make sense getting money from karaz - a - Karak lore wise. I think it makes more sense that it works as a starting node (a rich one but still one) that sends to Karaz - a - Karak as lore wise Karaz - a - Karak is the center of dwarven economics since before the fall of the karaz Ankor, especially without Karak Eight Peaks. 
@@ -171,12 +162,10 @@ Everybody!
 
 	Add Uzkulak Canal picture
 
-
 #############################
 #### I CAN'T FIGURE OUT #####	
 #############################
 
-Give Estates to the Chaos Tribes
 
 #############################
 ######## MAP STUFF #######
@@ -450,6 +439,8 @@ A basic spell or two? Is mana = spell resource?
 	Have a Vampiric mission create a center of reformation
 
 	Ruinous power getting great vortex should trigger an event that makes a center of reformation on the location.
+
+	Give Estates to the Chaos Tribes - Impossible to do, native_mechanic = yes hardcodes it.
 
 #############################
 ###### Flavor Pack Ideas ######
