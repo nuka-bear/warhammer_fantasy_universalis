@@ -1159,9 +1159,9 @@ on_successive_emperor = {
 		}
 		set_country_flag = has_internal_election_first
 	}
-	#events = {
-	#	900
-	#}
+	events = {
+		900
+	}
 }
 
 # Called whenever a new emperor is elected

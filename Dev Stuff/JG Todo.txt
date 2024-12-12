@@ -28,30 +28,24 @@ Everybody!
 ###### RANDOM TO DOS ########
 #############################
 
+	Final Empire Centralization reform doesn't work!
+	
 	Use on_war_won (or equivalent) with national set_flags to set the racial war missions
 
 	Make Undead both human and undead, change vamprism so it just adds undead.
 
 	Norscan Monster Hunt Mana Doesn't go away
 		Stays even after the monster hunt finishes and only dissapears once your leader dies
-	though it seemingly is only affecting diplo, I don't have a -1 for military and admin
+		though it seemingly is only affecting diplo, I don't have a -1 for military and admin
 
-	Playing as Clan Skryer/Under-Empire and I noticed that the state Clanscourge is in the Skavenblight tradenode and not the North Skavendom tradenode. Same goes for 2 provinces in the Warren of Shadows state being in the Skavenblight node and the last province being in the north skavendom node.
-
-	Bjornling culture is bjornling not skraeling, Kislev is also Gospodar not Kislevite
-
-	East and West Lustrian Coastilne names permutated: green is named as western coast (should be east) while red is named as eastern coast (should be west)
+	Kislev is also Gospodar not Kislevite
 
 	As Etaine I colonized some provinces in Dawn's Light (Equivalent to South Africa) but can't add them to a trade company. For references, I have all DLCs.
 
 	Bret missions need better tooltips
 
-	Master The Art of Boarding tells you to capture 20 ships while having the Boarding naval doctrine active, but there are no naval doctrines selectable even with a 60+ ship fleet
-
 	Remove restriction that you can't declare war while in the Karak 8 peak war.
 		Simplify this whole thing
-
-	Bretonia reforms need grail knights back in, but hussar issue
 
 	Make sure all the prov_names_adj are correct
 
@@ -88,21 +82,21 @@ Everybody!
 	Not sure if this is a bug but why do some nations only have one tradition? Example Stirland, Averland, and Talabecland
 
 	The Nehekharan Pantheon should have a decision you can take every so often which allows you to switch which diety you follow, since your rulers are immortal you're locked in unless you choose to get them killed
+		Based on Norsca?
 
 	War for karak8peaks - Clan Angrun U37 war names don't work - "No War Name"
 
 	Playtest Bretts
 
+	is a dominion meant to cost twice as much AE as non-dominions?
+
 	Add some token trade modifier to all artifacts so that they can be seen on the trade map
 
 	Khorne Sacrifice events and decisions working?
 
-	How to represent Beastmen?
-
 	Northern Imperial Provinces it too long for the province screen and creates an overflow onto the province terrain type image.
 
-	When the emperor (of the empire) dies they should get 10 imperial authority (like the base game) 
-		And for some reason you lose your bretonnian imperial vassals after some time and they become duke of some random bretonian king
+	And for some reason you lose your bretonnian imperial vassals after some time and they become duke of some random bretonian king
 
 	Raid Neighbors Wood Elf Mission
 		Correct me if i'm wrong but this was implemented with all provinces scope and checked for neighbor provinces when it could be scoped directly to neighbors, couldn't it?
@@ -116,8 +110,6 @@ Everybody!
 	Remove Dev Cost from state edicts
 
 	When you form a subject over a brettonian duke and a new royarch gets crowned they become their subject again
-
-	Missing localization - Im not entirely sure what they're referencing, but B27_ADJ ought to point at a particular nation, they rose out of Vorag's cores.
 
 	When selecting to go on  a Monster Hunt with Norsca, the game gives you 3 optoins on what to hunt, but the last one is missing localization as seen by the picutre. This was reproduced with Skaelings.
 		At the end of a succesful hunt, the possitive modifiers have placeholder text for "norsca_mammoth_trophy" and "norscan_hunt_fatigue"
@@ -155,17 +147,9 @@ Everybody!
 
 	Add Uzkulak Canal picture
 
-	The Tier 4 (I assume) Norscan specific government reform "Mammoth Riders" appears duplicated. Both instance have the same immage and description, and they both appear selected is this government reform is chosen.
-
-	Fimir bonus in swamp
-
-	is a dominion meant to cost twice as much AE as non-dominions?
-
 #############################
 ######## MAP STUFF #######
 #############################
-
-	Provinces in wrong physical place: 19, 31, 110, 134, 217, 271, 309. 310, 316, 318, 357, 388, 459, 580, 581, 584, 569, 593, 593, 616, 634, 695, 762, 789, 789, 821, 2349, 2350
 
 	It seems the issue is that the ships are going to explore "debug_province (Sea)". When exploring this sea tile the ships go to the inexistent Silent Gulf and come back.
 
@@ -177,15 +161,11 @@ Everybody!
 
 	Attempting to walk through Jaraiz from the irrana mountains state group to go to belemoz will make you path irregularly.
 
-	Most of the Irrana Mountains need slight position nudging too, which you can do ingame by activating nudge mode, by putting -nudge in the startup console in steam -> eu4 -> properties.
-
 	Units disappear when in certain tiles: Roughly the title, particularly tiles within the dwarven halls have this issue but I didn't see it playing as Karak Eight Peaks dwarves. Do appear when sieging for some reason. Also happens in 'The Vaults' with Gorr  + Rikkit (Tunnels to Skavenblight) and Thrash (Clan Scurvy Tunnels), i closed my thread i hadn't seen yours. Kurn + Thragg for the Irrana Tunnels state too. 
-
-	Odd visual bug when playing Brettonia, when armies are fighting they disappear from the map, would make it impossible to retreat an army from a losing battle. the orcs right next to marienburg and courounne seemingly
 
 	Northern Verge is connected to Shatterskulls, and it shouldn't be
 
-	Dissapearing battles bug also happens in the Laurelorn group of provinces. 
+	I think the River Reik would enjoy being navigable, at least until Altdorf, After all after Mariengburg´s secession, the 1st Imperial Fleet is housed in its docks.
 
 #############################
 ######## GFX STUFF #######
@@ -196,6 +176,8 @@ Everybody!
 	GFX and gui around fightiness
 
 	Dragon Cults need their own GFX
+
+	Advisor portraits
 
 #############################
 ######## FUTURE STUFF #######
@@ -219,8 +201,6 @@ Everybody!
 	Add Cult of Sotek: https://discord.com/channels/1314079561687896084/1316218273985200221/1316218273985200221
 
 	Reclaim Mordhein decision: https://discord.com/channels/1314079561687896084/1316417937241935882/1316417937241935882
-
-	I think the River Reik would enjoy being navigable, at least until Altdorf, After all after Mariengburg´s secession, the 1st Imperial Fleet is housed in its docks.
 
 	I was reviewing how we handle units and special ones in the mod. EU4 has about 15 special unit types, such as Hussars and Streltsy. Currently, we add Hussars as Grail Knights, which effectively takes up a special unit slot for Bretonnians.
 		The approach I suggest is to make Hussars into something more generic, like 'Magic Cavalry,' which can then be used across different nations. We could also create a special interface in the military tab to show the current Magic Cavalry unit type for each nation.
@@ -248,6 +228,8 @@ Everybody!
 	Decision for Greenskin and Skaven administrations to raid own lands!
 
 	based on stuff like the weird amount of ogres ostland has and maneaters picking up things from their parent cultures
+
+	Gov reform that allows chaos, skaven ,orcs to raid
 
 	What about attempt to cure chaos influence for civilizations of world by building waystones?
 

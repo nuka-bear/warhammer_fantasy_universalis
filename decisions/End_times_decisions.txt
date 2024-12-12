@@ -12,7 +12,8 @@ country_decisions = {
 				religion = chaos_undivided_religion
 				is_reformation_center = yes
 			}
-#			NOT = { religion_group = ruinous_powers_denominations }
+#			NOT = { has_reform = everchosen_reform }
+
 		}
 		
 		provinces_to_highlight = {
