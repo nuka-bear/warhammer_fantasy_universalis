@@ -3,9 +3,9 @@ JG To Do & Thoughts
 
 #### Warhammer Fantasy Universalis ####
 
-Join the discord here: https://discord.gg/n5EDPWRj
+Join the discord here: https://discord.gg/QKKK5bRsjj
 
-	Modifier balance reference: https://docs.google.com/spreadsheets/d/1TEKl9eGqrG4lmC6HrMyQaMRQUYUabBAfouNi8OlkbPU/edit?gid=929582197#gid=929582197
+	Modifier balance reference: https://docs.google.com/spreadsheets/d/1SsP_cpSB_qHQydtfYlYb52AsuZ44RF2Ac4CbQfrkuZY/edit?gid=929582197#gid=929582197
 
 	non-steam needs a slightly different file structure, with the descriptor file in the mods folder alongside the mod files themselves, and a line added to point to the right directory (path="C:\Users\admin\Documents\Paradox Interactive\Europa Universalis IV\mod\warhammer_fantasy_universalis-main") but yes! works perfectly after that modification! thank you so much :)
 
@@ -27,16 +27,18 @@ Everybody!
 #############################
 ###### RANDOM TO DOS ########
 #############################
+	
+	Work on performance?
 
 	Final Empire Centralization reform doesn't work!
 
 	Change Monster bonuses away from discipline and to shock/fire/morale resistance/damage (or just power)
 
 	Balance Karak 8 Peak War
+		Remove restriction that you can't declare war while in the Karak 8 peak war.
+		Simplify this whole thing
 
-	Make sure hordes of Chaos reform is visible
-
-	Work on performance
+	Vampiric/Nagash Disaster, similar to Chaos Corruption
 	
 	Use on_war_won (or equivalent) with national set_flags to set the racial war missions
 
@@ -51,9 +53,6 @@ Everybody!
 	As Etaine I colonized some provinces in Dawn's Light (Equivalent to South Africa) but can't add them to a trade company. For references, I have all DLCs.
 
 	Bret missions need better tooltips
-
-	Remove restriction that you can't declare war while in the Karak 8 peak war.
-		Simplify this whole thing
 
 	Make sure all the prov_names_adj are correct
 
@@ -119,8 +118,6 @@ Everybody!
 
 	Remove Dev Cost from state edicts
 
-	Everyone can convert to Vamprism (If you have a vampiric province?)
-
 	When you form a subject over a brettonian duke and a new royarch gets crowned they become their subject again
 
 	When selecting to go on  a Monster Hunt with Norsca, the game gives you 3 optoins on what to hunt, but the last one is missing localization as seen by the picutre. This was reproduced with Skaelings.
@@ -174,11 +171,18 @@ Everybody!
 
 	Add Uzkulak Canal picture
 
+
+#############################
+#### I CAN'T FIGURE OUT #####	
+#############################
+
+Give Estates to the Chaos Tribes
+
 #############################
 ######## MAP STUFF #######
 #############################
 
-	Check on map locations: 388, 695, 4933
+	Check on map locations: 388, 695, 4933, Silver Pass
 
 	It seems the issue is that the ships are going to explore "debug_province (Sea)". When exploring this sea tile the ships go to the inexistent Silent Gulf and come back.
 

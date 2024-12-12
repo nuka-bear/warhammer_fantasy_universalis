@@ -3,31 +3,32 @@ estate_church = {
 
 	# If true, country will get estate
 	trigger = {
-		NOT = { has_government_attribute = disables_estate_church }
-		NOT = { has_disabled_estate = { estate = estate_church } }
-		if = {
-			limit = {
-				religion_group = dharmic
-			}
-			OR = {
-				has_enabled_estate = { estate = estate_church }
-				NOT = { has_estate = estate_brahmins }
-			}
-		}
-		OR = {
-			has_government_attribute = enables_estate_church
-			has_enabled_estate = { estate = estate_church }
-			has_unlocked_estate = { estate = estate_church }
-			AND = {
+		always = yes
+#		NOT = { has_government_attribute = disables_estate_church }
+#		NOT = { has_disabled_estate = { estate = estate_church } }
+#		if = {
+#			limit = {
+#				religion_group = dharmic
+#			}
+#			OR = {
+#				has_enabled_estate = { estate = estate_church }
+#				NOT = { has_estate = estate_brahmins }
+#			}
+#		}
+#		OR = {
+#			has_government_attribute = enables_estate_church
+#			has_enabled_estate = { estate = estate_church }
+#			has_unlocked_estate = { estate = estate_church }
+#			AND = {
 #				NOT = { has_government_attribute = is_pirate_republic_reform }
 #				NOT = { has_reform = siberian_tribe }
 #				NOT = { government = native }
-				NOT = { is_revolutionary_republic_trigger = yes }
-				NOT = { has_reform = revolutionary_empire_reform }
-				is_nomad = no
-				is_colonial_nation = no
-			}
-		}
+#				NOT = { is_revolutionary_republic_trigger = yes }
+#				NOT = { has_reform = revolutionary_empire_reform }
+#				is_nomad = no
+#				is_colonial_nation = no
+#			}
+#		}
 		#NOT = { has_government_attribute = is_merchant_republic }
 		#NOT = { has_reform = veche_republic }
 		#NOT = { has_reform = trading_city }

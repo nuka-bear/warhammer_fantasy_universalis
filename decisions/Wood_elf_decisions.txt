@@ -1,11 +1,12 @@
 
 
 
-country_decisions = {
+#country_decisions = {
 	connect_world_tree = {
 		potential = {
 			culture_group = asrai_group
 			NOT = { has_global_flag = world_tree_connected }
+			ai = no  #Might help performance?
 		}
 
 		provinces_to_highlight = {
