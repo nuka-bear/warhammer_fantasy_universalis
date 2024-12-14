@@ -30,3 +30,5 @@ name="Warhammer Fantasy Universalis"
 picture="thumbnail.png"
 supported_version="v1.37.5.0"
 remote_file_id="3379313816"
+
+path="C:/Users/daniel/Documents/Paradox Interactive/Europa Universalis IV/mod/warhammer_fantasy_universalis_dev"
