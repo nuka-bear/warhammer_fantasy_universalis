@@ -43,6 +43,8 @@ Everybody!
 
 	If they lose, Everchosen should get Fifth Monarchist collapse, or at least +20 unrest for 25 years.
 
+    Implant cult can only target capitals if they are the only possible province
+
 	Capital regions probably shouldn't be able to be struck by cults.
 
 	Also its very strange to play Dark Elves border Princes. Your running around with Naggarondi Culture and Druchi Ideas on top of elven admin and military.
