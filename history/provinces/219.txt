@@ -1,6 +1,6 @@
 owner = G17
 controller = G17
-culture = bretonnian_gnome
+culture = gnome_culture
 religion = gork_n_mork_religion
 base_tax = 3
 base_production = 1

@@ -8,4 +8,4 @@ trade_goods = wool
 base_manpower = 1
 is_city = yes
 add_core = G40
-add_core = B67
+add_core = B70

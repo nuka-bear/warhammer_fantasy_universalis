@@ -1,8 +1,8 @@
 owner = A12
 controller = A12
 add_core = A12
-culture = imperial_dawi
-religion = old_world_cults_religion
+culture = fimir_culture
+religion = chaos_undivided_religion
  
 hre = no
 

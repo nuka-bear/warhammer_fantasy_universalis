@@ -733,15 +733,12 @@ imperial_group = {
 			Zollern
 		}
 	}
-	
 	drakwalder  = {
 		dynasty_names = {
 			Hohenbach 
 		}
 	}
 	altdorfer  = {
-	}
-	imperial_dawi  = {
 	}
 	talabheimer  = {
 	}
@@ -754,8 +751,6 @@ imperial_group = {
 	leopoldheimer  = {
 	}
 	neulander  = {
-	}
-	imperial_gnome  = {
 	}
 	male_names = {
 		Abelard Achim Adalard Adalbert Adam Adolf Adolphus Aelfric Agobard Albrecht Alexander Aldred Alfons Alfred Almerich Alaric Alois Amadeus Ammianus Ammon Anders Andreas Anno Ansbert Anselm Anton Archibald Armin Arnim ArnoldArnulf Artur August Augustin Augustus Axel
@@ -971,8 +966,6 @@ bretonnian_group	= {
 	marcheur = {
 	}
 	outremer = {
-	}
-	bretonnian_gnome  = {
 	}
 	dynasty_names = {
 		Archambault Armistead 
@@ -2147,6 +2140,23 @@ fimir_group = {
 	}
 }
 
+gnome_group = {
+	graphical_culture = westerngfx
+
+	gnome_culture = {
+	}
+
+	dynasty_names = {
+		Thorne Kneebone Crowfeet Scantleburn Annearil Frayne Hawken Landweth Peddlar Scantleburn Trethewey
+	}
+	male_names = {
+		Alphonse Morkam
+	}
+	female_names = {
+		Merawidda Aelyn Demelza Jowanet 
+	}
+}
+
 #Mostly Complete more female names would be nice
 
 dwarf_group = {
@@ -2163,6 +2173,8 @@ dwarf_group = {
 	vault_dwarf = {
 	}	
 	south_dwarf = {
+	}	
+	imperial_dwarf = {
 	}	
 
 	dynasty_names = {

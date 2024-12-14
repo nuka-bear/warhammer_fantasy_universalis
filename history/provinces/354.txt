@@ -10,4 +10,3 @@ is_city = yes
 add_core = A29
 fort_15th = yes
 add_local_autonomy = 25
-add_core = B70

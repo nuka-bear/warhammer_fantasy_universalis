@@ -1,7 +1,7 @@
 owner = A02
 controller = A02
 religion = cult_of_sigmar
-culture = sudenlander
+culture = imperial_dwarf
 hre = yes
 base_tax = 1
 base_production = 1

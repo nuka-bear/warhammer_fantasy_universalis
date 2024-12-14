@@ -9,4 +9,4 @@ base_manpower = 3
 is_city = yes
 add_core = G40
 fort_15th = yes
-add_core = B67
+add_core = B70

@@ -9,4 +9,4 @@ base_manpower = 2
 is_city = yes
 add_core = A29
 add_local_autonomy = 25
-add_core = B67
+add_core = B70
