@@ -23,6 +23,14 @@
  desc_novalone_pass_tunnel:0 "§TThose two provinces are connected by an underground tunnel.§!"
  irrana_mountains_tunnel:0 "Irrana Mountains Tunnel"
  desc_irrana_mountains_tunnel:0 "§TThose two provinces are connected by an underground tunnel.§!"
+ giantholme_tunnel:0 "Dark Path Tunnel"
+ desc_giantholme_tunnel:0 "§TThose two provinces are connected by an underground tunnel.§!"
+ dark_pass_tunnel:0 "Dark Pass Tunnel"
+ desc_dark_pass_tunnel:0 "§TThose two provinces are connected by an underground tunnel.§!"
+ black_pass_tunnel:0 "Black Pass Tunnel"
+ desc_black_pass_tunnel:0 "§TThose two provinces are connected by an underground tunnel.§!"
+
+
  entrance_underempire:0 "Underempire Entrances"
  desc_entrance_underempire:0 "§TThose two provinces are connected by an underground tunnel.§!"
 

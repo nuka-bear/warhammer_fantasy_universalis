@@ -374,7 +374,7 @@ eastern_beastfolk_military = {
 	movement_speed = 0.15 # B
 	
 	#Negatives
-	discipline = -0.75 #S+
+	discipline = -0.075 #S+
 	fire_damage = -0.1 #S
 
 }

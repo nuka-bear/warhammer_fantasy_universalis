@@ -8,3 +8,8 @@ owner = G42
 controller = G42
 add_core = G42
 culture = common_orc
+
+add_permanent_province_modifier = {
+	name = black_pass_tunnel
+	duration = -1
+}
