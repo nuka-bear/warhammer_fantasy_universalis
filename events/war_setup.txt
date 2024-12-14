@@ -125,9 +125,6 @@ country_event = {
 		every_country = {
 			limit = {
 				or = {
-					culture_group = strigany_group
-					culture_group = nehekharan_group
-					culture_group = nagashi_group
 					religion = vampiric
 					religion = nagash_worship
 				}
@@ -163,8 +160,12 @@ country_event = {
 						culture_group = cathayan_cg
 						culture_group = indish_cg
 						culture_group = nipponese_cg
+						culture_group = strigany_group
+						culture_group = nehekharan_group
+						culture_group = nagashi_group
+						culture_group = gnome_group
+						culture_group = roppsmenn_group
 					}
-					NOT = { religion = vampiric }
 				}
 			}
 			add_country_modifier = {
@@ -295,11 +296,11 @@ country_event = {
 				}
 			}
 			add_country_modifier = {
-				name = eastern_beastfolk_administration
+				name = beastfolk_administration
 				duration = -1
 			}
 			add_country_modifier = {
-				name = eastern_beastfolk_military
+				name = beastfolk_military
 				duration = -1
 			}
 
@@ -310,7 +311,7 @@ country_event = {
 
 		every_country = {
 			limit = {
-				technology_group = tech_lizardmen
+				culture_group = lizardmen_group
 			}
 
 			every_owned_province = { 

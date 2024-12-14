@@ -141,7 +141,7 @@ country_event = {
 
 ### Things going crazy
 	option = {
-		name = chaos_corruption_events.4.option_1
+		name = chaos_corruption_events.5.option_1
 		ai_chance = { factor = 50 }
 		random_owned_province = {
 			spawn_rebels = {
@@ -154,7 +154,7 @@ country_event = {
 
 ### Convert to Tzeentch
 	option = {
-		name = chaos_corruption_events.4.option_2
+		name = chaos_corruption_events.5.option_2
 		ai_chance = { factor = 1 }
 		change_religion = tzeentchian_religion
 	}
@@ -164,9 +164,9 @@ country_event = {
 #### Undivided
 
 country_event = {
-	id = chaos_corruption_events.5
-	title = chaos_corruption_events.5.t
-	desc = chaos_corruption_events.5.d
+	id = chaos_corruption_events.6
+	title = chaos_corruption_events.6.t
+	desc = chaos_corruption_events.6.d
 	picture = DEFENESTRATION_PRAGUE_eventPicture
 
 	
@@ -180,7 +180,7 @@ country_event = {
 
 ### The Estates are corrupted! Root them out.
 	option = {
-		name = chaos_corruption_events.5.option_1
+		name = chaos_corruption_events.6.option_1
 		ai_chance = { factor = 50 }
 		random_owned_province = {
 			spawn_rebels = {
@@ -206,7 +206,7 @@ country_event = {
 
 ### Convert to Chaos Undivided
 	option = {
-		name = chaos_corruption_events.5.option_2
+		name = chaos_corruption_events.6.option_2
 		ai_chance = { factor = 1 }
 		change_religion = chaos_undivided_religion
 	}

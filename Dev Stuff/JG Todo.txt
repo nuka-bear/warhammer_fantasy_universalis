@@ -31,11 +31,17 @@ Everybody!
 	Work on performance?
 		Make most decisions non-ai?
 
+	Ulthuan formable when ?
+
+	On that note, the governing capacity reform remains in the Republican reforms. I do not know if this is intentional or an oversight, so I am just pointing that out. Overall, even in this early state, the mod somehow feels more fun than regular EU4. Good job!
+
+	Highly enjoying the mod. Found a bug for HRE reforms. The expand the Witch Hunter's reform description says it grants +3% missionary vs Heathens for all empire provinces. However it is actually granting +3% global missionary vs Heathens for each empire province. This results in all heathen provinces having a <1 month conversion time, and I don't think that was the intent.
+
 	Missing connection: https://discord.com/channels/1314079561687896084/1317202319246495846/1317202319246495846
 
 	Offer vassalization to dominions through the normal means?
 
-	Change religion monuments to "is or accepts" with appropriate tooltips, 
+	Change religion monuments to "is or accepts" with appropriate tooltips - does this work?
 
 	Nurn cannot be added to the empire - It needs to be in the continent of europe to be able to. This makes it impossible to invite the southern border princes without going around through the black fire pass
 
@@ -51,8 +57,6 @@ Everybody!
 
 	I know its a minor detail but elves in Warhammer fantasy on avaradge live to 1000 years without the aid of magical means. (My guy is 985 so no problem for me but just something): https://discord.com/channels/1314079561687896084/1314656598051913818/1317188732939669657
 
-	What Terrain should Haunted Marshes be? Rename something?
-
 	Could force raiding for AI allied with Players in a war, but that feels kinda cheaty. Maybe if they have a certain amount of trust?
 
 	Final Empire Centralization reform doesn't work!
@@ -66,8 +70,6 @@ Everybody!
 	Vampiric/Nagash Disaster, similar to Chaos Corruption
 	
 	Use on_war_won (or equivalent) with national set_flags to set the racial war missions
-
-	Make Undead both human and undead, change vamprism so it just adds undead.
 
 	Norscan Monster Hunt Mana Doesn't go away
 		Stays even after the monster hunt finishes and only dissapears once your leader dies
@@ -88,8 +90,6 @@ Everybody!
 
 	Rethink Raiding, chat with Theia
 		WHAT IF RACIAL RAIDING IS AN END OF WAR PEACE OFFERING? THAT TAKES 75 WARSCORE? But that would mean you actually need to win the war, which kind of defeats the purpose
-
-	Replace Comet event with Twin Tailed Comet Event
 
 	Missions
 		Make all missions a little harder
