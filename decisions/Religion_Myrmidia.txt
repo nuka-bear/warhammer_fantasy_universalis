@@ -50,7 +50,10 @@ country_decisions = {
 			NOT = {
 				has_country_flag = restored_reman_empire_flag
 			}
-			owns = 590
+			OR= {
+				owns = 590
+				ai = no
+			}
 			OR = {
 				ai = no
 				is_playing_custom_nation = no
