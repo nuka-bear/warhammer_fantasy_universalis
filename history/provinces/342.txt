@@ -1,6 +1,6 @@
 owner = G40
 controller = G40
-culture = ungol
+culture = roppsmenn
 religion = kislev_old_faith
 base_tax = 1
 base_production = 3
@@ -8,4 +8,4 @@ trade_goods = livestock
 base_manpower = 2
 is_city = yes
 add_core = G40
-add_core = B67
+add_core = B70

@@ -1,6 +1,6 @@
 owner = A35
 controller = A35
-culture = ungol
+culture = roppsmenn
 religion = kislev_old_faith
 base_tax = 1
 base_production = 1
@@ -9,4 +9,4 @@ base_manpower = 2
 is_city = yes
 add_local_autonomy = 25
 add_core = A35
-add_core = B67
+add_core = B70

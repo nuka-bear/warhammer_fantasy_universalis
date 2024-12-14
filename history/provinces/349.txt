@@ -1,6 +1,6 @@
 owner = A29
 controller = A29
-culture = gospodar
+culture = sudevarian
 religion = kislev_old_faith
 base_tax = 2
 base_production = 1

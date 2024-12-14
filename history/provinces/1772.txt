@@ -6,5 +6,5 @@ trade_goods = wine
 religion = cult_of_sigmar
 controller = Z23
 is_city = yes
-culture = reiklander
+culture = sudenburger
 add_core = Z23

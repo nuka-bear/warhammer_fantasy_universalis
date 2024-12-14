@@ -1,6 +1,6 @@
 owner = A09
 controller = A09
-culture = gospodar
+culture = ungol
 religion = ursun
 hre = yes
 base_tax = 2

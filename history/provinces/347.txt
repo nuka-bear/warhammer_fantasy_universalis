@@ -1,7 +1,7 @@
 owner = A29
 controller = A29
-culture = ungol
-religion = ursun
+culture = erengradian
+religion = cult_of_taal_religion
 base_tax = 1
 base_production = 1
 trade_goods = livestock
@@ -11,4 +11,3 @@ add_local_autonomy = 25
 add_core = A29
 add_core = B67
 add_core = B69
-

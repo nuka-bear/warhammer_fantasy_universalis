@@ -6,5 +6,5 @@ trade_goods = salt
 religion = ursun
 controller = B44
 is_city = yes
-culture = gospodar
+culture = sibyrian
 add_core = B44

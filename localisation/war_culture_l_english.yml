@@ -14,9 +14,20 @@
  sylvanian:0 "Sylvanian"
  talabeclander:0 "Talabeclander"
  drakwalder:0 "Drakwalder"
+ altdorfer:0 "Altdorfer"
+ talabheimer:0 "Talabheimer"
+ middenheimer:0 "Middenheimer"
+ salzenmunder:0 "Salzenmunder"
+ sudenburger:0 "Sudenburger"
+ leopoldheimer:0 "Leopoldheimer"
+ neulander:0 "Neulander"
+ 
+ 
  
  halfling_group: "Halfling"
  halfling:0 "Imperial Halfling"
+ pygmy:0 "Pygmy"
+ giant_pygmy:0 "Giant Pygmy"
  
  tilean_group:0 "Tilean"
  sartosan:0 "Sartosan"
@@ -26,13 +37,22 @@
  umbrian:0 "Umbrian"
  miraglianese:0 "Miraglianese"
  
- kislevite_group:0 "Gospodar"
- kislevite_culture:0 "Kislevite"
+ kislevite_group:0 "Kislevite"
  erengradian:0 "Erengradian"
  gospodar:0 "Gospodar"
  praager:0 "Praager"
- ungol_group:0 "Ungol"
  ungol:0 "Ungol"
+ roppsmenn_group:0 "Roppsmenn"
+ roppsmenn:0 "Roppsmenn"
+ tzavarian:0 "Tzavarian"
+ dolvarian:0 "Dolvarian"
+ gorelsk:0 "Górelsk"
+ krevarian:0 "Krevarian"
+ sudevarian:0 "Sudevarian"
+ pogranicznik:0 "Pogranicznik"
+ sibyrian:0 "Sibyrian"
+ wheatlander:0 "Wheatlander"
+ scythian2:0 "Scythian"
  
  bretonnian_group:0 "Bretonnian"
  bretoni:0 "Bretoni"
@@ -81,6 +101,7 @@
  common_goblin:0 "Common Goblins"
  forest_goblin:0 "Forest Goblins"
  night_goblin:0 "Night Goblins"
+ fire_kobold:0 "Fire Kobold"
  
  dwarf_group:0 "Dwarfen"
  grey_dwarf:0 "Grey Dawi"
@@ -89,6 +110,7 @@
  south_dwarf:0 "South Dawi"
  common_dwarf:0 "Dawi"
  norse_dwarf:0 "Norse Dawi"
+ imperial_dwarf:0 "Imperial Dawi"
  
  albionise_group:0 "Albionise"
  dark_land_orc:0 "Dark Land Orcs"
@@ -117,6 +139,9 @@
  
  fimir_group:0 "Fimir"
  fimir_culture:0 "Fimir"
+ 
+ gnome_group:0 "Gnome"
+ gnome_culture:0 "Gnome"
  
  chaos_dwarf:0 "Chaos Dwarf"
  albionise:0 "Albionise"
