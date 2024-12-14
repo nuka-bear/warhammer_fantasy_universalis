@@ -73,7 +73,6 @@ bells_of_luccini_desc:0 "Forged from the spoils of war and infused with the fier
 
 cathedra_of_myrmidia:0 "Cathedra of Myrmidia, Remas"
 cathedra_of_myrmidia_desc:0 "This sacred bastion in Remas stands as the grandest monument to Myrmidia, Goddess of War and Strategy. Pilgrims and warrior-priests gather in its hallowed halls to seek wisdom and strength, reinforcing Estalia's reputation as a center of religious and martial authority."
-province_is_or_accepts_old_world_denominations_tt:0 "Province is or accepts Old World Denominations."
 
 the_estelian_citadel:0 "The Estalian Citadel of Tobaro"
 the_estelian_citadel_desc:0 "Rising defiantly atop the cliffs of Tobaro, the Estalian Citadel has withstood assaults from pirates, Greenskin marauders, and rival Tilean city-states. Armed with powerful artillery and an unmatched defensive design, it remains an enduring symbol of Estalian strength and maritime supremacy."
@@ -412,9 +411,6 @@ mount_jifu:0 "Mount Jifu"
 mount_jifu_desc:0 "Mount Jifu is the most sacred mountains in Nippon, revered for its divine nature and spiritual significance. The Jifuian Hongu Sengen Taisha shrine, built at its base, serves as a center of pilgrimage and devotion, offering protection from volcanic disasters and ensuring harmony between the divine and the earthly. The spiritual power emanating from the shrine also inspires the people to rebuild and develop the land, bringing prosperity to the region."
 
 
-province_is_or_accepts_yin_yang_tt:0 "Province is or accepts Yin Yang"
-
-
 ### Grand Cathay
 
 jade_tower:0 "The Jade Tower of Nanying"
@@ -562,6 +558,11 @@ desc_nest_of_corruption:0 "A dark heart of Skaven infestation, the Nest of Corru
 
 
 
-province_is_or_accepts_horned_rat_tt:0 "Province is or accepts Horned Rat."
-province_is_or_accepts_lizardmen_denominations_tt:0 "Province is or accepts Lizardmen Denominations."
+province_is_or_accepts_horned_rat_tt:0 "Province is or accepts (positive tolerance) Horned Rat."
+province_is_or_accepts_lizardmen_denominations_tt:0 "Province is or accepts (positive tolerance) Lizardmen Denominations."
+ province_is_or_accepts_asrai_cadai_tt:0 "Province is or accepts (positive tolerance) Asrai Cadai"
+province_is_or_accepts_old_world_denominations_tt:0 "Province is or accepts (positive tolerance) Old World Denominations."
+province_is_or_accepts_yin_yang_tt:0 "Province is or accepts (positive tolerance) Yin Yang"
+province_is_or_accepts_lady_of_the_lake_tt:0 "Province is or accepts (positive tolerance) Lady of the Lake"
+
 

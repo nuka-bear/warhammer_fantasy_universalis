@@ -4435,7 +4435,7 @@ monument_to_the_old_gods = {
 
 
 skjold_fjords = {
-	start = 489 #Tortuga
+	start = 410
 	date = 1444.01.01	#1640.01.01
 	time = { months = 0	}
 	build_cost = 1

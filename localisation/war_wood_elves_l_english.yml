@@ -19,9 +19,6 @@ ability_wood_elf_seasons_mechanic:0 "Magical Seasons"
    season_time_power_desc:0 "To every season, a different purpose\nSpring - Power cost is reduced, but so is Morale.\nSummer - Morale is increased, but so are Power costs.\nFall - Defense is reduced, but buildings are cheaper.\nWinter - Defense is increased, but buildings are more expense."
  monthly_season_time_power:0 "Passage of Seasons"
 
- ## Monument Help
-
- province_is_or_accepts_asrai_cadai_tt:0 "Province is or accepts Asrai Cadai"
 
 
 

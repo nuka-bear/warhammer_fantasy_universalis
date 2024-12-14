@@ -39,7 +39,7 @@ wood_elves_magical_forest = {
 
 wood_elves_non_forest = {
 	min_local_autonomy = 25
-	local_unrest = 2
+	local_unrest = 4
 }
 
 ### Fimir Marsh

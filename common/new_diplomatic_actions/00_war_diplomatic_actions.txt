@@ -799,6 +799,7 @@ implant_cult = {
 			any_owned_province = {
 				NOT = { religion = ROOT }
 				is_reformation_center = no
+				is_capital = no
 			}
 		}
 	}
@@ -822,6 +823,7 @@ implant_cult = {
 	    		limit = {
 	    			NOT = { religion = ROOT }
 	    			is_reformation_center = no
+	    			is_capital = no
 	    		}
 	    		change_religion = ROOT
 	    		add_province_modifier = { 
