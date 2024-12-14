@@ -53,8 +53,75 @@ desc_lizardmen_administration:0 "Lizardmen are iron-fisted rulers, highly intole
 lizardmen_military:0 "Lizardmen Military"
 desc_lizardmen_military:0 "Fanatical and unyielding, Lizardmen fight with high morale and resilience. However, their undisciplined zealotry and slow population recovery hinder their effectiveness."
 
-eastern_beastfolk_administration:0 "Beastfolk Administration"
-desc_eastern_beastfolk_administration:0 "Beastfolk are chaotic and rebellious, excelling in bursts of energy for conquest and plunder. Their unstable governance and disdain for infrastructure are significant weaknesses, but allow for flexible expansion."
+beastfolk_administration:0 "Beastfolk Administration"
+desc_beastfolk_administration:0 "Beastfolk are chaotic and rebellious, excelling in bursts of energy for conquest and plunder. Their unstable governance and disdain for infrastructure are significant weaknesses, but allow for flexible expansion."
 
-eastern_beastfolk_military:0 "Beastfolk Military"
-desc_eastern_beastfolk_military:0 "Beastfolk are fearless and swift, thriving in shock-based combat. However, their complete lack of discipline and poor weapons leave them vulnerable in prolonged engagements."
+beastfolk_military:0 "Beastfolk Military"
+desc_beastfolk_military:0 "Beastfolk are fearless and swift, thriving in shock-based combat. However, their complete lack of discipline and poor weapons leave them vulnerable in prolonged engagements."
+
+
+#### RACE X TERRAIN
+
+
+lizardfolk_mild_winter:0 "Lizardfolk Mild Winter"
+lizardfolk_normal_winter:0 "Lizardfolk Normal Winter"
+lizardfolk_severe_winter:0 "Lizardfolk Severe Winter"
+lizardfolk_arctic:0 "Lizardfolk Arctic"
+
+lizardfolk_mild_winter_desc:0 "The mild winter offers some resistance to the hardy lizardfolk, and disrupts their ability to administer the lands."
+lizardfolk_normal_winter_desc:0 "A normal winter tests the adaptability of the lizardfolk, reducing their administrative abilities."
+lizardfolk_severe_winter_desc:0 "Severe winter bites hard, challenging the administration of the lizardfolk in harsh conditions."
+lizardfolk_arctic_desc:0 "The relentless arctic cold pushes the lizardfolk to their limits. Lizardfolk cannot survive up here, and the provinces are left to govern themselves."
+
+
+### Wood Elves
+
+wood_elves_magical_forest:0 "Wood Elves in Magical Forest"
+wood_elves_non_forest:0 "Wood Elves Not in Wood"
+
+wood_elves_magical_forest_desc:0 "Within the magical forest, the Wood Elves thrive, drawing strength from its ancient power."
+wood_elves_non_forest_desc:0 "Separated from their sacred woods, the Wood Elves are unable to effectively administer their lands."
+
+
+### Fimir
+
+fimir_marsh_modifier:0 "Fimir in Marsh"
+fimir_marsh_modifier_desc:0 "Magical fog covers the marshes of the fimir, confounding enemy armies."
+
+
+### Undergrounder
+
+undergrounder_underground:0 "Underground Race Underground"
+undergrounder_above_ground:0 "Underground Race Above Ground"
+
+undergrounder_underground_desc:0 "Dwelling underground, this race finds comfort and strength in their subterranean domain."
+undergrounder_above_ground_desc:0 "Exposed above ground, the underground race is unable to effective administer their lands."
+
+surface_dweller_underground:0 "Surface Dweller Underground"
+surface_dweller_underground_desc:0 "This race is accustomed to open sky, and has a difficult time administering the places beneath the earth."
+
+
+
+#### Uncomfortable Events
+
+
+bad_terrain_events.1.t:0 "Lizardfolk in the Cold"
+bad_terrain_events.1.d:0 "The harsh cold of this climate is proving detrimental to our lizardfolk settlers. They struggle to adapt, and the area’s productivity suffers as a result. We must decide how to address this challenge.\n\n§RCold climates under Lizardfolk Administration have increased autonomy and unrest.§!"
+bad_terrain_events.1.option_1:0 "Invest resources to mitigate the cold"
+bad_terrain_events.1.option_2:0 "Let the area remain fallow for now"
+
+bad_terrain_events.2.t:0 "Wood Elves outside the Forest"
+bad_terrain_events.2.d:0 "The wood elves find themselves at odds with the unnatural terrain outside their beloved forests. Productivity wanes as their natural harmony with the land falters. How should we proceed?\n\n§RUnforested provinces under Wood Elf Administration have increased autonomy and unrest.§!"
+bad_terrain_events.2.option_1:0 "Provide resources to improve the land"
+bad_terrain_events.2.option_2:0 "Allow the area to decline temporarily"
+
+bad_terrain_events.3.t:0 "Uncomfortable on the Surface"
+bad_terrain_events.3.d:0 "The undergrounder population is struggling to adapt to life on the surface. The open skies and unfamiliar terrain have hampered their ability to function effectively. Action must be taken to address this.\n\n§RAboveground provinces under Dwarven or Skaven Administration have increased autonomy and unrest.§!"
+bad_terrain_events.3.option_1:0 "Allocate resources to improve their living conditions"
+bad_terrain_events.3.option_2:0 "Leave them to endure the surface as it is"
+
+bad_terrain_events.4.t:0 "Discomfort Below the Earth"
+bad_terrain_events.4.d:0 "Surface dwellers are finding it difficult to adjust to life underground. The lack of sunlight and unfamiliar surroundings are reducing their effectiveness. What should be done?\n\n§RBelow ground provinces under Human, Elven, Ogre, or Lizardfolk Administration have increased autonomy and unrest.§!"
+bad_terrain_events.4.option_1:0 "Invest in improvements for their environment"
+bad_terrain_events.4.option_2:0 "Let them adapt on their own, for better or worse"
+

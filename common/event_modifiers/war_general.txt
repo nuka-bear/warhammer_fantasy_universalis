@@ -99,6 +99,18 @@ irrana_mountains_tunnel = {
 }
 
 
+dark_pass_tunnel = {
+	trade_goods_size = 0.02
+	picture = "underway"
+}
+
+
+black_pass_tunnel = {
+	trade_goods_size = 0.02
+	picture = "underway"
+}
+
+
 death_crossing_pm = {
 	trade_goods_size = 0.02
 	picture = "underway"

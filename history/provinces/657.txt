@@ -1,6 +1,6 @@
 owner = A70
 controller = A70
-culture = gospodar
+culture = pogranicznik
 religion = ursun
 base_tax = 3
 base_production = 1

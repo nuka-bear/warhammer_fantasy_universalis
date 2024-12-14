@@ -347,7 +347,7 @@ lizardmen_military = {
 }
 
 
-eastern_beastfolk_administration = {	
+beastfolk_administration = {	
 	
 ### Beastfolk are fractured, rebellious, distrusted, and unwilling to build structures or embrace new ideas. However, they are extremely flexible in their governance, and can devote sudden bursts of energy to any task that comes their way.
 
@@ -364,7 +364,7 @@ eastern_beastfolk_administration = {
 	technology_cost = 0.1 #S+
 }
 
-eastern_beastfolk_military = {
+beastfolk_military = {
 ## Beastmen are fast and without fear, but completely undisciplined and without advanced weapons.
 
 	#Positives
@@ -374,7 +374,7 @@ eastern_beastfolk_military = {
 	movement_speed = 0.15 # B
 	
 	#Negatives
-	discipline = -0.75 #S+
+	discipline = -0.075 #S+
 	fire_damage = -0.1 #S
 
 }

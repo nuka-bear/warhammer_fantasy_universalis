@@ -31,11 +31,17 @@ Everybody!
 	Work on performance?
 		Make most decisions non-ai?
 
+	Ulthuan formable when ?
+
+	On that note, the governing capacity reform remains in the Republican reforms. I do not know if this is intentional or an oversight, so I am just pointing that out. Overall, even in this early state, the mod somehow feels more fun than regular EU4. Good job!
+
+	Highly enjoying the mod. Found a bug for HRE reforms. The expand the Witch Hunter's reform description says it grants +3% missionary vs Heathens for all empire provinces. However it is actually granting +3% global missionary vs Heathens for each empire province. This results in all heathen provinces having a <1 month conversion time, and I don't think that was the intent.
+
 	Missing connection: https://discord.com/channels/1314079561687896084/1317202319246495846/1317202319246495846
 
 	Offer vassalization to dominions through the normal means?
 
-	Change religion monuments to "is or accepts" with appropriate tooltips, 
+	Change religion monuments to "is or accepts" with appropriate tooltips - does this work?
 
 	Nurn cannot be added to the empire - It needs to be in the continent of europe to be able to. This makes it impossible to invite the southern border princes without going around through the black fire pass
 
@@ -45,19 +51,13 @@ Everybody!
 
     Implant cult can only target capitals if they are the only possible province
 
-	Capital regions probably shouldn't be able to be struck by cults.
-
 	Also its very strange to play Dark Elves border Princes. Your running around with Naggarondi Culture and Druchi Ideas on top of elven admin and military.
 		Still somehow you get the Spanish Names
 		The same with Antioch and getting muhammed as name
 
 	I know its a minor detail but elves in Warhammer fantasy on avaradge live to 1000 years without the aid of magical means. (My guy is 985 so no problem for me but just something): https://discord.com/channels/1314079561687896084/1314656598051913818/1317188732939669657
 
-	Make form reman empire decision visible for all Myrmidian countries that aren't ai
-
-	What Terrain should Haunted Marshes be? Rename something?
-
-	Could force raiding for AI allied with Players in a war, but that feels kinda cheaty.
+	Could force raiding for AI allied with Players in a war, but that feels kinda cheaty. Maybe if they have a certain amount of trust?
 
 	Final Empire Centralization reform doesn't work!
 
@@ -71,8 +71,6 @@ Everybody!
 	
 	Use on_war_won (or equivalent) with national set_flags to set the racial war missions
 
-	Make Undead both human and undead, change vamprism so it just adds undead.
-
 	Norscan Monster Hunt Mana Doesn't go away
 		Stays even after the monster hunt finishes and only dissapears once your leader dies
 		though it seemingly is only affecting diplo, I don't have a -1 for military and admin
@@ -83,7 +81,7 @@ Everybody!
 
 	Bret missions need better tooltips
 
-	Events for Skavenand orcs - bored war party - mneightbors get rebels (and you get opinion modifier), or you get rebels
+	Events for Skave nand orcs - bored war party - mneightbors get rebels (and you get opinion modifier), or you get rebels
 
 	Grail Quest is all strange
 		I would suggest changing the nature of the grail quest, because every time i try it i just get another heir before they come back, meaning louen is effectively the only grail knight you're ever going to get, maybe change it into a series of events? 
@@ -92,8 +90,6 @@ Everybody!
 
 	Rethink Raiding, chat with Theia
 		WHAT IF RACIAL RAIDING IS AN END OF WAR PEACE OFFERING? THAT TAKES 75 WARSCORE? But that would mean you actually need to win the war, which kind of defeats the purpose
-
-	Replace Comet event with Twin Tailed Comet Event
 
 	Missions
 		Make all missions a little harder
@@ -199,10 +195,11 @@ Everybody!
 ######## MAP STUFF #######
 #############################
 
-	Check on map locations: 388, 467, 478, 485, 695, 1579, 2325, 2486, 2469, 2473, 4933, Silver Pass, Zaraguz
+	Dwarf Thoughts: https://discord.com/channels/1314079561687896084/1317306710368587787/1317306710368587787
 
-	Nudge for the colonialism bug https://discord.com/channels/1314079561687896084/1317179115970756701/1317179115970756701
-		Sunward Shore, 4152, 4174, 2456, 2313, Check ports on river
+	The provinces of Morcross and hauntcrag (Naggaroth) seem to be conected. I can also move there with my troops.
+
+	Move the Western Mountains out of the Underempire continent? Currently they are in the same continent as the main skaven underempire provinces, resulting in abnormaly high AE comrped to taking underway entrances  of other regions?
 
 	Can build a boat in Ravola - It does finish building but is then invisible and can't move
 

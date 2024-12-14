@@ -8,3 +8,8 @@ owner = U36
 controller = U36
 add_core = U36
 culture = south_dwarf
+
+add_permanent_province_modifier = {
+	name = black_pass_tunnel
+	duration = -1
+}

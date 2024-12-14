@@ -1,6 +1,6 @@
 owner = A29
 controller = A29
-culture = kislevite_culture
+culture = sudevarian
 religion = ursun
 base_tax = 1
 base_production = 2

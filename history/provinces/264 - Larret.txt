@@ -2,8 +2,8 @@
 owner = A18
 controller = A18
 add_core = A18
-culture = bretoni
-religion = lady_of_the_lake
+culture = reiklander
+religion = cult_of_sigmar
 
 base_tax = 5
 base_production = 5

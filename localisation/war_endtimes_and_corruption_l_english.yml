@@ -144,7 +144,7 @@ submit_to_everchosen_desc:0 "The Everchosen represents a unification of the forc
 
 
 
-  chaos_corruption_events.2.t:0 "The Slaaneshi Seduction"
+chaos_corruption_events.2.t:0 "The Slaaneshi Seduction"
 chaos_corruption_events.2.d:0 "Whispers of indulgence and ecstasy sweep through your land as cults of Slaanesh emerge, spreading their influence over your people. The allure of hedonistic pleasures beckons many to abandon their former beliefs."
 chaos_corruption_events.2.option_1:0 "Let them indulge in their desires"
 chaos_corruption_events.2.option_2:0 "Embrace the worship of Slaanesh"

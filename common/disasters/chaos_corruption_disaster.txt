@@ -120,11 +120,11 @@ chaos_corruption_disaster = {
 	on_monthly = {
 		random_events = {
 			2000 = 0
-			100 = chaos_corruption.2
-			100 = chaos_corruption.3
-			100 = chaos_corruption.4
-			100 = chaos_corruption.5
-			100 = chaos_corruption.6
+			100 = chaos_corruption_events.2
+			100 = chaos_corruption_events.3
+			100 = chaos_corruption_events.4
+			100 = chaos_corruption_events.5
+			100 = chaos_corruption_events.6
 		}
 	}
 }

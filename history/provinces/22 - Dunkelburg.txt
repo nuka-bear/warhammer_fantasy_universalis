@@ -12,4 +12,3 @@ trade_goods = grain
 capital = ""
 is_city = yes
 add_core = A01
-add_core = A96

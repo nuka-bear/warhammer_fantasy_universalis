@@ -23,6 +23,14 @@
  desc_novalone_pass_tunnel:0 "§TThose two provinces are connected by an underground tunnel.§!"
  irrana_mountains_tunnel:0 "Irrana Mountains Tunnel"
  desc_irrana_mountains_tunnel:0 "§TThose two provinces are connected by an underground tunnel.§!"
+ giantholme_tunnel:0 "Dark Path Tunnel"
+ desc_giantholme_tunnel:0 "§TThose two provinces are connected by an underground tunnel.§!"
+ dark_pass_tunnel:0 "Dark Pass Tunnel"
+ desc_dark_pass_tunnel:0 "§TThose two provinces are connected by an underground tunnel.§!"
+ black_pass_tunnel:0 "Black Pass Tunnel"
+ desc_black_pass_tunnel:0 "§TThose two provinces are connected by an underground tunnel.§!"
+
+
  entrance_underempire:0 "Underempire Entrances"
  desc_entrance_underempire:0 "§TThose two provinces are connected by an underground tunnel.§!"
 
@@ -65,46 +73,6 @@ loss_of_cultural_monument:0 "Loss of A Cultural Monument"
 LOSS_OF_CULTURAL_MONUMENT_TT:0 "There are core cultural monuments and locations that would be devestating to our people if lost. If these locations are not controlled by somebody in our culture group, then disaster will follow for our entire culture group.\nCathayan - Any part of the Great Bastion, or Wei-Jin Imperial City.\nImperial - Any part of the Altdorf Metropolis.\nWood Elves - The Oak of Ages.\nNehekharan - West Khemri, East Khemri, or Sekhmet.\nSkaven - Skavenhold.\nHigh Elves - Lothern."
 chaos_power_boosted:0 "Power of the Chaos Gate"
 
-#### RACE X TERRAIN
-
-
-lizardfolk_mild_winter:0 "Lizardfolk Mild Winter"
-lizardfolk_normal_winter:0 "Lizardfolk Normal Winter"
-lizardfolk_severe_winter:0 "Lizardfolk Severe Winter"
-lizardfolk_arctic:0 "Lizardfolk Arctic"
-
-lizardfolk_mild_winter_desc:0 "The mild winter offers some resistance to the hardy lizardfolk, and disrupts their ability to administer the lands."
-lizardfolk_normal_winter_desc:0 "A normal winter tests the adaptability of the lizardfolk, reducing their administrative abilities."
-lizardfolk_severe_winter_desc:0 "Severe winter bites hard, challenging the administration of the lizardfolk in harsh conditions."
-lizardfolk_arctic_desc:0 "The relentless arctic cold pushes the lizardfolk to their limits. Lizardfolk cannot survive up here, and the provinces are left to govern themselves."
-
-
-### Wood Elves
-
-wood_elves_magical_forest:0 "Wood Elves in Magical Forest"
-wood_elves_non_forest:0 "Wood Elves Not in Wood"
-
-wood_elves_magical_forest_desc:0 "Within the magical forest, the Wood Elves thrive, drawing strength from its ancient power."
-wood_elves_non_forest_desc:0 "Separated from their sacred woods, the Wood Elves are unable to effectively administer their lands."
-
-
-### Fimir
-
-fimir_marsh_modifier:0 "Fimir in Marsh"
-fimir_marsh_modifier_desc:0 "Magical fog covers the marshes of the fimir, confounding enemy armies."
-
-
-### Undergrounder
-
-undergrounder_underground:0 "Underground Race Underground"
-undergrounder_above_ground:0 "Underground Race Above Ground"
-
-undergrounder_underground_desc:0 "Dwelling underground, this race finds comfort and strength in their subterranean domain."
-undergrounder_above_ground_desc:0 "Exposed above ground, the underground race is unable to effective administer their lands."
-
-
-surface_dweller_underground:0 "Surface Dweller Underground"
-surface_dweller_underground_desc:0 "This race is accustomed to open sky, and has a difficult time administering the places beneath the earth."
 
 ### Colonial Regions
 

@@ -1,7 +1,7 @@
 owner = A29
 controller = A29
 culture = ungol
-religion = kislev_old_faith
+religion = cult_of_ulric_religion
 base_tax = 1
 base_production = 1
 trade_goods = livestock
