@@ -1634,12 +1634,13 @@ country_event = {
 			dip = 5
 			mil = 6
 		}
-		if = {
-			limit = {
-				has_dlc = "Rights of Man" 
-			}
-			hidden_effect = { add_ruler_personality_ancestor = { key = inspiring_leader } }
-		}
+		# Scripted effect present in Anbennar again
+		# if = {
+		# 	limit = {
+		# 		has_dlc = "Rights of Man" 
+		# 	}
+		# 	hidden_effect = { add_ruler_personality_ancestor = { key = inspiring_leader } }
+		# }
 		set_ruler_flag = bonaparte_flag
 		
 		hidden_effect = {

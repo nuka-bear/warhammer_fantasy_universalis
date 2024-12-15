@@ -89,12 +89,14 @@ country_event = {
 		trigger = {
 			has_regency = yes
 		}
-		if = {
-			limit = {
-				has_consort_regency = yes
-			}
-			remove_consort_effect = yes
-		}
+		# remove_consort_effect doesn't exist in vanilla. is this copy pasted from anbennar ?
+		# remove_consort_effect is from /common/scripted_effects/01_scripted_effects_for_rulers_heirs_consorts.txt line 140
+		# if = {
+		# 	limit = {
+		# 		has_consort_regency = yes
+		# 	}
+		# 	remove_consort_effect = yes
+		# }
 		define_ruler = {
 			dynasty = ROOT #Uncles, or other relatives were by far the most likely coup-makers
 		}
