@@ -366,7 +366,7 @@ province_event = {
 				change_adm = 6
 				change_dip = 6
 				change_mil = 6
-				clear_scipted_personalities = yes
+				clear_scripted_personalities = yes
 				add_ruler_personality = everchosen_personality
 				add_ruler_personality = immortal_personality
 
