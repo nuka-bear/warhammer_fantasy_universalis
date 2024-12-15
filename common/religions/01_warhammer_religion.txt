@@ -978,7 +978,7 @@ old_world_denominations = {
 #			remove_country_modifier = beastfolk_administration
 #			remove_country_modifier = beastfolk_military
 
-			clear_scipted_personalities = yes
+			clear_scripted_personalities = yes
 			add_ruler_personality = immortal_personality
 			add_heir_personality = immortal_personality
 
@@ -3410,7 +3410,7 @@ arabyn_denominations = {
 #			remove_country_modifier = beastfolk_administration
 #			remove_country_modifier = beastfolk_military
 
-			clear_scipted_personalities = yes
+			clear_scripted_personalities = yes
 			add_ruler_personality = immortal_personality
 			add_heir_personality = immortal_personality
 
