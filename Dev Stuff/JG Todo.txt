@@ -31,6 +31,7 @@ Everybody!
 	Work on performance?
 		Make most decisions non-ai?
 
+<<<<<<< Updated upstream
 	Ulthuan formable when ?
 
 	On that note, the governing capacity reform remains in the Republican reforms. I do not know if this is intentional or an oversight, so I am just pointing that out. Overall, even in this early state, the mod somehow feels more fun than regular EU4. Good job!
@@ -38,6 +39,9 @@ Everybody!
 	Highly enjoying the mod. Found a bug for HRE reforms. The expand the Witch Hunter's reform description says it grants +3% missionary vs Heathens for all empire provinces. However it is actually granting +3% global missionary vs Heathens for each empire province. This results in all heathen provinces having a <1 month conversion time, and I don't think that was the intent.
 
 	Missing connection: https://discord.com/channels/1314079561687896084/1317202319246495846/1317202319246495846
+=======
+	Move the Western Mountains out of the Underempire continent? Currently they are in the same continent as the main skaven underempire provinces, resulting in abnormaly high AE comrped to taking underway entrances  of other regions?
+>>>>>>> Stashed changes
 
 	Offer vassalization to dominions through the normal means?
 
@@ -57,6 +61,21 @@ Everybody!
 
 	I know its a minor detail but elves in Warhammer fantasy on avaradge live to 1000 years without the aid of magical means. (My guy is 985 so no problem for me but just something): https://discord.com/channels/1314079561687896084/1314656598051913818/1317188732939669657
 
+<<<<<<< Updated upstream
+=======
+	What Terrain should Haunted Marshes be? Rename something?
+
+	Event for the reciever of the orc/skaven city raiding mission
+
+	Change Chaos missions around estates
+
+	The only option for if you want to 'reform' a chaos warband of a chaos waste culture into a government instead of playing tribal till the everchosen arrives.
+
+	The norscan tribe gov-reform doesn't operate for Kurgan Culture, so is instantly suspended, however switching to the Tribes of Chaos would also mean you lose all your current territory and become migratory.
+
+	There are 5+ provinces called wheatlands in this area, in a region called Wheatlands.
+
+>>>>>>> Stashed changes
 	Could force raiding for AI allied with Players in a war, but that feels kinda cheaty. Maybe if they have a certain amount of trust?
 
 	Final Empire Centralization reform doesn't work!
@@ -81,7 +100,7 @@ Everybody!
 
 	Bret missions need better tooltips
 
-	Events for Skave nand orcs - bored war party - mneightbors get rebels (and you get opinion modifier), or you get rebels
+	Events for Skaven nand orcs - bored war party - mneightbors get rebels (and you get opinion modifier), or you get rebels
 
 	Grail Quest is all strange
 		I would suggest changing the nature of the grail quest, because every time i try it i just get another heir before they come back, meaning louen is effectively the only grail knight you're ever going to get, maybe change it into a series of events? 
@@ -195,25 +214,32 @@ Everybody!
 ######## MAP STUFF #######
 #############################
 
-	Dwarf Thoughts: https://discord.com/channels/1314079561687896084/1317306710368587787/1317306710368587787
+	Put on Dev Bounty Board
 
-	The provinces of Morcross and hauntcrag (Naggaroth) seem to be conected. I can also move there with my troops.
+		The Golden Plains are isolated on water, with a single unclear crossing connection, with a crossing connection to Varn Drazh lake, but go to the adjacent Wheatlands Farmlands, if you built a fort on that province you wouldn't be able to figure out where the connection to the capital is when attempting to siege it.
 
-	Move the Western Mountains out of the Underempire continent? Currently they are in the same continent as the main skaven underempire provinces, resulting in abnormaly high AE comrped to taking underway entrances  of other regions?
+		When i tried searching up Varn Drazh it drew me here. Based off the crossing info in the top left of the province screen. (i changed government to horde of chaos just to test id lose the land)
+			The actual pool of water golden plains is on, is called cursed hollow
 
-	Can build a boat in Ravola - It does finish building but is then invisible and can't move
+		4529 Has connections but is missing tunnels
 
-	It seems the issue is that the ships are going to explore "debug_province (Sea)". When exploring this sea tile the ships go to the inexistent Silent Gulf and come back.
+		The provinces of Morcross and hauntcrag (Naggaroth) seem to be conected. I can also move there with my troops.
 
-	Sharkfang Bay (1457) and Wailing Maw (1321) are connected
+		Can build a boat in Ravola - It does finish building but is then invisible and can't move
 
-	Sea Tiles "Northern Verge" and "Scorpions Coast" connected
+		It seems the issue is that the ships are going to explore "debug_province (Sea)". When exploring this sea tile the ships go to the inexistent Silent Gulf and come back: https://discord.com/channels/1314079561687896084/1315784539653541918/1316214657245122611
 
-	Lore wise there should be a conection between Sjoktraken to Kraka Ravnsvake via the underground tunnel called the Ungruvalk
+		Sharkfang Bay (1457) and Wailing Maw (1321) are connected
 
-	Northern Verge is connected to Shatterskulls, and it shouldn't be
+		Sea Tiles "Northern Verge" and "Scorpions Coast" connected
 
-	I think the River Reik would enjoy being navigable, at least until Altdorf, After all after Mariengburg´s secession, the 1st Imperial Fleet is housed in its docks.
+		Lore wise there should be a conection between Sjoktraken to Kraka Ravnsvake via the underground tunnel called the Ungruvalk
+
+		Northern Verge is connected to Shatterskulls, and it shouldn't be
+
+		I think the River Reik would enjoy being navigable, at least until Altdorf, After all after Mariengburg´s secession, the 1st Imperial Fleet is housed in its docks.
+
+		https://discord.com/channels/1314079561687896084/1314080249214140526/1317460933659983923
 
 #############################
 ######## GFX STUFF #######
